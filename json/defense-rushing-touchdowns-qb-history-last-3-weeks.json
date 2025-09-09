@@ -1,0 +1,98 @@
+[
+  {
+    "event_id": 401772831,
+    "week": 1,
+    "team": "49ers",
+    "opponent": "Seahawks",
+    "metric": 0,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772829,
+    "week": 1,
+    "team": "Bengals",
+    "opponent": "Browns",
+    "metric": 0,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772829,
+    "week": 1,
+    "team": "Browns",
+    "opponent": "Bengals",
+    "metric": 0,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772714,
+    "week": 1,
+    "team": "Chargers",
+    "opponent": "Chiefs",
+    "metric": 0,
+    "metric_allowed": 1
+  },
+  {
+    "event_id": 401772714,
+    "week": 1,
+    "team": "Chiefs",
+    "opponent": "Chargers",
+    "metric": 1,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772719,
+    "week": 1,
+    "team": "Colts",
+    "opponent": "Dolphins",
+    "metric": 2,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772719,
+    "week": 1,
+    "team": "Dolphins",
+    "opponent": "Colts",
+    "metric": 0,
+    "metric_allowed": 2
+  },
+  {
+    "event_id": 401772828,
+    "week": 1,
+    "team": "Jaguars",
+    "opponent": "Panthers",
+    "metric": 0,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772828,
+    "week": 1,
+    "team": "Panthers",
+    "opponent": "Jaguars",
+    "metric": 0,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772720,
+    "week": 1,
+    "team": "Patriots",
+    "opponent": "Raiders",
+    "metric": 0,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772720,
+    "week": 1,
+    "team": "Raiders",
+    "opponent": "Patriots",
+    "metric": 0,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772831,
+    "week": 1,
+    "team": "Seahawks",
+    "opponent": "49ers",
+    "metric": 0,
+    "metric_allowed": 0
+  }
+]

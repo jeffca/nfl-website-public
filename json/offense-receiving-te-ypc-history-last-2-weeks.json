@@ -1,0 +1,226 @@
+[
+  {
+    "event_id": 401772714,
+    "player_id": 4689988,
+    "player": "Jason Brownlee",
+    "opponent": "Chargers",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772832,
+    "player_id": 4686728,
+    "player": "Gunnar Helm",
+    "opponent": "Broncos",
+    "week": 1,
+    "metric": 16
+  },
+  {
+    "event_id": 401772714,
+    "player_id": 4683062,
+    "player": "Xavier Worthy",
+    "opponent": "Chargers",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772827,
+    "player_id": 4602667,
+    "player": "Jaylin Lane",
+    "opponent": "Giants",
+    "week": 1,
+    "metric": 11
+  },
+  {
+    "event_id": 401772918,
+    "player_id": 4573699,
+    "player": "Jackson Hawes",
+    "opponent": "Ravens",
+    "week": 1,
+    "metric": 29
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 4569618,
+    "player": "Garrett Wilson",
+    "opponent": "Steelers",
+    "week": 1,
+    "metric": 13.6
+  },
+  {
+    "event_id": 401772827,
+    "player_id": 4569587,
+    "player": "Wan'Dale Robinson",
+    "opponent": "Commanders",
+    "week": 1,
+    "metric": 9.2
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 4431459,
+    "player": "Tyler Warren",
+    "opponent": "Dolphins",
+    "week": 1,
+    "metric": 10.9
+  },
+  {
+    "event_id": 401772832,
+    "player_id": 4431268,
+    "player": "Chimere Dike",
+    "opponent": "Broncos",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772831,
+    "player_id": 4430878,
+    "player": "Jaxon Smith-Njigba",
+    "opponent": "49ers",
+    "week": 1,
+    "metric": 13.8
+  },
+  {
+    "event_id": 401772827,
+    "player_id": 4429148,
+    "player": "Theo Johnson",
+    "opponent": "Commanders",
+    "week": 1,
+    "metric": 5
+  },
+  {
+    "event_id": 401772720,
+    "player_id": 4429022,
+    "player": "Kayshon Boutte",
+    "opponent": "Raiders",
+    "week": 1,
+    "metric": 17.2
+  },
+  {
+    "event_id": 401772829,
+    "player_id": 4369863,
+    "player": "Cedric Tillman",
+    "opponent": "Bengals",
+    "week": 1,
+    "metric": 10.4
+  },
+  {
+    "event_id": 401772832,
+    "player_id": 4362617,
+    "player": "Bryce Oliver",
+    "opponent": "Broncos",
+    "week": 1,
+    "metric": 8
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 4361411,
+    "player": "Pat Freiermuth",
+    "opponent": "Jets",
+    "week": 1,
+    "metric": 9.3
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 4361372,
+    "player": "Jeremy Ruckert",
+    "opponent": "Steelers",
+    "week": 1,
+    "metric": 8
+  },
+  {
+    "event_id": 401772718,
+    "player_id": 4361370,
+    "player": "Chris Olave",
+    "opponent": "Cardinals",
+    "week": 1,
+    "metric": 7.7
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 4360569,
+    "player": "Jordan Mason",
+    "opponent": "Bears",
+    "week": 1,
+    "metric": 7
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 4258595,
+    "player": "Cole Kmet",
+    "opponent": "Vikings",
+    "week": 1,
+    "metric": 31
+  },
+  {
+    "event_id": 401772918,
+    "player_id": 4242433,
+    "player": "Joshua Palmer",
+    "opponent": "Ravens",
+    "week": 1,
+    "metric": 12.2
+  },
+  {
+    "event_id": 401772831,
+    "player_id": 4241474,
+    "player": "Brian Robinson Jr.",
+    "opponent": "Seahawks",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772918,
+    "player_id": 4038441,
+    "player": "Justice Hill",
+    "opponent": "Bills",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 3917914,
+    "player": "Olamide Zaccheaus",
+    "opponent": "Vikings",
+    "week": 1,
+    "metric": 10.5
+  },
+  {
+    "event_id": 401772918,
+    "player_id": 3915411,
+    "player": "Ty Johnson",
+    "opponent": "Ravens",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772828,
+    "player_id": 3135321,
+    "player": "Hunter Renfrow",
+    "opponent": "Jaguars",
+    "week": 1,
+    "metric": 5.5
+  },
+  {
+    "event_id": 401772827,
+    "player_id": 3068267,
+    "player": "Austin Ekeler",
+    "opponent": "Giants",
+    "week": 1,
+    "metric": 10.3
+  },
+  {
+    "event_id": 401772718,
+    "player_id": 3054850,
+    "player": "Alvin Kamara",
+    "opponent": "Cardinals",
+    "week": 1,
+    "metric": 6
+  },
+  {
+    "event_id": 401772720,
+    "player_id": 2991662,
+    "player": "Mack Hollins",
+    "opponent": "Raiders",
+    "week": 1,
+    "metric": 3
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "event_id": 401772828,
+    "player_id": 4685720,
+    "player": "Bryce Young",
+    "opponent": "Jacksonville Jaguars",
+    "week": 1,
+    "metric": 8
+  },
+  {
+    "event_id": 401772831,
+    "player_id": 4432734,
+    "player": "Jalen Milroe",
+    "opponent": "San Francisco 49ers",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 4431611,
+    "player": "Caleb Williams",
+    "opponent": "Minnesota Vikings",
+    "week": 1,
+    "metric": 9.7
+  },
+  {
+    "event_id": 401772720,
+    "player_id": 4431452,
+    "player": "Drake Maye",
+    "opponent": "Las Vegas Raiders",
+    "week": 1,
+    "metric": 2.8
+  },
+  {
+    "event_id": 401772718,
+    "player_id": 4426339,
+    "player": "Spencer Rattler",
+    "opponent": "Arizona Cardinals",
+    "week": 1,
+    "metric": 7.3
+  },
+  {
+    "event_id": 401772832,
+    "player_id": 4426338,
+    "player": "Bo Nix",
+    "opponent": "Tennessee Titans",
+    "week": 1,
+    "metric": 2.3
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 4362887,
+    "player": "Justin Fields",
+    "opponent": "Pittsburgh Steelers",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772831,
+    "player_id": 4361741,
+    "player": "Brock Purdy",
+    "opponent": "Seattle Seahawks",
+    "week": 1,
+    "metric": 3.4
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 4361259,
+    "player": "Zach Wilson",
+    "opponent": "Indianapolis Colts",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772828,
+    "player_id": 4360310,
+    "player": "Trevor Lawrence",
+    "opponent": "Carolina Panthers",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 4241479,
+    "player": "Tua Tagovailoa",
+    "opponent": "Indianapolis Colts",
+    "week": 1,
+    "metric": 7
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 3917792,
+    "player": "Daniel Jones",
+    "opponent": "Miami Dolphins",
+    "week": 1,
+    "metric": 3.7
+  },
+  {
+    "event_id": 401772829,
+    "player_id": 3915511,
+    "player": "Joe Burrow",
+    "opponent": "Cleveland Browns",
+    "week": 1,
+    "metric": 1.5
+  },
+  {
+    "event_id": 401772831,
+    "player_id": 3912547,
+    "player": "Sam Darnold",
+    "opponent": "San Francisco 49ers",
+    "week": 1,
+    "metric": 7
+  },
+  {
+    "event_id": 401772714,
+    "player_id": 3139477,
+    "player": "Patrick Mahomes",
+    "opponent": "Los Angeles Chargers",
+    "week": 1,
+    "metric": 9.5
+  },
+  {
+    "event_id": 401772827,
+    "player_id": 14881,
+    "player": "Russell Wilson",
+    "opponent": "Washington Commanders",
+    "week": 1,
+    "metric": 5.5
+  },
+  {
+    "event_id": 401772829,
+    "player_id": 11252,
+    "player": "Joe Flacco",
+    "opponent": "Cincinnati Bengals",
+    "week": 1,
+    "metric": 3
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "player": "Cedric Tillman",
+    "team": "Browns",
+    "opponent": "Ravens",
+    "metric": 1.0
+  },
+  {
+    "player": "Garrett Wilson",
+    "team": "Jets",
+    "opponent": "Bills",
+    "metric": 1.0
+  },
+  {
+    "player": "Alvin Kamara",
+    "team": "Saints",
+    "opponent": "49ers",
+    "metric": 0.0
+  },
+  {
+    "player": "Austin Ekeler",
+    "team": "Commanders",
+    "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Brian Robinson Jr.",
+    "team": "49ers",
+    "opponent": "Saints",
+    "metric": 0.0
+  },
+  {
+    "player": "Bryce Oliver",
+    "team": "Titans",
+    "opponent": "Rams",
+    "metric": 0.0
+  },
+  {
+    "player": "Chimere Dike",
+    "team": "Titans",
+    "opponent": "Rams",
+    "metric": 0.0
+  },
+  {
+    "player": "Chris Olave",
+    "team": "Saints",
+    "opponent": "49ers",
+    "metric": 0.0
+  },
+  {
+    "player": "Cole Kmet",
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric": 0.0
+  },
+  {
+    "player": "Gunnar Helm",
+    "team": "Titans",
+    "opponent": "Rams",
+    "metric": 0.0
+  },
+  {
+    "player": "Hunter Renfrow",
+    "team": "Panthers",
+    "opponent": "Cardinals",
+    "metric": 0.0
+  },
+  {
+    "player": "Jackson Hawes",
+    "team": "Bills",
+    "opponent": "Jets",
+    "metric": 0.0
+  },
+  {
+    "player": "Jason Brownlee",
+    "team": "Chiefs",
+    "opponent": "Eagles",
+    "metric": 0.0
+  },
+  {
+    "player": "Jaxon Smith-Njigba",
+    "team": "Seahawks",
+    "opponent": "Steelers",
+    "metric": 0.0
+  },
+  {
+    "player": "Jaylin Lane",
+    "team": "Commanders",
+    "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Jeremy Ruckert",
+    "team": "Jets",
+    "opponent": "Bills",
+    "metric": 0.0
+  },
+  {
+    "player": "Jordan Mason",
+    "team": "Vikings",
+    "opponent": "Falcons",
+    "metric": 0.0
+  },
+  {
+    "player": "Joshua Palmer",
+    "team": "Bills",
+    "opponent": "Jets",
+    "metric": 0.0
+  },
+  {
+    "player": "Justice Hill",
+    "team": "Ravens",
+    "opponent": "Browns",
+    "metric": 0.0
+  },
+  {
+    "player": "Kayshon Boutte",
+    "team": "Patriots",
+    "opponent": "Dolphins",
+    "metric": 0.0
+  },
+  {
+    "player": "Mack Hollins",
+    "team": "Patriots",
+    "opponent": "Dolphins",
+    "metric": 0.0
+  },
+  {
+    "player": "Olamide Zaccheaus",
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric": 0.0
+  },
+  {
+    "player": "Pat Freiermuth",
+    "team": "Steelers",
+    "opponent": "Seahawks",
+    "metric": 0.0
+  },
+  {
+    "player": "Theo Johnson",
+    "team": "Giants",
+    "opponent": "Cowboys",
+    "metric": 0.0
+  },
+  {
+    "player": "Ty Johnson",
+    "team": "Bills",
+    "opponent": "Jets",
+    "metric": 0.0
+  },
+  {
+    "player": "Tyler Warren",
+    "team": "Colts",
+    "opponent": "Broncos",
+    "metric": 0.0
+  },
+  {
+    "player": "Wan'Dale Robinson",
+    "team": "Giants",
+    "opponent": "Cowboys",
+    "metric": 0.0
+  },
+  {
+    "player": "Xavier Worthy",
+    "team": "Chiefs",
+    "opponent": "Eagles",
+    "metric": 0.0
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "event_id": 401772831,
+    "week": 1,
+    "team": "49ers",
+    "opponent": "Seahawks",
+    "metric": 1,
+    "metric_allowed": 9
+  },
+  {
+    "event_id": 401772810,
+    "week": 1,
+    "team": "Bears",
+    "opponent": "Vikings",
+    "metric": 5,
+    "metric_allowed": 1
+  },
+  {
+    "event_id": 401772918,
+    "week": 1,
+    "team": "Bills",
+    "opponent": "Ravens",
+    "metric": 6,
+    "metric_allowed": 1
+  },
+  {
+    "event_id": 401772714,
+    "week": 1,
+    "team": "Chargers",
+    "opponent": "Chiefs",
+    "metric": 6,
+    "metric_allowed": 0
+  },
+  {
+    "event_id": 401772714,
+    "week": 1,
+    "team": "Chiefs",
+    "opponent": "Chargers",
+    "metric": 0,
+    "metric_allowed": 6
+  },
+  {
+    "event_id": 401772827,
+    "week": 1,
+    "team": "Commanders",
+    "opponent": "Giants",
+    "metric": 4,
+    "metric_allowed": 7
+  },
+  {
+    "event_id": 401772827,
+    "week": 1,
+    "team": "Giants",
+    "opponent": "Commanders",
+    "metric": 7,
+    "metric_allowed": 4
+  },
+  {
+    "event_id": 401772721,
+    "week": 1,
+    "team": "Jets",
+    "opponent": "Steelers",
+    "metric": 9,
+    "metric_allowed": 3
+  },
+  {
+    "event_id": 401772720,
+    "week": 1,
+    "team": "Patriots",
+    "opponent": "Raiders",
+    "metric": 7,
+    "metric_allowed": 5
+  },
+  {
+    "event_id": 401772720,
+    "week": 1,
+    "team": "Raiders",
+    "opponent": "Patriots",
+    "metric": 5,
+    "metric_allowed": 7
+  },
+  {
+    "event_id": 401772918,
+    "week": 1,
+    "team": "Ravens",
+    "opponent": "Bills",
+    "metric": 1,
+    "metric_allowed": 6
+  },
+  {
+    "event_id": 401772831,
+    "week": 1,
+    "team": "Seahawks",
+    "opponent": "49ers",
+    "metric": 9,
+    "metric_allowed": 1
+  },
+  {
+    "event_id": 401772721,
+    "week": 1,
+    "team": "Steelers",
+    "opponent": "Jets",
+    "metric": 3,
+    "metric_allowed": 9
+  },
+  {
+    "event_id": 401772810,
+    "week": 1,
+    "team": "Vikings",
+    "opponent": "Bears",
+    "metric": 1,
+    "metric_allowed": 5
+  }
+]

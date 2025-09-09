@@ -1,0 +1,164 @@
+[
+  {
+    "player": "Dylan Sampson",
+    "team": "Browns",
+    "opponent": "Ravens",
+    "metric": 64.0
+  },
+  {
+    "player": "Breece Hall",
+    "team": "Jets",
+    "opponent": "Bills",
+    "metric": 38.0
+  },
+  {
+    "player": "Xavier Smith",
+    "team": "Rams",
+    "opponent": "Titans",
+    "metric": 36.0
+  },
+  {
+    "player": "Chuba Hubbard",
+    "team": "Panthers",
+    "opponent": "Cardinals",
+    "metric": 32.0
+  },
+  {
+    "player": "Jonathan Taylor",
+    "team": "Colts",
+    "opponent": "Broncos",
+    "metric": 27.0
+  },
+  {
+    "player": "TreVeyon Henderson",
+    "team": "Patriots",
+    "opponent": "Dolphins",
+    "metric": 24.0
+  },
+  {
+    "player": "Jaylen Warren",
+    "team": "Steelers",
+    "opponent": "Seahawks",
+    "metric": 22.0
+  },
+  {
+    "player": "Tyler Badie",
+    "team": "Broncos",
+    "opponent": "Colts",
+    "metric": 16.0
+  },
+  {
+    "player": "Blake Corum",
+    "team": "Rams",
+    "opponent": "Titans",
+    "metric": 14.0
+  },
+  {
+    "player": "Elic Ayomanor",
+    "team": "Titans",
+    "opponent": "Rams",
+    "metric": 13.0
+  },
+  {
+    "player": "Cam Skattebo",
+    "team": "Giants",
+    "opponent": "Cowboys",
+    "metric": 12.0
+  },
+  {
+    "player": "D'Andre Swift",
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric": 12.0
+  },
+  {
+    "player": "Marvin Mims Jr.",
+    "team": "Broncos",
+    "opponent": "Colts",
+    "metric": 12.0
+  },
+  {
+    "player": "Brian Thomas Jr.",
+    "team": "Jaguars",
+    "opponent": "Bengals",
+    "metric": 11.0
+  },
+  {
+    "player": "Tyrone Tracy Jr.",
+    "team": "Giants",
+    "opponent": "Cowboys",
+    "metric": 11.0
+  },
+  {
+    "player": "Kareem Hunt",
+    "team": "Chiefs",
+    "opponent": "Eagles",
+    "metric": 10.0
+  },
+  {
+    "player": "Adam Prentice",
+    "team": "Broncos",
+    "opponent": "Colts",
+    "metric": 4.0
+  },
+  {
+    "player": "Kenneth Gainwell",
+    "team": "Steelers",
+    "opponent": "Seahawks",
+    "metric": 4.0
+  },
+  {
+    "player": "Rico Dowdle",
+    "team": "Panthers",
+    "opponent": "Cardinals",
+    "metric": 4.0
+  },
+  {
+    "player": "Isiah Pacheco",
+    "team": "Chiefs",
+    "opponent": "Eagles",
+    "metric": 3.0
+  },
+  {
+    "player": "Antonio Gibson",
+    "team": "Patriots",
+    "opponent": "Dolphins",
+    "metric": 0.0
+  },
+  {
+    "player": "Jacory Croskey-Merritt",
+    "team": "Commanders",
+    "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Ollie Gordon II",
+    "team": "Dolphins",
+    "opponent": "Patriots",
+    "metric": -1.0
+  },
+  {
+    "player": "RJ Harvey",
+    "team": "Broncos",
+    "opponent": "Colts",
+    "metric": -1.0
+  },
+  {
+    "player": "Ray Davis",
+    "team": "Bills",
+    "opponent": "Jets",
+    "metric": -1.0
+  },
+  {
+    "player": "Luther Burden III",
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric": -3.0
+  },
+  {
+    "player": "Miles Sanders",
+    "team": "Cowboys",
+    "opponent": "Giants",
+    "metric": -3.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "player": "Aaron Jones Sr.",
+    "team": "Vikings",
+    "opponent": "Falcons",
+    "metric": 1.0
+  },
+  {
+    "player": "Bijan Robinson",
+    "team": "Falcons",
+    "opponent": "Vikings",
+    "metric": 1.0
+  },
+  {
+    "player": "De'Von Achane",
+    "team": "Dolphins",
+    "opponent": "Patriots",
+    "metric": 1.0
+  },
+  {
+    "player": "Hunter Long",
+    "team": "Jaguars",
+    "opponent": "Bengals",
+    "metric": 1.0
+  },
+  {
+    "player": "Isaac TeSlaa",
+    "team": "Lions",
+    "opponent": "Bears",
+    "metric": 1.0
+  },
+  {
+    "player": "Jake Tonges",
+    "team": "49ers",
+    "opponent": "Saints",
+    "metric": 1.0
+  },
+  {
+    "player": "James Conner",
+    "team": "Cardinals",
+    "opponent": "Panthers",
+    "metric": 1.0
+  },
+  {
+    "player": "Justin Jefferson",
+    "team": "Vikings",
+    "opponent": "Falcons",
+    "metric": 1.0
+  },
+  {
+    "player": "Michael Pittman Jr.",
+    "team": "Colts",
+    "opponent": "Broncos",
+    "metric": 1.0
+  },
+  {
+    "player": "Rome Odunze",
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric": 1.0
+  },
+  {
+    "player": "Travis Kelce",
+    "team": "Chiefs",
+    "opponent": "Eagles",
+    "metric": 1.0
+  },
+  {
+    "player": "Zay Flowers",
+    "team": "Ravens",
+    "opponent": "Browns",
+    "metric": 1.0
+  },
+  {
+    "player": "AJ Barner",
+    "team": "Seahawks",
+    "opponent": "Steelers",
+    "metric": 0.0
+  },
+  {
+    "player": "Adonai Mitchell",
+    "team": "Colts",
+    "opponent": "Broncos",
+    "metric": 0.0
+  },
+  {
+    "player": "Brenton Strange",
+    "team": "Jaguars",
+    "opponent": "Bengals",
+    "metric": 0.0
+  },
+  {
+    "player": "Chase Brown",
+    "team": "Bengals",
+    "opponent": "Jaguars",
+    "metric": 0.0
+  },
+  {
+    "player": "Chris Moore",
+    "team": "Commanders",
+    "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Christian McCaffrey",
+    "team": "49ers",
+    "opponent": "Saints",
+    "metric": 0.0
+  },
+  {
+    "player": "Colston Loveland",
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric": 0.0
+  },
+  {
+    "player": "DJ Moore",
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric": 0.0
+  },
+  {
+    "player": "David Montgomery",
+    "team": "Lions",
+    "opponent": "Bears",
+    "metric": 0.0
+  },
+  {
+    "player": "Dee Eskridge",
+    "team": "Dolphins",
+    "opponent": "Patriots",
+    "metric": 0.0
+  },
+  {
+    "player": "Deebo Samuel",
+    "team": "Commanders",
+    "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Derrick Henry",
+    "team": "Ravens",
+    "opponent": "Browns",
+    "metric": 0.0
+  },
+  {
+    "player": "Drew Sample",
+    "team": "Bengals",
+    "opponent": "Jaguars",
+    "metric": 0.0
+  },
+  {
+    "player": "Dyami Brown",
+    "team": "Jaguars",
+    "opponent": "Bengals",
+    "metric": 0.0
+  },
+  {
+    "player": "Elijah Arroyo",
+    "team": "Seahawks",
+    "opponent": "Steelers",
+    "metric": 0.0
+  },
+  {
+    "player": "Elijah Moore",
+    "team": "Bills",
+    "opponent": "Jets",
+    "metric": 0.0
+  },
+  {
+    "player": "Evan Engram",
+    "team": "Broncos",
+    "opponent": "Colts",
+    "metric": 0.0
+  },
+  {
+    "player": "Harold Fannin Jr.",
+    "team": "Browns",
+    "opponent": "Ravens",
+    "metric": 0.0
+  },
+  {
+    "player": "J.K. Dobbins",
+    "team": "Broncos",
+    "opponent": "Colts",
+    "metric": 0.0
+  },
+  {
+    "player": "Ja'Marr Chase",
+    "team": "Bengals",
+    "opponent": "Jaguars",
+    "metric": 0.0
+  },
+  {
+    "player": "Ja'Tavion Sanders",
+    "team": "Panthers",
+    "opponent": "Cardinals",
+    "metric": 0.0
+  },
+  {
+    "player": "Jahmyr Gibbs",
+    "team": "Lions",
+    "opponent": "Bears",
+    "metric": 0.0
+  },
+  {
+    "player": "Jalen Tolbert",
+    "team": "Cowboys",
+    "opponent": "Giants",
+    "metric": 0.0
+  },
+  {
+    "player": "Jamari Thrash",
+    "team": "Browns",
+    "opponent": "Ravens",
+    "metric": 0.0
+  },
+  {
+    "player": "James Cook",
+    "team": "Bills",
+    "opponent": "Jets",
+    "metric": 0.0
+  },
+  {
+    "player": "Jameson Williams",
+    "team": "Lions",
+    "opponent": "Bears",
+    "metric": 0.0
+  },
+  {
+    "player": "Javonte Williams",
+    "team": "Cowboys",
+    "opponent": "Giants",
+    "metric": 0.0
+  },
+  {
+    "player": "Jerome Ford",
+    "team": "Browns",
+    "opponent": "Ravens",
+    "metric": 0.0
+  }
+]

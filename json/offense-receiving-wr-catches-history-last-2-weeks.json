@@ -1,0 +1,322 @@
+[
+  {
+    "event_id": 401772722,
+    "player_id": 5123663,
+    "player": "Isaac TeSlaa",
+    "opponent": "Packers",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772829,
+    "player_id": 5083076,
+    "player": "Harold Fannin Jr.",
+    "opponent": "Bengals",
+    "week": 1,
+    "metric": 7
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 4808766,
+    "player": "Mason Taylor",
+    "opponent": "Steelers",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772828,
+    "player_id": 4685472,
+    "player": "Tetairoa McMillan",
+    "opponent": "Jaguars",
+    "week": 1,
+    "metric": 5
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 4597500,
+    "player": "Adonai Mitchell",
+    "opponent": "Dolphins",
+    "week": 1,
+    "metric": 2
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 4569603,
+    "player": "Malik Washington",
+    "opponent": "Colts",
+    "week": 1,
+    "metric": 2
+  },
+  {
+    "event_id": 401772828,
+    "player_id": 4431588,
+    "player": "Ja'Tavion Sanders",
+    "opponent": "Jaguars",
+    "week": 1,
+    "metric": 2
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 4431299,
+    "player": "Rome Odunze",
+    "opponent": "Vikings",
+    "week": 1,
+    "metric": 6
+  },
+  {
+    "event_id": 401772832,
+    "player_id": 4431280,
+    "player": "Troy Franklin",
+    "opponent": "Titans",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772830,
+    "player_id": 4430807,
+    "player": "Bijan Robinson",
+    "opponent": "Buccaneers",
+    "week": 1,
+    "metric": 6
+  },
+  {
+    "event_id": 401772828,
+    "player_id": 4430539,
+    "player": "Brenton Strange",
+    "opponent": "Panthers",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772722,
+    "player_id": 4429795,
+    "player": "Jahmyr Gibbs",
+    "opponent": "Packers",
+    "week": 1,
+    "metric": 10
+  },
+  {
+    "event_id": 401772918,
+    "player_id": 4429615,
+    "player": "Zay Flowers",
+    "opponent": "Bills",
+    "week": 1,
+    "metric": 7
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 4429160,
+    "player": "De'Von Achane",
+    "opponent": "Colts",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772831,
+    "player_id": 4428209,
+    "player": "Ricky Pearsall",
+    "opponent": "Seahawks",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772723,
+    "player_id": 4426515,
+    "player": "Puka Nacua",
+    "opponent": "Texans",
+    "week": 1,
+    "metric": 10
+  },
+  {
+    "event_id": 401772722,
+    "player_id": 4426388,
+    "player": "Jameson Williams",
+    "opponent": "Packers",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772918,
+    "player_id": 4379399,
+    "player": "James Cook",
+    "opponent": "Ravens",
+    "week": 1,
+    "metric": 5
+  },
+  {
+    "event_id": 401772714,
+    "player_id": 4362921,
+    "player": "Tyquan Thornton",
+    "opponent": "Chargers",
+    "week": 1,
+    "metric": 2
+  },
+  {
+    "event_id": 401772829,
+    "player_id": 4362628,
+    "player": "Ja'Marr Chase",
+    "opponent": "Browns",
+    "week": 1,
+    "metric": 2
+  },
+  {
+    "event_id": 401772828,
+    "player_id": 4361577,
+    "player": "Dyami Brown",
+    "opponent": "Panthers",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 4262921,
+    "player": "Justin Jefferson",
+    "opponent": "Bears",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772831,
+    "player_id": 4259147,
+    "player": "Jake Tonges",
+    "opponent": "Seahawks",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772828,
+    "player_id": 4239996,
+    "player": "Travis Etienne Jr.",
+    "opponent": "Panthers",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 4047422,
+    "player": "Tanner Conner",
+    "opponent": "Colts",
+    "week": 1,
+    "metric": 2
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 4035687,
+    "player": "Michael Pittman Jr.",
+    "opponent": "Dolphins",
+    "week": 1,
+    "metric": 6
+  },
+  {
+    "event_id": 401772722,
+    "player_id": 4035538,
+    "player": "David Montgomery",
+    "opponent": "Packers",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772718,
+    "player_id": 4032473,
+    "player": "Rashid Shaheed",
+    "opponent": "Cardinals",
+    "week": 1,
+    "metric": 6
+  },
+  {
+    "event_id": 401772510,
+    "player_id": 3929630,
+    "player": "Saquon Barkley",
+    "opponent": "Cowboys",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772832,
+    "player_id": 3916148,
+    "player": "Tony Pollard",
+    "opponent": "Broncos",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 3915416,
+    "player": "DJ Moore",
+    "opponent": "Vikings",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772510,
+    "player_id": 3676833,
+    "player": "KaVontae Turpin",
+    "opponent": "Eagles",
+    "week": 1,
+    "metric": 2
+  },
+  {
+    "event_id": 401772827,
+    "player_id": 3126486,
+    "player": "Deebo Samuel",
+    "opponent": "Giants",
+    "week": 1,
+    "metric": 7
+  },
+  {
+    "event_id": 401772714,
+    "player_id": 3120348,
+    "player": "JuJu Smith-Schuster",
+    "opponent": "Chargers",
+    "week": 1,
+    "metric": 5
+  },
+  {
+    "event_id": 401772831,
+    "player_id": 3117251,
+    "player": "Christian McCaffrey",
+    "opponent": "Seahawks",
+    "week": 1,
+    "metric": 9
+  },
+  {
+    "event_id": 401772832,
+    "player_id": 3051876,
+    "player": "Evan Engram",
+    "opponent": "Titans",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 3042519,
+    "player": "Aaron Jones Sr.",
+    "opponent": "Bears",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772719,
+    "player_id": 2998565,
+    "player": "Mo Alie-Cox",
+    "opponent": "Dolphins",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772827,
+    "player_id": 2576581,
+    "player": "Chris Moore",
+    "opponent": "Giants",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772714,
+    "player_id": 15847,
+    "player": "Travis Kelce",
+    "opponent": "Chargers",
+    "week": 1,
+    "metric": 2
+  }
+]
