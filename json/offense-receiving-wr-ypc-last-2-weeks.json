@@ -18,6 +18,18 @@
     "metric": 27.0
   },
   {
+    "player": "Tre Tucker",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 27.0
+  },
+  {
+    "player": "Tyler Conklin",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 25.0
+  },
+  {
     "player": "Travis Kelce",
     "team": "Chiefs",
     "opponent": "Eagles",
@@ -27,6 +39,18 @@
     "player": "DJ Moore",
     "team": "Bears",
     "opponent": "Lions",
+    "metric": 23.0
+  },
+  {
+    "player": "Dont'e Thornton Jr.",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 23.0
+  },
+  {
+    "player": "Jack Bech",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric": 23.0
   },
   {
@@ -63,6 +87,12 @@
     "player": "Dyami Brown",
     "team": "Jaguars",
     "opponent": "Bengals",
+    "metric": 17.0
+  },
+  {
+    "player": "Emeka Egbuka",
+    "team": "Buccaneers",
+    "opponent": "Texans",
     "metric": 17.0
   },
   {
@@ -120,6 +150,18 @@
     "metric": 13.0
   },
   {
+    "player": "Sterling Shepard",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 13.0
+  },
+  {
+    "player": "Jakobi Meyers",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 12.0
+  },
+  {
     "player": "James Cook",
     "team": "Bills",
     "opponent": "Jets",
@@ -129,6 +171,12 @@
     "player": "Kyle Williams",
     "team": "Patriots",
     "opponent": "Dolphins",
+    "metric": 12.0
+  },
+  {
+    "player": "Ladd McConkey",
+    "team": "Chargers",
+    "opponent": "Raiders",
     "metric": 12.0
   },
   {
@@ -156,6 +204,12 @@
     "metric": 11.0
   },
   {
+    "player": "Tre' Harris",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 11.0
+  },
+  {
     "player": "Troy Franklin",
     "team": "Broncos",
     "opponent": "Colts",
@@ -165,6 +219,12 @@
     "player": "Malik Washington",
     "team": "Dolphins",
     "opponent": "Patriots",
+    "metric": 10.0
+  },
+  {
+    "player": "Michael Mayer",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric": 10.0
   },
   {
@@ -178,65 +238,5 @@
     "team": "Dolphins",
     "opponent": "Patriots",
     "metric": 9.0
-  },
-  {
-    "player": "Harold Fannin Jr.",
-    "team": "Browns",
-    "opponent": "Ravens",
-    "metric": 9.0
-  },
-  {
-    "player": "KaVontae Turpin",
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "metric": 9.0
-  },
-  {
-    "player": "Christian McCaffrey",
-    "team": "49ers",
-    "opponent": "Saints",
-    "metric": 8.0
-  },
-  {
-    "player": "De'Von Achane",
-    "team": "Dolphins",
-    "opponent": "Patriots",
-    "metric": 7.0
-  },
-  {
-    "player": "Elijah Arroyo",
-    "team": "Seahawks",
-    "opponent": "Steelers",
-    "metric": 7.0
-  },
-  {
-    "player": "Evan Engram",
-    "team": "Broncos",
-    "opponent": "Colts",
-    "metric": 7.0
-  },
-  {
-    "player": "Colston Loveland",
-    "team": "Bears",
-    "opponent": "Lions",
-    "metric": 6.0
-  },
-  {
-    "player": "Hunter Long",
-    "team": "Jaguars",
-    "opponent": "Bengals",
-    "metric": 6.0
-  },
-  {
-    "player": "Jamari Thrash",
-    "team": "Browns",
-    "opponent": "Ravens",
-    "metric": 6.0
-  },
-  {
-    "player": "Jameson Williams",
-    "team": "Lions",
-    "opponent": "Bears",
-    "metric": 6.0
   }
 ]

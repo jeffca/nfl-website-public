@@ -14,6 +14,13 @@
     "position": "RB"
   },
   {
+    "player": "Ashton Jeanty",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 1.0,
+    "position": "RB"
+  },
+  {
     "player": "Braelon Allen",
     "team": "New York Jets",
     "opponent": "Bills",
@@ -84,6 +91,13 @@
     "position": "RB"
   },
   {
+    "player": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
     "player": "Bhayshul Tuten",
     "team": "Jacksonville Jaguars",
     "opponent": "Bengals",
@@ -101,6 +115,13 @@
     "player": "Breece Hall",
     "team": "New York Jets",
     "opponent": "Bills",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Bucky Irving",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
     "metric": 0.0,
     "position": "RB"
   },
@@ -238,6 +259,13 @@
     "position": "RB"
   },
   {
+    "player": "Nick Chubb",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
     "player": "Ollie Gordon II",
     "team": "Miami Dolphins",
     "opponent": "Patriots",
@@ -245,37 +273,9 @@
     "position": "RB"
   },
   {
-    "player": "RJ Harvey",
-    "team": "Denver Broncos",
-    "opponent": "Colts",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Rasheen Ali",
-    "team": "Baltimore Ravens",
-    "opponent": "Browns",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Ray Davis",
-    "team": "Buffalo Bills",
-    "opponent": "Jets",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Rico Dowdle",
-    "team": "Carolina Panthers",
-    "opponent": "Cardinals",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Tank Bigsby",
-    "team": "Jacksonville Jaguars",
-    "opponent": "Bengals",
+    "player": "Omarion Hampton",
+    "team": "Los Angeles Chargers",
+    "opponent": "Raiders",
     "metric": 0.0,
     "position": "RB"
   }

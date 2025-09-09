@@ -1,5 +1,12 @@
 [
   {
+    "player": "Ashton Jeanty",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 19.0,
+    "position": "RB"
+  },
+  {
     "player": "Breece Hall",
     "team": "New York Jets",
     "opponent": "Bills",
@@ -28,6 +35,20 @@
     "position": "RB"
   },
   {
+    "player": "Omarion Hampton",
+    "team": "Los Angeles Chargers",
+    "opponent": "Raiders",
+    "metric": 15.0,
+    "position": "RB"
+  },
+  {
+    "player": "Bucky Irving",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
+    "metric": 14.0,
+    "position": "RB"
+  },
+  {
     "player": "Jalen Hurts",
     "team": "Philadelphia Eagles",
     "opponent": "Chiefs",
@@ -39,6 +60,13 @@
     "team": "Buffalo Bills",
     "opponent": "Jets",
     "metric": 14.0,
+    "position": "RB"
+  },
+  {
+    "player": "Nick Chubb",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 13.0,
     "position": "RB"
   },
   {
@@ -116,6 +144,13 @@
     "team": "Denver Broncos",
     "opponent": "Colts",
     "metric": 6.0,
+    "position": "RB"
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
+    "metric": 5.0,
     "position": "RB"
   },
   {
@@ -203,6 +238,20 @@
     "position": "RB"
   },
   {
+    "player": "Woody Marks",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 3.0,
+    "position": "RB"
+  },
+  {
+    "player": "Zamir White",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 3.0,
+    "position": "RB"
+  },
+  {
     "player": "Cam Skattebo",
     "team": "New York Giants",
     "opponent": "Cowboys",
@@ -228,55 +277,6 @@
     "team": "Miami Dolphins",
     "opponent": "Patriots",
     "metric": 2.0,
-    "position": "RB"
-  },
-  {
-    "player": "Aaron Rodgers",
-    "team": "Pittsburgh Steelers",
-    "opponent": "Seahawks",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
-    "player": "Antonio Gibson",
-    "team": "New England Patriots",
-    "opponent": "Dolphins",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
-    "player": "Blake Corum",
-    "team": "Los Angeles Rams",
-    "opponent": "Titans",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
-    "player": "Brian Thomas Jr.",
-    "team": "Jacksonville Jaguars",
-    "opponent": "Bengals",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
-    "player": "Dak Prescott",
-    "team": "Dallas Cowboys",
-    "opponent": "Giants",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
-    "player": "Jared Goff",
-    "team": "Detroit Lions",
-    "opponent": "Bears",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
-    "player": "Kaleb Johnson",
-    "team": "Pittsburgh Steelers",
-    "opponent": "Seahawks",
-    "metric": 1.0,
     "position": "RB"
   }
 ]

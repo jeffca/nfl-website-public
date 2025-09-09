@@ -1,5 +1,21 @@
 [
   {
+    "event_id": 401772723,
+    "player_id": 4877706,
+    "player": "Jayden Higgins",
+    "opponent": "Rams",
+    "week": 1,
+    "metric": 3
+  },
+  {
+    "event_id": 401772830,
+    "player_id": 4697815,
+    "player": "Rachaad White",
+    "opponent": "Falcons",
+    "week": 1,
+    "metric": 1
+  },
+  {
     "event_id": 401772714,
     "player_id": 4689988,
     "player": "Jason Brownlee",
@@ -16,6 +32,14 @@
     "metric": 2
   },
   {
+    "event_id": 401772723,
+    "player_id": 4686422,
+    "player": "Xavier Hutchinson",
+    "opponent": "Rams",
+    "week": 1,
+    "metric": 2
+  },
+  {
     "event_id": 401772714,
     "player_id": 4683062,
     "player": "Xavier Worthy",
@@ -28,6 +52,14 @@
     "player_id": 4602667,
     "player": "Jaylin Lane",
     "opponent": "Giants",
+    "week": 1,
+    "metric": 2
+  },
+  {
+    "event_id": 401772723,
+    "player_id": 4586312,
+    "player": "Jaylin Noel",
+    "opponent": "Rams",
     "week": 1,
     "metric": 2
   },
@@ -52,6 +84,14 @@
     "player_id": 4569587,
     "player": "Wan'Dale Robinson",
     "opponent": "Commanders",
+    "week": 1,
+    "metric": 8
+  },
+  {
+    "event_id": 401772720,
+    "player_id": 4432665,
+    "player": "Brock Bowers",
+    "opponent": "Patriots",
     "week": 1,
     "metric": 8
   },
@@ -86,6 +126,14 @@
     "opponent": "Commanders",
     "week": 1,
     "metric": 3
+  },
+  {
+    "event_id": 401772714,
+    "player_id": 4429025,
+    "player": "Quentin Johnston",
+    "opponent": "Chiefs",
+    "week": 1,
+    "metric": 7
   },
   {
     "event_id": 401772720,
@@ -152,6 +200,14 @@
     "metric": 4
   },
   {
+    "event_id": 401772723,
+    "player_id": 4258173,
+    "player": "Nico Collins",
+    "opponent": "Rams",
+    "week": 1,
+    "metric": 5
+  },
+  {
     "event_id": 401772918,
     "player_id": 4242433,
     "player": "Joshua Palmer",
@@ -168,12 +224,28 @@
     "metric": 2
   },
   {
+    "event_id": 401772714,
+    "player_id": 4241457,
+    "player": "Najee Harris",
+    "opponent": "Chiefs",
+    "week": 1,
+    "metric": 1
+  },
+  {
     "event_id": 401772918,
     "player_id": 4038441,
     "player": "Justice Hill",
     "opponent": "Bills",
     "week": 1,
     "metric": 2
+  },
+  {
+    "event_id": 401772720,
+    "player_id": 3919510,
+    "player": "Alex Bachman",
+    "opponent": "Patriots",
+    "week": 1,
+    "metric": 1
   },
   {
     "event_id": 401772810,
@@ -198,6 +270,14 @@
     "opponent": "Jaguars",
     "week": 1,
     "metric": 6
+  },
+  {
+    "event_id": 401772723,
+    "player_id": 3118892,
+    "player": "Justin Watson",
+    "opponent": "Rams",
+    "week": 1,
+    "metric": 2
   },
   {
     "event_id": 401772827,

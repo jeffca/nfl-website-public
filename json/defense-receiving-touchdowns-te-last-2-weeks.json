@@ -40,6 +40,11 @@
     "metric_allowed": 0.0
   },
   {
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric_allowed": 0.0
+  },
+  {
     "team": "Commanders",
     "opponent": "Packers",
     "metric_allowed": 0.0
@@ -72,6 +77,11 @@
   {
     "team": "Patriots",
     "opponent": "Dolphins",
+    "metric_allowed": 0.0
+  },
+  {
+    "team": "Raiders",
+    "opponent": "Raiders",
     "metric_allowed": 0.0
   },
   {

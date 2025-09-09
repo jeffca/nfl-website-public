@@ -72,10 +72,28 @@
     "metric": 35.0
   },
   {
+    "player": "Geno Smith",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 34.0
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 34.0
+  },
+  {
     "player": "Dak Prescott",
     "team": "Cowboys",
     "opponent": "Giants",
     "metric": 34.0
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 32.0
   },
   {
     "player": "Trevor Lawrence",
@@ -118,6 +136,12 @@
     "team": "Titans",
     "opponent": "Rams",
     "metric": 28.0
+  },
+  {
+    "player": "C.J. Stroud",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 27.0
   },
   {
     "player": "Jalen Hurts",

@@ -75,6 +75,11 @@
     "metric_allowed": 12.0
   },
   {
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric_allowed": 10.0
+  },
+  {
     "team": "Panthers",
     "opponent": "Cardinals",
     "metric_allowed": 9.0
@@ -88,6 +93,16 @@
     "team": "Cardinals",
     "opponent": "Cardinals",
     "metric_allowed": 7.0
+  },
+  {
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric_allowed": 6.0
+  },
+  {
+    "team": "Raiders",
+    "opponent": "Raiders",
+    "metric_allowed": 6.0
   },
   {
     "team": "Titans",
@@ -112,6 +127,11 @@
   {
     "team": "Packers",
     "opponent": "Packers",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Texans",
+    "opponent": "Texans",
     "metric_allowed": 1.0
   }
 ]

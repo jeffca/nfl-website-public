@@ -1,5 +1,11 @@
 [
   {
+    "player": "Emeka Egbuka",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 2.0
+  },
+  {
     "player": "Aaron Jones Sr.",
     "team": "Vikings",
     "opponent": "Falcons",
@@ -66,6 +72,12 @@
     "metric": 1.0
   },
   {
+    "player": "Tre Tucker",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 1.0
+  },
+  {
     "player": "Zay Flowers",
     "team": "Ravens",
     "opponent": "Browns",
@@ -87,6 +99,12 @@
     "player": "Brenton Strange",
     "team": "Jaguars",
     "opponent": "Bengals",
+    "metric": 0.0
+  },
+  {
+    "player": "Cade Otton",
+    "team": "Buccaneers",
+    "opponent": "Texans",
     "metric": 0.0
   },
   {
@@ -120,6 +138,12 @@
     "metric": 0.0
   },
   {
+    "player": "Dameon Pierce",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0
+  },
+  {
     "player": "David Montgomery",
     "team": "Lions",
     "opponent": "Bears",
@@ -141,6 +165,12 @@
     "player": "Derrick Henry",
     "team": "Ravens",
     "opponent": "Browns",
+    "metric": 0.0
+  },
+  {
+    "player": "Dont'e Thornton Jr.",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric": 0.0
   },
   {
@@ -198,45 +228,15 @@
     "metric": 0.0
   },
   {
+    "player": "Jack Bech",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 0.0
+  },
+  {
     "player": "Jahmyr Gibbs",
     "team": "Lions",
     "opponent": "Bears",
-    "metric": 0.0
-  },
-  {
-    "player": "Jalen Tolbert",
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "metric": 0.0
-  },
-  {
-    "player": "Jamari Thrash",
-    "team": "Browns",
-    "opponent": "Ravens",
-    "metric": 0.0
-  },
-  {
-    "player": "James Cook",
-    "team": "Bills",
-    "opponent": "Jets",
-    "metric": 0.0
-  },
-  {
-    "player": "Jameson Williams",
-    "team": "Lions",
-    "opponent": "Bears",
-    "metric": 0.0
-  },
-  {
-    "player": "Javonte Williams",
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "metric": 0.0
-  },
-  {
-    "player": "Jerome Ford",
-    "team": "Browns",
-    "opponent": "Ravens",
     "metric": 0.0
   }
 ]

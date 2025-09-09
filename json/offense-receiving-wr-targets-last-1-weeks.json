@@ -24,9 +24,21 @@
     "metric": 10.0
   },
   {
+    "player": "Jakobi Meyers",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 10.0
+  },
+  {
     "player": "Harold Fannin Jr.",
     "team": "Browns",
     "opponent": "Ravens",
+    "metric": 9.0
+  },
+  {
+    "player": "Ladd McConkey",
+    "team": "Chargers",
+    "opponent": "Raiders",
     "metric": 9.0
   },
   {
@@ -76,6 +88,18 @@
     "team": "49ers",
     "opponent": "Saints",
     "metric": 7.0
+  },
+  {
+    "player": "Emeka Egbuka",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 6.0
+  },
+  {
+    "player": "Sterling Shepard",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 6.0
   },
   {
     "player": "Troy Franklin",
@@ -144,6 +168,12 @@
     "metric": 4.0
   },
   {
+    "player": "Dont'e Thornton Jr.",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 4.0
+  },
+  {
     "player": "Dyami Brown",
     "team": "Jaguars",
     "opponent": "Bengals",
@@ -159,6 +189,12 @@
     "player": "James Conner",
     "team": "Cardinals",
     "opponent": "Panthers",
+    "metric": 4.0
+  },
+  {
+    "player": "Michael Mayer",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric": 4.0
   },
   {
@@ -186,6 +222,12 @@
     "metric": 3.0
   },
   {
+    "player": "Cade Otton",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 3.0
+  },
+  {
     "player": "Chase Brown",
     "team": "Bengals",
     "opponent": "Jaguars",
@@ -196,47 +238,5 @@
     "team": "Panthers",
     "opponent": "Cardinals",
     "metric": 3.0
-  },
-  {
-    "player": "Jake Tonges",
-    "team": "49ers",
-    "opponent": "Saints",
-    "metric": 3.0
-  },
-  {
-    "player": "Javonte Williams",
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "metric": 3.0
-  },
-  {
-    "player": "Kenneth Walker III",
-    "team": "Seahawks",
-    "opponent": "Steelers",
-    "metric": 3.0
-  },
-  {
-    "player": "Travis Etienne Jr.",
-    "team": "Jaguars",
-    "opponent": "Bengals",
-    "metric": 3.0
-  },
-  {
-    "player": "AJ Barner",
-    "team": "Seahawks",
-    "opponent": "Steelers",
-    "metric": 2.0
-  },
-  {
-    "player": "Adonai Mitchell",
-    "team": "Colts",
-    "opponent": "Broncos",
-    "metric": 2.0
-  },
-  {
-    "player": "Colston Loveland",
-    "team": "Bears",
-    "opponent": "Lions",
-    "metric": 2.0
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "player": "Quentin Johnston",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 2.0
+  },
+  {
     "player": "Cedric Tillman",
     "team": "Browns",
     "opponent": "Ravens",
@@ -10,6 +16,12 @@
     "team": "Jets",
     "opponent": "Bills",
     "metric": 1.0
+  },
+  {
+    "player": "Alex Bachman",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 0.0
   },
   {
     "player": "Alvin Kamara",
@@ -27,6 +39,12 @@
     "player": "Brian Robinson Jr.",
     "team": "49ers",
     "opponent": "Saints",
+    "metric": 0.0
+  },
+  {
+    "player": "Brock Bowers",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric": 0.0
   },
   {
@@ -84,9 +102,21 @@
     "metric": 0.0
   },
   {
+    "player": "Jayden Higgins",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0
+  },
+  {
     "player": "Jaylin Lane",
     "team": "Commanders",
     "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Jaylin Noel",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 0.0
   },
   {
@@ -114,6 +144,12 @@
     "metric": 0.0
   },
   {
+    "player": "Justin Watson",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0
+  },
+  {
     "player": "Kayshon Boutte",
     "team": "Patriots",
     "opponent": "Dolphins",
@@ -126,6 +162,18 @@
     "metric": 0.0
   },
   {
+    "player": "Najee Harris",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 0.0
+  },
+  {
+    "player": "Nico Collins",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0
+  },
+  {
     "player": "Olamide Zaccheaus",
     "team": "Bears",
     "opponent": "Lions",
@@ -135,6 +183,12 @@
     "player": "Pat Freiermuth",
     "team": "Steelers",
     "opponent": "Seahawks",
+    "metric": 0.0
+  },
+  {
+    "player": "Rachaad White",
+    "team": "Buccaneers",
+    "opponent": "Texans",
     "metric": 0.0
   },
   {
@@ -159,6 +213,12 @@
     "player": "Wan'Dale Robinson",
     "team": "Giants",
     "opponent": "Cowboys",
+    "metric": 0.0
+  },
+  {
+    "player": "Xavier Hutchinson",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 0.0
   },
   {

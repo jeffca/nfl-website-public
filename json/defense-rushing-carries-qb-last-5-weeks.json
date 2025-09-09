@@ -25,6 +25,11 @@
     "metric_allowed": 7.0
   },
   {
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric_allowed": 6.0
+  },
+  {
     "team": "Vikings",
     "opponent": "Vikings",
     "metric_allowed": 6.0
@@ -52,6 +57,11 @@
   {
     "team": "Panthers",
     "opponent": "Cardinals",
+    "metric_allowed": 4.0
+  },
+  {
+    "team": "Raiders",
+    "opponent": "Raiders",
     "metric_allowed": 4.0
   },
   {

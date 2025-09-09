@@ -6,6 +6,18 @@
     "metric": 394.0
   },
   {
+    "player": "Geno Smith",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 362.0
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 318.0
+  },
+  {
     "player": "Michael Penix Jr.",
     "team": "Falcons",
     "opponent": "Vikings",
@@ -90,6 +102,12 @@
     "metric": 209.0
   },
   {
+    "player": "C.J. Stroud",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 188.0
+  },
+  {
     "player": "Dak Prescott",
     "team": "Cowboys",
     "opponent": "Giants",
@@ -112,6 +130,12 @@
     "team": "Giants",
     "opponent": "Cowboys",
     "metric": 168.0
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 167.0
   },
   {
     "player": "Kyler Murray",

@@ -8,6 +8,14 @@
     "metric": 8
   },
   {
+    "event_id": 401772720,
+    "player_id": 4890973,
+    "player": "Ashton Jeanty",
+    "opponent": "Patriots",
+    "week": 1,
+    "metric": 1
+  },
+  {
     "event_id": 401772832,
     "player_id": 4883647,
     "player": "Elic Ayomanor",
@@ -40,12 +48,28 @@
     "metric": 4
   },
   {
+    "event_id": 401772714,
+    "player_id": 4685382,
+    "player": "Omarion Hampton",
+    "opponent": "Chiefs",
+    "week": 1,
+    "metric": 6.5
+  },
+  {
     "event_id": 401772810,
     "player_id": 4685278,
     "player": "Luther Burden III",
     "opponent": "Vikings",
     "week": 1,
     "metric": -3
+  },
+  {
+    "event_id": 401772830,
+    "player_id": 4596448,
+    "player": "Bucky Irving",
+    "opponent": "Falcons",
+    "week": 1,
+    "metric": 2
   },
   {
     "event_id": 401772827,
@@ -206,6 +230,14 @@
     "opponent": "Titans",
     "week": 1,
     "metric": 4
+  },
+  {
+    "event_id": 401772723,
+    "player_id": 3128720,
+    "player": "Nick Chubb",
+    "opponent": "Rams",
+    "week": 1,
+    "metric": 0
   },
   {
     "event_id": 401772714,

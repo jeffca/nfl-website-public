@@ -6,6 +6,12 @@
     "metric": 124.0
   },
   {
+    "player": "Brock Bowers",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 103.0
+  },
+  {
     "player": "Kayshon Boutte",
     "team": "Patriots",
     "opponent": "Dolphins",
@@ -16,6 +22,12 @@
     "team": "Jets",
     "opponent": "Bills",
     "metric": 95.0
+  },
+  {
+    "player": "Quentin Johnston",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 79.0
   },
   {
     "player": "Tyler Warren",
@@ -54,6 +66,12 @@
     "metric": 42.0
   },
   {
+    "player": "Jayden Higgins",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 32.0
+  },
+  {
     "player": "Austin Ekeler",
     "team": "Commanders",
     "opponent": "Packers",
@@ -66,6 +84,12 @@
     "metric": 31.0
   },
   {
+    "player": "Xavier Hutchinson",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 30.0
+  },
+  {
     "player": "Jackson Hawes",
     "team": "Bills",
     "opponent": "Jets",
@@ -76,6 +100,18 @@
     "team": "Steelers",
     "opponent": "Seahawks",
     "metric": 28.0
+  },
+  {
+    "player": "Justin Watson",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 27.0
+  },
+  {
+    "player": "Nico Collins",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 25.0
   },
   {
     "player": "Gunnar Helm",
@@ -114,10 +150,22 @@
     "metric": 8.0
   },
   {
+    "player": "Jaylin Noel",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 7.0
+  },
+  {
     "player": "Jordan Mason",
     "team": "Vikings",
     "opponent": "Falcons",
     "metric": 7.0
+  },
+  {
+    "player": "Najee Harris",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 5.0
   },
   {
     "player": "Theo Johnson",
@@ -142,6 +190,18 @@
     "team": "Patriots",
     "opponent": "Dolphins",
     "metric": 3.0
+  },
+  {
+    "player": "Rachaad White",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 2.0
+  },
+  {
+    "player": "Alex Bachman",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 0.0
   },
   {
     "player": "Chimere Dike",

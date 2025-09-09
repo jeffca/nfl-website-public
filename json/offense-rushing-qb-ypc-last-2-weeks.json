@@ -42,10 +42,31 @@
     "position": "QB"
   },
   {
+    "player": "C.J. Stroud",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 6.4,
+    "position": "QB"
+  },
+  {
     "player": "Russell Wilson",
     "team": "New York Giants",
     "opponent": "Cowboys",
     "metric": 5.5,
+    "position": "QB"
+  },
+  {
+    "player": "Geno Smith",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 5.0,
+    "position": "QB"
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "opponent": "Raiders",
+    "metric": 4.6,
     "position": "QB"
   },
   {

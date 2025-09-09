@@ -1,13 +1,5 @@
 [
   {
-    "event_id": 401772722,
-    "player_id": 5123663,
-    "player": "Isaac TeSlaa",
-    "opponent": "Packers",
-    "week": 1,
-    "metric": 13
-  },
-  {
     "event_id": 401772829,
     "player_id": 5083076,
     "player": "Harold Fannin Jr.",
@@ -32,6 +24,22 @@
     "metric": 13.6
   },
   {
+    "event_id": 401772714,
+    "player_id": 4612826,
+    "player": "Ladd McConkey",
+    "opponent": "Chiefs",
+    "week": 1,
+    "metric": 12.3
+  },
+  {
+    "event_id": 401772720,
+    "player_id": 4603186,
+    "player": "Jack Bech",
+    "opponent": "Patriots",
+    "week": 1,
+    "metric": 23
+  },
+  {
     "event_id": 401772719,
     "player_id": 4597500,
     "player": "Adonai Mitchell",
@@ -40,12 +48,20 @@
     "metric": 10.5
   },
   {
-    "event_id": 401772719,
-    "player_id": 4569603,
-    "player": "Malik Washington",
-    "opponent": "Colts",
+    "event_id": 401772830,
+    "player_id": 4567750,
+    "player": "Emeka Egbuka",
+    "opponent": "Falcons",
     "week": 1,
-    "metric": 10
+    "metric": 16.8
+  },
+  {
+    "event_id": 401772720,
+    "player_id": 4432775,
+    "player": "Dont'e Thornton Jr.",
+    "opponent": "Patriots",
+    "week": 1,
+    "metric": 22.5
   },
   {
     "event_id": 401772828,
@@ -104,12 +120,20 @@
     "metric": 20.4
   },
   {
-    "event_id": 401772719,
-    "player_id": 4429160,
-    "player": "De'Von Achane",
-    "opponent": "Colts",
+    "event_id": 401772720,
+    "player_id": 4429086,
+    "player": "Michael Mayer",
+    "opponent": "Patriots",
     "week": 1,
-    "metric": 6.7
+    "metric": 9.5
+  },
+  {
+    "event_id": 401772720,
+    "player_id": 4428718,
+    "player": "Tre Tucker",
+    "opponent": "Patriots",
+    "week": 1,
+    "metric": 27
   },
   {
     "event_id": 401772831,
@@ -176,44 +200,12 @@
     "metric": 11
   },
   {
-    "event_id": 401772831,
-    "player_id": 4259147,
-    "player": "Jake Tonges",
-    "opponent": "Seahawks",
-    "week": 1,
-    "metric": 5
-  },
-  {
-    "event_id": 401772828,
-    "player_id": 4239996,
-    "player": "Travis Etienne Jr.",
-    "opponent": "Panthers",
-    "week": 1,
-    "metric": 4.3
-  },
-  {
-    "event_id": 401772719,
-    "player_id": 4047422,
-    "player": "Tanner Conner",
-    "opponent": "Colts",
-    "week": 1,
-    "metric": 10
-  },
-  {
     "event_id": 401772719,
     "player_id": 4035687,
     "player": "Michael Pittman Jr.",
     "opponent": "Dolphins",
     "week": 1,
     "metric": 13.3
-  },
-  {
-    "event_id": 401772722,
-    "player_id": 4035538,
-    "player": "David Montgomery",
-    "opponent": "Packers",
-    "week": 1,
-    "metric": 4.5
   },
   {
     "event_id": 401772718,
@@ -232,6 +224,14 @@
     "metric": 6
   },
   {
+    "event_id": 401772720,
+    "player_id": 3916433,
+    "player": "Jakobi Meyers",
+    "opponent": "Patriots",
+    "week": 1,
+    "metric": 12.1
+  },
+  {
     "event_id": 401772832,
     "player_id": 3916148,
     "player": "Tony Pollard",
@@ -240,20 +240,20 @@
     "metric": 29
   },
   {
+    "event_id": 401772714,
+    "player_id": 3915486,
+    "player": "Tyler Conklin",
+    "opponent": "Chiefs",
+    "week": 1,
+    "metric": 25
+  },
+  {
     "event_id": 401772810,
     "player_id": 3915416,
     "player": "DJ Moore",
     "opponent": "Vikings",
     "week": 1,
     "metric": 22.7
-  },
-  {
-    "event_id": 401772510,
-    "player_id": 3676833,
-    "player": "KaVontae Turpin",
-    "opponent": "Eagles",
-    "week": 1,
-    "metric": 9
   },
   {
     "event_id": 401772827,
@@ -296,12 +296,12 @@
     "metric": 14.7
   },
   {
-    "event_id": 401772719,
-    "player_id": 2998565,
-    "player": "Mo Alie-Cox",
-    "opponent": "Dolphins",
+    "event_id": 401772830,
+    "player_id": 2976592,
+    "player": "Sterling Shepard",
+    "opponent": "Falcons",
     "week": 1,
-    "metric": 20
+    "metric": 13
   },
   {
     "event_id": 401772827,

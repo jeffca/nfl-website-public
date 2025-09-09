@@ -28,6 +28,13 @@
     "position": "QB"
   },
   {
+    "player": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "opponent": "Raiders",
+    "metric": 7.0,
+    "position": "QB"
+  },
+  {
     "player": "Caleb Williams",
     "team": "Chicago Bears",
     "opponent": "Lions",
@@ -56,6 +63,13 @@
     "position": "QB"
   },
   {
+    "player": "C.J. Stroud",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 5.0,
+    "position": "QB"
+  },
+  {
     "player": "Drake Maye",
     "team": "New England Patriots",
     "opponent": "Dolphins",
@@ -74,6 +88,13 @@
     "team": "Jacksonville Jaguars",
     "opponent": "Bengals",
     "metric": 4.0,
+    "position": "QB"
+  },
+  {
+    "player": "Geno Smith",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 2.0,
     "position": "QB"
   },
   {

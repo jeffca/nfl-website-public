@@ -48,6 +48,18 @@
     "metric": 25.0
   },
   {
+    "player": "Justin Herbert",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 25.0
+  },
+  {
+    "player": "Geno Smith",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 24.0
+  },
+  {
     "player": "Patrick Mahomes",
     "team": "Chiefs",
     "opponent": "Eagles",
@@ -90,6 +102,12 @@
     "metric": 21.0
   },
   {
+    "player": "C.J. Stroud",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 19.0
+  },
+  {
     "player": "Jalen Hurts",
     "team": "Eagles",
     "opponent": "Chiefs",
@@ -112,6 +130,12 @@
     "team": "Panthers",
     "opponent": "Cardinals",
     "metric": 18.0
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 17.0
   },
   {
     "player": "Russell Wilson",

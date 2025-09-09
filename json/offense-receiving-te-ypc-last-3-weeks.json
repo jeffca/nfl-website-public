@@ -12,6 +12,12 @@
     "metric": 29.0
   },
   {
+    "player": "Brock Bowers",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 21.0
+  },
+  {
     "player": "Kayshon Boutte",
     "team": "Patriots",
     "opponent": "Dolphins",
@@ -24,6 +30,24 @@
     "metric": 16.0
   },
   {
+    "player": "Jayden Higgins",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 16.0
+  },
+  {
+    "player": "Quentin Johnston",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 16.0
+  },
+  {
+    "player": "Xavier Hutchinson",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 15.0
+  },
+  {
     "player": "Garrett Wilson",
     "team": "Jets",
     "opponent": "Bills",
@@ -33,6 +57,12 @@
     "player": "Jaxon Smith-Njigba",
     "team": "Seahawks",
     "opponent": "Steelers",
+    "metric": 14.0
+  },
+  {
+    "player": "Justin Watson",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 14.0
   },
   {
@@ -102,6 +132,18 @@
     "metric": 8.0
   },
   {
+    "player": "Nico Collins",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 8.0
+  },
+  {
+    "player": "Jaylin Noel",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 7.0
+  },
+  {
     "player": "Jordan Mason",
     "team": "Vikings",
     "opponent": "Falcons",
@@ -118,6 +160,12 @@
     "team": "Panthers",
     "opponent": "Cardinals",
     "metric": 6.0
+  },
+  {
+    "player": "Najee Harris",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 5.0
   },
   {
     "player": "Theo Johnson",
@@ -142,6 +190,18 @@
     "team": "Patriots",
     "opponent": "Dolphins",
     "metric": 3.0
+  },
+  {
+    "player": "Rachaad White",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 2.0
+  },
+  {
+    "player": "Alex Bachman",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 0.0
   },
   {
     "player": "Chimere Dike",

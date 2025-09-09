@@ -8,6 +8,14 @@
     "metric": 2.4
   },
   {
+    "event_id": 401772720,
+    "player_id": 4890973,
+    "player": "Ashton Jeanty",
+    "opponent": "New England Patriots",
+    "week": 1,
+    "metric": 2
+  },
+  {
     "event_id": 401772828,
     "player_id": 4882093,
     "player": "Bhayshul Tuten",
@@ -40,20 +48,20 @@
     "metric": 5
   },
   {
+    "event_id": 401772714,
+    "player_id": 4685382,
+    "player": "Omarion Hampton",
+    "opponent": "Kansas City Chiefs",
+    "week": 1,
+    "metric": 3.2
+  },
+  {
     "event_id": 401772828,
     "player_id": 4685350,
     "player": "Trevor Etienne",
     "opponent": "Jacksonville Jaguars",
     "week": 1,
     "metric": 4
-  },
-  {
-    "event_id": 401772721,
-    "player_id": 4685247,
-    "player": "Braelon Allen",
-    "opponent": "Pittsburgh Steelers",
-    "week": 1,
-    "metric": 1.5
   },
   {
     "event_id": 401772718,
@@ -64,20 +72,20 @@
     "metric": 4.5
   },
   {
-    "event_id": 401772829,
-    "player_id": 4601080,
-    "player": "Raheim Sanders",
-    "opponent": "Cincinnati Bengals",
-    "week": 1,
-    "metric": 1
-  },
-  {
     "event_id": 401772718,
     "player_id": 4599739,
     "player": "Kendre Miller",
     "opponent": "Arizona Cardinals",
     "week": 1,
     "metric": 4.8
+  },
+  {
+    "event_id": 401772830,
+    "player_id": 4596448,
+    "player": "Bucky Irving",
+    "opponent": "Atlanta Falcons",
+    "week": 1,
+    "metric": 2.6
   },
   {
     "event_id": 401772827,
@@ -120,22 +128,6 @@
     "metric": 5.4
   },
   {
-    "event_id": 401772918,
-    "player_id": 4429501,
-    "player": "Ray Davis",
-    "opponent": "Baltimore Ravens",
-    "week": 1,
-    "metric": 2
-  },
-  {
-    "event_id": 401772723,
-    "player_id": 4429096,
-    "player": "Blake Corum",
-    "opponent": "Houston Texans",
-    "week": 1,
-    "metric": 2
-  },
-  {
     "event_id": 401772828,
     "player_id": 4429013,
     "player": "Tank Bigsby",
@@ -168,12 +160,12 @@
     "metric": 2.7
   },
   {
-    "event_id": 401772832,
-    "player_id": 4367567,
-    "player": "Julius Chestnut",
-    "opponent": "Denver Broncos",
+    "event_id": 401772720,
+    "player_id": 4361777,
+    "player": "Zamir White",
+    "opponent": "New England Patriots",
     "week": 1,
-    "metric": 1
+    "metric": 2.7
   },
   {
     "event_id": 401772714,
@@ -288,6 +280,14 @@
     "metric": 11.7
   },
   {
+    "event_id": 401772723,
+    "player_id": 3128720,
+    "player": "Nick Chubb",
+    "opponent": "Los Angeles Rams",
+    "week": 1,
+    "metric": 4.6
+  },
+  {
     "event_id": 401772827,
     "player_id": 3127586,
     "player": "Jeremy McNichols",
@@ -304,12 +304,12 @@
     "metric": 3.2
   },
   {
-    "event_id": 401772722,
-    "player_id": 3046779,
-    "player": "Jared Goff",
-    "opponent": "Green Bay Packers",
+    "event_id": 401772830,
+    "player_id": 3052587,
+    "player": "Baker Mayfield",
+    "opponent": "Atlanta Falcons",
     "week": 1,
-    "metric": -1
+    "metric": 7.8
   },
   {
     "event_id": 401772510,

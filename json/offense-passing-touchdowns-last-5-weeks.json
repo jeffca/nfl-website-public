@@ -6,6 +6,18 @@
     "metric": 4.0
   },
   {
+    "player": "Baker Mayfield",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 3.0
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 3.0
+  },
+  {
     "player": "Brock Purdy",
     "team": "49ers",
     "opponent": "Saints",
@@ -63,6 +75,12 @@
     "player": "Drake Maye",
     "team": "Patriots",
     "opponent": "Dolphins",
+    "metric": 1.0
+  },
+  {
+    "player": "Geno Smith",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric": 1.0
   },
   {
@@ -124,6 +142,12 @@
     "team": "Dolphins",
     "opponent": "Patriots",
     "metric": 1.0
+  },
+  {
+    "player": "C.J. Stroud",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0
   },
   {
     "player": "Cam Ward",

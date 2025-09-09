@@ -30,6 +30,12 @@
     "metric": 9.0
   },
   {
+    "player": "Brock Bowers",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 8.0
+  },
+  {
     "player": "Cedric Tillman",
     "team": "Browns",
     "opponent": "Ravens",
@@ -54,10 +60,22 @@
     "metric": 7.0
   },
   {
+    "player": "Quentin Johnston",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 7.0
+  },
+  {
     "player": "Hunter Renfrow",
     "team": "Panthers",
     "opponent": "Cardinals",
     "metric": 6.0
+  },
+  {
+    "player": "Nico Collins",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 5.0
   },
   {
     "player": "Cole Kmet",
@@ -69,6 +87,12 @@
     "player": "Austin Ekeler",
     "team": "Commanders",
     "opponent": "Packers",
+    "metric": 3.0
+  },
+  {
+    "player": "Jayden Higgins",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 3.0
   },
   {
@@ -108,6 +132,12 @@
     "metric": 2.0
   },
   {
+    "player": "Jaylin Noel",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 2.0
+  },
+  {
     "player": "Jeremy Ruckert",
     "team": "Jets",
     "opponent": "Bills",
@@ -117,6 +147,12 @@
     "player": "Justice Hill",
     "team": "Ravens",
     "opponent": "Browns",
+    "metric": 2.0
+  },
+  {
+    "player": "Justin Watson",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 2.0
   },
   {
@@ -130,6 +166,18 @@
     "team": "Bills",
     "opponent": "Jets",
     "metric": 2.0
+  },
+  {
+    "player": "Xavier Hutchinson",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 2.0
+  },
+  {
+    "player": "Alex Bachman",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 1.0
   },
   {
     "player": "Bryce Oliver",
@@ -159,6 +207,18 @@
     "player": "Jordan Mason",
     "team": "Vikings",
     "opponent": "Falcons",
+    "metric": 1.0
+  },
+  {
+    "player": "Najee Harris",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 1.0
+  },
+  {
+    "player": "Rachaad White",
+    "team": "Buccaneers",
+    "opponent": "Texans",
     "metric": 1.0
   },
   {

@@ -15,6 +15,11 @@
     "metric_allowed": 111.0
   },
   {
+    "team": "Raiders",
+    "opponent": "Raiders",
+    "metric_allowed": 106.0
+  },
+  {
     "team": "Patriots",
     "opponent": "Dolphins",
     "metric_allowed": 103.0
@@ -93,5 +98,10 @@
     "team": "Falcons",
     "opponent": "Vikings",
     "metric_allowed": 2.0
+  },
+  {
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric_allowed": 0.0
   }
 ]

@@ -15,6 +15,16 @@
     "metric_allowed": 31.0
   },
   {
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric_allowed": 30.0
+  },
+  {
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric_allowed": 27.0
+  },
+  {
     "team": "Cardinals",
     "opponent": "Panthers",
     "metric_allowed": 27.0
@@ -33,6 +43,11 @@
     "team": "Titans",
     "opponent": "Rams",
     "metric_allowed": 25.0
+  },
+  {
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric_allowed": 24.0
   },
   {
     "team": "Patriots",
@@ -57,6 +72,11 @@
   {
     "team": "Saints",
     "opponent": "49ers",
+    "metric_allowed": 21.0
+  },
+  {
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric_allowed": 21.0
   },
   {

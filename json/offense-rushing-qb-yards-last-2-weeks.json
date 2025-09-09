@@ -35,6 +35,20 @@
     "position": "QB"
   },
   {
+    "player": "C.J. Stroud",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 32.0,
+    "position": "QB"
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "opponent": "Raiders",
+    "metric": 32.0,
+    "position": "QB"
+  },
+  {
     "player": "Spencer Rattler",
     "team": "New Orleans Saints",
     "opponent": "49ers",
@@ -81,6 +95,13 @@
     "team": "New England Patriots",
     "opponent": "Dolphins",
     "metric": 11.0,
+    "position": "QB"
+  },
+  {
+    "player": "Geno Smith",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 10.0,
     "position": "QB"
   },
   {

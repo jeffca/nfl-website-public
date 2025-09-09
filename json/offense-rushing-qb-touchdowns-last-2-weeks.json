@@ -49,9 +49,23 @@
     "position": "QB"
   },
   {
+    "player": "C.J. Stroud",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
     "player": "Drake Maye",
     "team": "New England Patriots",
     "opponent": "Dolphins",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Geno Smith",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
     "metric": 0.0,
     "position": "QB"
   },
@@ -73,6 +87,13 @@
     "player": "Joe Flacco",
     "team": "Cleveland Browns",
     "opponent": "Ravens",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "opponent": "Raiders",
     "metric": 0.0,
     "position": "QB"
   },

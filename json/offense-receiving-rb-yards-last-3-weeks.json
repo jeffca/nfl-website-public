@@ -60,6 +60,12 @@
     "metric": 13.0
   },
   {
+    "player": "Omarion Hampton",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 13.0
+  },
+  {
     "player": "Cam Skattebo",
     "team": "Giants",
     "opponent": "Cowboys",
@@ -96,6 +102,12 @@
     "metric": 10.0
   },
   {
+    "player": "Bucky Irving",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 8.0
+  },
+  {
     "player": "Adam Prentice",
     "team": "Broncos",
     "opponent": "Colts",
@@ -120,6 +132,12 @@
     "metric": 3.0
   },
   {
+    "player": "Ashton Jeanty",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 2.0
+  },
+  {
     "player": "Antonio Gibson",
     "team": "Patriots",
     "opponent": "Dolphins",
@@ -129,6 +147,12 @@
     "player": "Jacory Croskey-Merritt",
     "team": "Commanders",
     "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Nick Chubb",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 0.0
   },
   {

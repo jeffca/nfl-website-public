@@ -24,6 +24,12 @@
     "metric": 100.0
   },
   {
+    "player": "Jakobi Meyers",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 97.0
+  },
+  {
     "player": "Michael Pittman Jr.",
     "team": "Colts",
     "opponent": "Broncos",
@@ -34,6 +40,12 @@
     "team": "Commanders",
     "opponent": "Packers",
     "metric": 77.0
+  },
+  {
+    "player": "Ladd McConkey",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 74.0
   },
   {
     "player": "Christian McCaffrey",
@@ -52,6 +64,12 @@
     "team": "Panthers",
     "opponent": "Cardinals",
     "metric": 68.0
+  },
+  {
+    "player": "Emeka Egbuka",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 67.0
   },
   {
     "player": "Harold Fannin Jr.",
@@ -78,16 +96,34 @@
     "metric": 55.0
   },
   {
+    "player": "Tre Tucker",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 54.0
+  },
+  {
     "player": "Dyami Brown",
     "team": "Jaguars",
     "opponent": "Bengals",
     "metric": 52.0
   },
   {
+    "player": "Tyler Conklin",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 50.0
+  },
+  {
     "player": "Travis Kelce",
     "team": "Chiefs",
     "opponent": "Eagles",
     "metric": 47.0
+  },
+  {
+    "player": "Dont'e Thornton Jr.",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 45.0
   },
   {
     "player": "Aaron Jones Sr.",
@@ -112,6 +148,18 @@
     "team": "Chiefs",
     "opponent": "Eagles",
     "metric": 41.0
+  },
+  {
+    "player": "Sterling Shepard",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 39.0
+  },
+  {
+    "player": "Michael Mayer",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 38.0
   },
   {
     "player": "Rome Odunze",
@@ -162,6 +210,12 @@
     "metric": 24.0
   },
   {
+    "player": "Jack Bech",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 23.0
+  },
+  {
     "player": "Jameson Williams",
     "team": "Lions",
     "opponent": "Bears",
@@ -184,59 +238,5 @@
     "team": "Dolphins",
     "opponent": "Patriots",
     "metric": 20.0
-  },
-  {
-    "player": "Malik Washington",
-    "team": "Dolphins",
-    "opponent": "Patriots",
-    "metric": 20.0
-  },
-  {
-    "player": "Mason Taylor",
-    "team": "Jets",
-    "opponent": "Bills",
-    "metric": 20.0
-  },
-  {
-    "player": "Mo Alie-Cox",
-    "team": "Colts",
-    "opponent": "Broncos",
-    "metric": 20.0
-  },
-  {
-    "player": "Tanner Conner",
-    "team": "Dolphins",
-    "opponent": "Patriots",
-    "metric": 20.0
-  },
-  {
-    "player": "David Montgomery",
-    "team": "Lions",
-    "opponent": "Bears",
-    "metric": 18.0
-  },
-  {
-    "player": "KaVontae Turpin",
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "metric": 18.0
-  },
-  {
-    "player": "Jake Tonges",
-    "team": "49ers",
-    "opponent": "Saints",
-    "metric": 15.0
-  },
-  {
-    "player": "Derrick Henry",
-    "team": "Ravens",
-    "opponent": "Browns",
-    "metric": 13.0
-  },
-  {
-    "player": "Isaac TeSlaa",
-    "team": "Lions",
-    "opponent": "Bears",
-    "metric": 13.0
   }
 ]

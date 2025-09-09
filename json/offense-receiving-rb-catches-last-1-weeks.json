@@ -12,6 +12,12 @@
     "metric": 6.0
   },
   {
+    "player": "Bucky Irving",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 4.0
+  },
+  {
     "player": "Chuba Hubbard",
     "team": "Panthers",
     "opponent": "Cardinals",
@@ -40,6 +46,12 @@
     "team": "Broncos",
     "opponent": "Colts",
     "metric": 3.0
+  },
+  {
+    "player": "Ashton Jeanty",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 2.0
   },
   {
     "player": "Breece Hall",
@@ -75,6 +87,12 @@
     "player": "Kareem Hunt",
     "team": "Chiefs",
     "opponent": "Eagles",
+    "metric": 2.0
+  },
+  {
+    "player": "Omarion Hampton",
+    "team": "Chargers",
+    "opponent": "Raiders",
     "metric": 2.0
   },
   {
@@ -159,6 +177,12 @@
     "player": "Jacory Croskey-Merritt",
     "team": "Commanders",
     "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Nick Chubb",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 0.0
   }
 ]

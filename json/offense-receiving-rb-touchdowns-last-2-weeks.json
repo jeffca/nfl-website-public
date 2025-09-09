@@ -1,5 +1,11 @@
 [
   {
+    "player": "Bucky Irving",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 1.0
+  },
+  {
     "player": "Chuba Hubbard",
     "team": "Panthers",
     "opponent": "Cardinals",
@@ -21,6 +27,12 @@
     "player": "Antonio Gibson",
     "team": "Patriots",
     "opponent": "Dolphins",
+    "metric": 0.0
+  },
+  {
+    "player": "Ashton Jeanty",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric": 0.0
   },
   {
@@ -114,9 +126,21 @@
     "metric": 0.0
   },
   {
+    "player": "Nick Chubb",
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0
+  },
+  {
     "player": "Ollie Gordon II",
     "team": "Dolphins",
     "opponent": "Patriots",
+    "metric": 0.0
+  },
+  {
+    "player": "Omarion Hampton",
+    "team": "Chargers",
+    "opponent": "Raiders",
     "metric": 0.0
   },
   {

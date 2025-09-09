@@ -30,6 +30,11 @@
     "metric_allowed": 7.0
   },
   {
+    "team": "Raiders",
+    "opponent": "Raiders",
+    "metric_allowed": 7.0
+  },
+  {
     "team": "Chiefs",
     "opponent": "Chiefs",
     "metric_allowed": 6.0
@@ -93,5 +98,10 @@
     "team": "Seahawks",
     "opponent": "Steelers",
     "metric_allowed": 1.0
+  },
+  {
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric_allowed": 0.0
   }
 ]

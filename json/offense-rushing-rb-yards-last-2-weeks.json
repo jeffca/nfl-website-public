@@ -42,6 +42,13 @@
     "position": "RB"
   },
   {
+    "player": "Nick Chubb",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 60.0,
+    "position": "RB"
+  },
+  {
     "player": "Chuba Hubbard",
     "team": "Carolina Panthers",
     "opponent": "Cardinals",
@@ -63,6 +70,13 @@
     "position": "RB"
   },
   {
+    "player": "Omarion Hampton",
+    "team": "Los Angeles Chargers",
+    "opponent": "Raiders",
+    "metric": 48.0,
+    "position": "RB"
+  },
+  {
     "player": "Zach Charbonnet",
     "team": "Seattle Seahawks",
     "opponent": "Steelers",
@@ -74,6 +88,27 @@
     "team": "Indianapolis Colts",
     "opponent": "Broncos",
     "metric": 41.0,
+    "position": "RB"
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
+    "metric": 39.0,
+    "position": "RB"
+  },
+  {
+    "player": "Ashton Jeanty",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 38.0,
+    "position": "RB"
+  },
+  {
+    "player": "Bucky Irving",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
+    "metric": 37.0,
     "position": "RB"
   },
   {
@@ -210,6 +245,13 @@
     "position": "RB"
   },
   {
+    "player": "Zamir White",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 8.0,
+    "position": "RB"
+  },
+  {
     "player": "Rasheen Ali",
     "team": "Baltimore Ravens",
     "opponent": "Browns",
@@ -235,48 +277,6 @@
     "team": "New England Patriots",
     "opponent": "Dolphins",
     "metric": 3.0,
-    "position": "RB"
-  },
-  {
-    "player": "Dak Prescott",
-    "team": "Dallas Cowboys",
-    "opponent": "Giants",
-    "metric": 3.0,
-    "position": "RB"
-  },
-  {
-    "player": "Raheim Sanders",
-    "team": "Cleveland Browns",
-    "opponent": "Ravens",
-    "metric": 3.0,
-    "position": "RB"
-  },
-  {
-    "player": "Blake Corum",
-    "team": "Los Angeles Rams",
-    "opponent": "Titans",
-    "metric": 2.0,
-    "position": "RB"
-  },
-  {
-    "player": "Julius Chestnut",
-    "team": "Tennessee Titans",
-    "opponent": "Rams",
-    "metric": 2.0,
-    "position": "RB"
-  },
-  {
-    "player": "Ray Davis",
-    "team": "Buffalo Bills",
-    "opponent": "Jets",
-    "metric": 2.0,
-    "position": "RB"
-  },
-  {
-    "player": "Aaron Rodgers",
-    "team": "Pittsburgh Steelers",
-    "opponent": "Seahawks",
-    "metric": -1.0,
     "position": "RB"
   }
 ]

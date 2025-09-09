@@ -18,6 +18,12 @@
     "metric": 9.0
   },
   {
+    "player": "Jakobi Meyers",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 8.0
+  },
+  {
     "player": "Deebo Samuel",
     "team": "Commanders",
     "opponent": "Packers",
@@ -39,6 +45,12 @@
     "player": "Bijan Robinson",
     "team": "Falcons",
     "opponent": "Vikings",
+    "metric": 6.0
+  },
+  {
+    "player": "Ladd McConkey",
+    "team": "Chargers",
+    "opponent": "Raiders",
     "metric": 6.0
   },
   {
@@ -90,6 +102,12 @@
     "metric": 4.0
   },
   {
+    "player": "Emeka Egbuka",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 4.0
+  },
+  {
     "player": "James Conner",
     "team": "Cardinals",
     "opponent": "Panthers",
@@ -105,6 +123,12 @@
     "player": "Justin Jefferson",
     "team": "Vikings",
     "opponent": "Falcons",
+    "metric": 4.0
+  },
+  {
+    "player": "Michael Mayer",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric": 4.0
   },
   {
@@ -168,6 +192,12 @@
     "metric": 3.0
   },
   {
+    "player": "Sterling Shepard",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 3.0
+  },
+  {
     "player": "Travis Etienne Jr.",
     "team": "Jaguars",
     "opponent": "Bengals",
@@ -192,6 +222,12 @@
     "metric": 2.0
   },
   {
+    "player": "Dont'e Thornton Jr.",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 2.0
+  },
+  {
     "player": "J.K. Dobbins",
     "team": "Broncos",
     "opponent": "Colts",
@@ -201,42 +237,6 @@
     "player": "Ja'Marr Chase",
     "team": "Bengals",
     "opponent": "Jaguars",
-    "metric": 2.0
-  },
-  {
-    "player": "Ja'Tavion Sanders",
-    "team": "Panthers",
-    "opponent": "Cardinals",
-    "metric": 2.0
-  },
-  {
-    "player": "Javonte Williams",
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "metric": 2.0
-  },
-  {
-    "player": "KaVontae Turpin",
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "metric": 2.0
-  },
-  {
-    "player": "Malik Washington",
-    "team": "Dolphins",
-    "opponent": "Patriots",
-    "metric": 2.0
-  },
-  {
-    "player": "Samaje Perine",
-    "team": "Bengals",
-    "opponent": "Jaguars",
-    "metric": 2.0
-  },
-  {
-    "player": "Tanner Conner",
-    "team": "Dolphins",
-    "opponent": "Patriots",
     "metric": 2.0
   }
 ]

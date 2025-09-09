@@ -54,6 +54,12 @@
     "metric": 4.0
   },
   {
+    "player": "Bucky Irving",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 4.0
+  },
+  {
     "player": "Kenneth Gainwell",
     "team": "Steelers",
     "opponent": "Seahawks",
@@ -90,6 +96,12 @@
     "metric": 3.0
   },
   {
+    "player": "Ashton Jeanty",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 2.0
+  },
+  {
     "player": "Cam Skattebo",
     "team": "Giants",
     "opponent": "Cowboys",
@@ -99,6 +111,12 @@
     "player": "Jaylen Warren",
     "team": "Steelers",
     "opponent": "Seahawks",
+    "metric": 2.0
+  },
+  {
+    "player": "Omarion Hampton",
+    "team": "Chargers",
+    "opponent": "Raiders",
     "metric": 2.0
   },
   {
@@ -135,6 +153,12 @@
     "player": "Miles Sanders",
     "team": "Cowboys",
     "opponent": "Giants",
+    "metric": 1.0
+  },
+  {
+    "player": "Nick Chubb",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 1.0
   },
   {
