@@ -7,6 +7,20 @@
     "position": "QB"
   },
   {
+    "player": "Jalen Hurts",
+    "team": "Philadelphia Eagles",
+    "opponent": "Chiefs",
+    "metric": 2.0,
+    "position": "QB"
+  },
+  {
+    "player": "Josh Allen",
+    "team": "Buffalo Bills",
+    "opponent": "Jets",
+    "metric": 2.0,
+    "position": "QB"
+  },
+  {
     "player": "Justin Fields",
     "team": "New York Jets",
     "opponent": "Bills",
@@ -21,10 +35,45 @@
     "position": "QB"
   },
   {
+    "player": "J.J. McCarthy",
+    "team": "Minnesota Vikings",
+    "opponent": "Falcons",
+    "metric": 1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Lamar Jackson",
+    "team": "Baltimore Ravens",
+    "opponent": "Browns",
+    "metric": 1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Michael Penix Jr.",
+    "team": "Atlanta Falcons",
+    "opponent": "Vikings",
+    "metric": 1.0,
+    "position": "QB"
+  },
+  {
     "player": "Patrick Mahomes",
     "team": "Kansas City Chiefs",
     "opponent": "Eagles",
     "metric": 1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Aaron Rodgers",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Seahawks",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
+    "metric": 0.0,
     "position": "QB"
   },
   {
@@ -56,6 +105,13 @@
     "position": "QB"
   },
   {
+    "player": "Dak Prescott",
+    "team": "Dallas Cowboys",
+    "opponent": "Giants",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
     "player": "Drake Maye",
     "team": "New England Patriots",
     "opponent": "Dolphins",
@@ -77,6 +133,20 @@
     "position": "QB"
   },
   {
+    "player": "Jared Goff",
+    "team": "Detroit Lions",
+    "opponent": "Bears",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jayden Daniels",
+    "team": "Washington Commanders",
+    "opponent": "Packers",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
     "player": "Joe Burrow",
     "team": "Cincinnati Bengals",
     "opponent": "Jaguars",
@@ -94,6 +164,20 @@
     "player": "Justin Herbert",
     "team": "Los Angeles Chargers",
     "opponent": "Raiders",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Kyler Murray",
+    "team": "Arizona Cardinals",
+    "opponent": "Panthers",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Matthew Stafford",
+    "team": "Los Angeles Rams",
+    "opponent": "Titans",
     "metric": 0.0,
     "position": "QB"
   },

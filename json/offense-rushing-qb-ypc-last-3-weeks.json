@@ -1,5 +1,19 @@
 [
   {
+    "player": "J.J. McCarthy",
+    "team": "Minnesota Vikings",
+    "opponent": "Falcons",
+    "metric": 12.5,
+    "position": "QB"
+  },
+  {
+    "player": "Lamar Jackson",
+    "team": "Baltimore Ravens",
+    "opponent": "Browns",
+    "metric": 11.7,
+    "position": "QB"
+  },
+  {
     "player": "Caleb Williams",
     "team": "Chicago Bears",
     "opponent": "Lions",
@@ -18,6 +32,13 @@
     "team": "Carolina Panthers",
     "opponent": "Cardinals",
     "metric": 8.0,
+    "position": "QB"
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
+    "metric": 7.8,
     "position": "QB"
   },
   {
@@ -49,10 +70,24 @@
     "position": "QB"
   },
   {
+    "player": "Jayden Daniels",
+    "team": "Washington Commanders",
+    "opponent": "Packers",
+    "metric": 6.2,
+    "position": "QB"
+  },
+  {
     "player": "Russell Wilson",
     "team": "New York Giants",
     "opponent": "Cowboys",
     "metric": 5.5,
+    "position": "QB"
+  },
+  {
+    "player": "Kyler Murray",
+    "team": "Arizona Cardinals",
+    "opponent": "Panthers",
+    "metric": 5.4,
     "position": "QB"
   },
   {
@@ -70,6 +105,13 @@
     "position": "QB"
   },
   {
+    "player": "Jalen Hurts",
+    "team": "Philadelphia Eagles",
+    "opponent": "Chiefs",
+    "metric": 4.4,
+    "position": "QB"
+  },
+  {
     "player": "Justin Fields",
     "team": "New York Jets",
     "opponent": "Bills",
@@ -84,10 +126,24 @@
     "position": "QB"
   },
   {
+    "player": "Michael Penix Jr.",
+    "team": "Atlanta Falcons",
+    "opponent": "Vikings",
+    "metric": 3.5,
+    "position": "QB"
+  },
+  {
     "player": "Brock Purdy",
     "team": "San Francisco 49ers",
     "opponent": "Saints",
     "metric": 3.4,
+    "position": "QB"
+  },
+  {
+    "player": "Dak Prescott",
+    "team": "Dallas Cowboys",
+    "opponent": "Giants",
+    "metric": 3.0,
     "position": "QB"
   },
   {
@@ -126,6 +182,13 @@
     "position": "QB"
   },
   {
+    "player": "Josh Allen",
+    "team": "Buffalo Bills",
+    "opponent": "Jets",
+    "metric": 2.1,
+    "position": "QB"
+  },
+  {
     "player": "Joe Burrow",
     "team": "Cincinnati Bengals",
     "opponent": "Jaguars",
@@ -137,6 +200,27 @@
     "team": "Seattle Seahawks",
     "opponent": "Steelers",
     "metric": 1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Matthew Stafford",
+    "team": "Los Angeles Rams",
+    "opponent": "Titans",
+    "metric": -0.5,
+    "position": "QB"
+  },
+  {
+    "player": "Aaron Rodgers",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Seahawks",
+    "metric": -1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jared Goff",
+    "team": "Detroit Lions",
+    "opponent": "Bears",
+    "metric": -1.0,
     "position": "QB"
   }
 ]

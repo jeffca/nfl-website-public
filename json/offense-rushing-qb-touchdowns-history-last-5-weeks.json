@@ -8,6 +8,14 @@
     "metric": 0
   },
   {
+    "event_id": 401772810,
+    "player_id": 4433970,
+    "player": "J.J. McCarthy",
+    "opponent": "Chicago Bears",
+    "week": 1,
+    "metric": 1
+  },
+  {
     "event_id": 401772831,
     "player_id": 4432734,
     "player": "Jalen Milroe",
@@ -36,6 +44,14 @@
     "player_id": 4431452,
     "player": "Drake Maye",
     "opponent": "Las Vegas Raiders",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772827,
+    "player_id": 4426348,
+    "player": "Jayden Daniels",
+    "opponent": "New York Giants",
     "week": 1,
     "metric": 0
   },
@@ -80,6 +96,14 @@
     "metric": 0
   },
   {
+    "event_id": 401772830,
+    "player_id": 4360423,
+    "player": "Michael Penix Jr.",
+    "opponent": "Tampa Bay Buccaneers",
+    "week": 1,
+    "metric": 1
+  },
+  {
     "event_id": 401772828,
     "player_id": 4360310,
     "player": "Trevor Lawrence",
@@ -96,6 +120,14 @@
     "metric": 0
   },
   {
+    "event_id": 401772510,
+    "player_id": 4040715,
+    "player": "Jalen Hurts",
+    "opponent": "Dallas Cowboys",
+    "week": 1,
+    "metric": 2
+  },
+  {
     "event_id": 401772714,
     "player_id": 4038941,
     "player": "Justin Herbert",
@@ -104,12 +136,36 @@
     "metric": 0
   },
   {
+    "event_id": 401772918,
+    "player_id": 3918298,
+    "player": "Josh Allen",
+    "opponent": "Baltimore Ravens",
+    "week": 1,
+    "metric": 2
+  },
+  {
     "event_id": 401772719,
     "player_id": 3917792,
     "player": "Daniel Jones",
     "opponent": "Miami Dolphins",
     "week": 1,
     "metric": 2
+  },
+  {
+    "event_id": 401772718,
+    "player_id": 3917315,
+    "player": "Kyler Murray",
+    "opponent": "New Orleans Saints",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772918,
+    "player_id": 3916387,
+    "player": "Lamar Jackson",
+    "opponent": "Buffalo Bills",
+    "week": 1,
+    "metric": 1
   },
   {
     "event_id": 401772829,
@@ -136,6 +192,30 @@
     "metric": 1
   },
   {
+    "event_id": 401772830,
+    "player_id": 3052587,
+    "player": "Baker Mayfield",
+    "opponent": "Atlanta Falcons",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772722,
+    "player_id": 3046779,
+    "player": "Jared Goff",
+    "opponent": "Green Bay Packers",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772510,
+    "player_id": 2577417,
+    "player": "Dak Prescott",
+    "opponent": "Philadelphia Eagles",
+    "week": 1,
+    "metric": 0
+  },
+  {
     "event_id": 401772720,
     "player_id": 15864,
     "player": "Geno Smith",
@@ -152,10 +232,26 @@
     "metric": 0
   },
   {
+    "event_id": 401772723,
+    "player_id": 12483,
+    "player": "Matthew Stafford",
+    "opponent": "Houston Texans",
+    "week": 1,
+    "metric": 0
+  },
+  {
     "event_id": 401772829,
     "player_id": 11252,
     "player": "Joe Flacco",
     "opponent": "Cincinnati Bengals",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 8439,
+    "player": "Aaron Rodgers",
+    "opponent": "New York Jets",
     "week": 1,
     "metric": 0
   }

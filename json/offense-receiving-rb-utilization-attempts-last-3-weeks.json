@@ -1,0 +1,282 @@
+[
+  {
+    "player": "Aaron Jones Sr.",
+    "team": "Minnesota Vikings",
+    "opponent": "Falcons",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Alvin Kamara",
+    "team": "New Orleans Saints",
+    "opponent": "49ers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Antonio Gibson",
+    "team": "New England Patriots",
+    "opponent": "Dolphins",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Ashton Jeanty",
+    "team": "Las Vegas Raiders",
+    "opponent": "Chargers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Austin Ekeler",
+    "team": "Washington Commanders",
+    "opponent": "Packers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Bijan Robinson",
+    "team": "Atlanta Falcons",
+    "opponent": "Vikings",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Blake Corum",
+    "team": "Los Angeles Rams",
+    "opponent": "Titans",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Breece Hall",
+    "team": "New York Jets",
+    "opponent": "Bills",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Brian Robinson Jr.",
+    "team": "San Francisco 49ers",
+    "opponent": "Saints",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Bucky Irving",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Texans",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Cam Skattebo",
+    "team": "New York Giants",
+    "opponent": "Cowboys",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Chase Brown",
+    "team": "Cincinnati Bengals",
+    "opponent": "Jaguars",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Christian McCaffrey",
+    "team": "San Francisco 49ers",
+    "opponent": "Saints",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Chuba Hubbard",
+    "team": "Carolina Panthers",
+    "opponent": "Cardinals",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "D'Andre Swift",
+    "team": "Chicago Bears",
+    "opponent": "Lions",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Dameon Pierce",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Dare Ogunbowale",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "David Montgomery",
+    "team": "Detroit Lions",
+    "opponent": "Bears",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "De'Von Achane",
+    "team": "Miami Dolphins",
+    "opponent": "Patriots",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Derrick Henry",
+    "team": "Baltimore Ravens",
+    "opponent": "Browns",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Dylan Sampson",
+    "team": "Cleveland Browns",
+    "opponent": "Ravens",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Isiah Pacheco",
+    "team": "Kansas City Chiefs",
+    "opponent": "Eagles",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "J.K. Dobbins",
+    "team": "Denver Broncos",
+    "opponent": "Colts",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jacory Croskey-Merritt",
+    "team": "Washington Commanders",
+    "opponent": "Packers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jahmyr Gibbs",
+    "team": "Detroit Lions",
+    "opponent": "Bears",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "James Conner",
+    "team": "Arizona Cardinals",
+    "opponent": "Panthers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "James Cook",
+    "team": "Buffalo Bills",
+    "opponent": "Jets",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Javonte Williams",
+    "team": "Dallas Cowboys",
+    "opponent": "Giants",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jaylen Warren",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Seahawks",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jerome Ford",
+    "team": "Cleveland Browns",
+    "opponent": "Ravens",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jonathan Taylor",
+    "team": "Indianapolis Colts",
+    "opponent": "Broncos",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jordan Mason",
+    "team": "Minnesota Vikings",
+    "opponent": "Falcons",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Justice Hill",
+    "team": "Baltimore Ravens",
+    "opponent": "Browns",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Kareem Hunt",
+    "team": "Kansas City Chiefs",
+    "opponent": "Eagles",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Kenneth Gainwell",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Seahawks",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Kenneth Walker III",
+    "team": "Seattle Seahawks",
+    "opponent": "Steelers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Kyle Monangai",
+    "team": "Chicago Bears",
+    "opponent": "Lions",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Kyren Williams",
+    "team": "Los Angeles Rams",
+    "opponent": "Titans",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "LeQuint Allen Jr.",
+    "team": "Jacksonville Jaguars",
+    "opponent": "Bengals",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Miles Sanders",
+    "team": "Dallas Cowboys",
+    "opponent": "Giants",
+    "metric": 0.0,
+    "position": "RB"
+  }
+]

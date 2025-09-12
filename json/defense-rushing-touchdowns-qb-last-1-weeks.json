@@ -1,13 +1,38 @@
 [
   {
+    "team": "Cowboys",
+    "opponent": "Giants",
+    "metric_allowed": 2.0
+  },
+  {
     "team": "Dolphins",
-    "opponent": "Dolphins",
+    "opponent": "Patriots",
+    "metric_allowed": 2.0
+  },
+  {
+    "team": "Ravens",
+    "opponent": "Browns",
     "metric_allowed": 2.0
   },
   {
     "team": "Steelers",
-    "opponent": "Steelers",
+    "opponent": "Seahawks",
     "metric_allowed": 2.0
+  },
+  {
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Bills",
+    "opponent": "Jets",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric_allowed": 1.0
   },
   {
     "team": "Chargers",
@@ -16,7 +41,7 @@
   },
   {
     "team": "Vikings",
-    "opponent": "Vikings",
+    "opponent": "Falcons",
     "metric_allowed": 1.0
   },
   {
@@ -26,7 +51,7 @@
   },
   {
     "team": "Bengals",
-    "opponent": "Bengals",
+    "opponent": "Jaguars",
     "metric_allowed": 0.0
   },
   {
@@ -36,17 +61,17 @@
   },
   {
     "team": "Cardinals",
-    "opponent": "Cardinals",
+    "opponent": "Panthers",
     "metric_allowed": 0.0
   },
   {
     "team": "Chiefs",
-    "opponent": "Chiefs",
+    "opponent": "Eagles",
     "metric_allowed": 0.0
   },
   {
     "team": "Colts",
-    "opponent": "Colts",
+    "opponent": "Broncos",
     "metric_allowed": 0.0
   },
   {
@@ -55,8 +80,33 @@
     "metric_allowed": 0.0
   },
   {
+    "team": "Eagles",
+    "opponent": "Chiefs",
+    "metric_allowed": 0.0
+  },
+  {
+    "team": "Falcons",
+    "opponent": "Vikings",
+    "metric_allowed": 0.0
+  },
+  {
+    "team": "Giants",
+    "opponent": "Cowboys",
+    "metric_allowed": 0.0
+  },
+  {
     "team": "Jaguars",
     "opponent": "Bengals",
+    "metric_allowed": 0.0
+  },
+  {
+    "team": "Jets",
+    "opponent": "Bills",
+    "metric_allowed": 0.0
+  },
+  {
+    "team": "Packers",
+    "opponent": "Commanders",
     "metric_allowed": 0.0
   },
   {
@@ -71,7 +121,7 @@
   },
   {
     "team": "Raiders",
-    "opponent": "Raiders",
+    "opponent": "Chargers",
     "metric_allowed": 0.0
   },
   {
@@ -80,13 +130,23 @@
     "metric_allowed": 0.0
   },
   {
+    "team": "Saints",
+    "opponent": "49ers",
+    "metric_allowed": 0.0
+  },
+  {
     "team": "Seahawks",
     "opponent": "Steelers",
     "metric_allowed": 0.0
   },
   {
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric_allowed": 0.0
+  },
+  {
     "team": "Titans",
-    "opponent": "Titans",
+    "opponent": "Rams",
     "metric_allowed": 0.0
   }
 ]

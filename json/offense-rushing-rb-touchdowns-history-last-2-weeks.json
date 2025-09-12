@@ -8,6 +8,14 @@
     "metric": 0
   },
   {
+    "event_id": 401772828,
+    "player_id": 4911851,
+    "player": "LeQuint Allen Jr.",
+    "opponent": "Carolina Panthers",
+    "week": 1,
+    "metric": 0
+  },
+  {
     "event_id": 401772720,
     "player_id": 4890973,
     "player": "Ashton Jeanty",
@@ -48,10 +56,26 @@
     "metric": 0
   },
   {
+    "event_id": 401772830,
+    "player_id": 4697815,
+    "player": "Rachaad White",
+    "opponent": "Atlanta Falcons",
+    "week": 1,
+    "metric": 0
+  },
+  {
     "event_id": 401772827,
     "player_id": 4696981,
     "player": "Cam Skattebo",
     "opponent": "Washington Commanders",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 4695404,
+    "player": "Isaiah Davis",
+    "opponent": "Pittsburgh Steelers",
     "week": 1,
     "metric": 0
   },
@@ -136,6 +160,14 @@
     "metric": 0
   },
   {
+    "event_id": 401772720,
+    "player_id": 4569173,
+    "player": "Rhamondre Stevenson",
+    "opponent": "Las Vegas Raiders",
+    "week": 1,
+    "metric": 0
+  },
+  {
     "event_id": 401772832,
     "player_id": 4568490,
     "player": "RJ Harvey",
@@ -144,18 +176,26 @@
     "metric": 0
   },
   {
-    "event_id": 401772828,
-    "player_id": 4432773,
-    "player": "Brian Thomas Jr.",
-    "opponent": "Carolina Panthers",
+    "event_id": 401772831,
+    "player_id": 4567048,
+    "player": "Kenneth Walker III",
+    "opponent": "San Francisco 49ers",
     "week": 1,
-    "metric": 1
+    "metric": 0
   },
   {
     "event_id": 401772720,
     "player_id": 4432710,
     "player": "TreVeyon Henderson",
     "opponent": "Las Vegas Raiders",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772510,
+    "player_id": 4431545,
+    "player": "Will Shipley",
+    "opponent": "Dallas Cowboys",
     "week": 1,
     "metric": 0
   },
@@ -168,6 +208,30 @@
     "metric": 0
   },
   {
+    "event_id": 401772830,
+    "player_id": 4430807,
+    "player": "Bijan Robinson",
+    "opponent": "Tampa Bay Buccaneers",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772723,
+    "player_id": 4430737,
+    "player": "Kyren Williams",
+    "opponent": "Houston Texans",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772722,
+    "player_id": 4429795,
+    "player": "Jahmyr Gibbs",
+    "opponent": "Green Bay Packers",
+    "week": 1,
+    "metric": 0
+  },
+  {
     "event_id": 401772918,
     "player_id": 4429501,
     "player": "Ray Davis",
@@ -176,34 +240,18 @@
     "metric": 0
   },
   {
-    "event_id": 401772723,
-    "player_id": 4429096,
-    "player": "Blake Corum",
-    "opponent": "Houston Texans",
+    "event_id": 401772718,
+    "player_id": 4429275,
+    "player": "Trey Benson",
+    "opponent": "New Orleans Saints",
     "week": 1,
     "metric": 0
   },
   {
-    "event_id": 401772723,
-    "player_id": 4429059,
-    "player": "Woody Marks",
-    "opponent": "Los Angeles Rams",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772828,
-    "player_id": 4429013,
-    "player": "Tank Bigsby",
-    "opponent": "Carolina Panthers",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772721,
-    "player_id": 4427366,
-    "player": "Breece Hall",
-    "opponent": "Pittsburgh Steelers",
+    "event_id": 401772719,
+    "player_id": 4429160,
+    "player": "De'Von Achane",
+    "opponent": "Indianapolis Colts",
     "week": 1,
     "metric": 0
   },
@@ -216,107 +264,59 @@
     "metric": 1
   },
   {
-    "event_id": 401772721,
-    "player_id": 4371733,
-    "player": "Kenneth Gainwell",
-    "opponent": "New York Jets",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772832,
-    "player_id": 4367567,
-    "player": "Julius Chestnut",
-    "opponent": "Denver Broncos",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772720,
-    "player_id": 4361777,
-    "player": "Zamir White",
-    "opponent": "New England Patriots",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772714,
-    "player_id": 4361529,
-    "player": "Isiah Pacheco",
-    "opponent": "Los Angeles Chargers",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772827,
-    "player_id": 4360516,
-    "player": "Tyrone Tracy Jr.",
-    "opponent": "Washington Commanders",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772830,
-    "player_id": 4360423,
-    "player": "Michael Penix Jr.",
-    "opponent": "Tampa Bay Buccaneers",
+    "event_id": 401772918,
+    "player_id": 4379399,
+    "player": "James Cook",
+    "opponent": "Baltimore Ravens",
     "week": 1,
     "metric": 1
   },
   {
-    "event_id": 401772720,
-    "player_id": 4360294,
-    "player": "Antonio Gibson",
-    "opponent": "Las Vegas Raiders",
+    "event_id": 401772829,
+    "player_id": 4362238,
+    "player": "Chase Brown",
+    "opponent": "Cleveland Browns",
     "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772810,
-    "player_id": 4259545,
-    "player": "D'Andre Swift",
-    "opponent": "Minnesota Vikings",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772719,
-    "player_id": 4242335,
-    "player": "Jonathan Taylor",
-    "opponent": "Miami Dolphins",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772828,
-    "player_id": 4241416,
-    "player": "Chuba Hubbard",
-    "opponent": "Jacksonville Jaguars",
-    "week": 1,
-    "metric": 0
+    "metric": 1
   },
   {
     "event_id": 401772510,
-    "player_id": 4040715,
-    "player": "Jalen Hurts",
-    "opponent": "Dallas Cowboys",
+    "player_id": 4361579,
+    "player": "Javonte Williams",
+    "opponent": "Philadelphia Eagles",
     "week": 1,
     "metric": 2
   },
   {
-    "event_id": 401772918,
-    "player_id": 3918298,
-    "player": "Josh Allen",
-    "opponent": "Baltimore Ravens",
-    "week": 1,
-    "metric": 2
-  },
-  {
-    "event_id": 401772918,
-    "player_id": 3916387,
-    "player": "Lamar Jackson",
-    "opponent": "Buffalo Bills",
+    "event_id": 401772832,
+    "player_id": 4241985,
+    "player": "J.K. Dobbins",
+    "opponent": "Tennessee Titans",
     "week": 1,
     "metric": 1
+  },
+  {
+    "event_id": 401772510,
+    "player_id": 3929630,
+    "player": "Saquon Barkley",
+    "opponent": "Dallas Cowboys",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772718,
+    "player_id": 3054850,
+    "player": "Alvin Kamara",
+    "opponent": "Arizona Cardinals",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772918,
+    "player_id": 3043078,
+    "player": "Derrick Henry",
+    "opponent": "Buffalo Bills",
+    "week": 1,
+    "metric": 2
   }
 ]

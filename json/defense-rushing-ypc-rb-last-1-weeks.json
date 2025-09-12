@@ -1,38 +1,53 @@
 [
   {
-    "team": "Titans",
-    "opponent": "Titans",
-    "metric_allowed": 11.7
-  },
-  {
-    "team": "Bills",
-    "opponent": "Jets",
-    "metric_allowed": 8.4
-  },
-  {
     "team": "Eagles",
     "opponent": "Chiefs",
-    "metric_allowed": 8.2
+    "metric_allowed": 8.5
+  },
+  {
+    "team": "Titans",
+    "opponent": "Rams",
+    "metric_allowed": 7.8
   },
   {
     "team": "Giants",
     "opponent": "Cowboys",
-    "metric_allowed": 7.3
+    "metric_allowed": 6.3
+  },
+  {
+    "team": "Saints",
+    "opponent": "49ers",
+    "metric_allowed": 6.0
+  },
+  {
+    "team": "Ravens",
+    "opponent": "Browns",
+    "metric_allowed": 5.8
   },
   {
     "team": "Panthers",
     "opponent": "Cardinals",
+    "metric_allowed": 5.5
+  },
+  {
+    "team": "Steelers",
+    "opponent": "Seahawks",
+    "metric_allowed": 5.4
+  },
+  {
+    "team": "Cowboys",
+    "opponent": "Giants",
+    "metric_allowed": 5.1
+  },
+  {
+    "team": "Colts",
+    "opponent": "Broncos",
     "metric_allowed": 5.0
   },
   {
     "team": "Cardinals",
-    "opponent": "Cardinals",
-    "metric_allowed": 4.7
-  },
-  {
-    "team": "Raiders",
-    "opponent": "Raiders",
-    "metric_allowed": 4.2
+    "opponent": "Panthers",
+    "metric_allowed": 4.5
   },
   {
     "team": "Chargers",
@@ -40,18 +55,13 @@
     "metric_allowed": 4.1
   },
   {
-    "team": "Falcons",
-    "opponent": "Vikings",
+    "team": "Chiefs",
+    "opponent": "Eagles",
     "metric_allowed": 4.1
   },
   {
-    "team": "49ers",
-    "opponent": "Saints",
-    "metric_allowed": 3.9
-  },
-  {
-    "team": "Cowboys",
-    "opponent": "Cowboys",
+    "team": "Falcons",
+    "opponent": "Vikings",
     "metric_allowed": 3.9
   },
   {
@@ -60,34 +70,49 @@
     "metric_allowed": 3.9
   },
   {
-    "team": "Dolphins",
-    "opponent": "Dolphins",
+    "team": "Bears",
+    "opponent": "Lions",
     "metric_allowed": 3.7
   },
   {
-    "team": "Steelers",
-    "opponent": "Steelers",
-    "metric_allowed": 3.6
-  },
-  {
-    "team": "Buccaneers",
-    "opponent": "Texans",
+    "team": "Raiders",
+    "opponent": "Chargers",
     "metric_allowed": 3.5
   },
   {
-    "team": "Chiefs",
-    "opponent": "Chiefs",
-    "metric_allowed": 3.2
+    "team": "Seahawks",
+    "opponent": "Steelers",
+    "metric_allowed": 3.4
   },
   {
     "team": "Vikings",
-    "opponent": "Vikings",
+    "opponent": "Falcons",
     "metric_allowed": 3.1
+  },
+  {
+    "team": "49ers",
+    "opponent": "Saints",
+    "metric_allowed": 3.0
   },
   {
     "team": "Rams",
     "opponent": "Titans",
-    "metric_allowed": 2.8
+    "metric_allowed": 3.0
+  },
+  {
+    "team": "Texans",
+    "opponent": "Buccaneers",
+    "metric_allowed": 2.9
+  },
+  {
+    "team": "Bills",
+    "opponent": "Jets",
+    "metric_allowed": 2.5
+  },
+  {
+    "team": "Dolphins",
+    "opponent": "Patriots",
+    "metric_allowed": 2.4
   },
   {
     "team": "Patriots",
@@ -95,43 +120,38 @@
     "metric_allowed": 2.4
   },
   {
-    "team": "Ravens",
-    "opponent": "Ravens",
-    "metric_allowed": 2.1
-  },
-  {
-    "team": "Colts",
+    "team": "Broncos",
     "opponent": "Colts",
-    "metric_allowed": 2.0
+    "metric_allowed": 2.2
   },
   {
-    "team": "Texans",
+    "team": "Buccaneers",
     "opponent": "Texans",
+    "metric_allowed": 2.2
+  },
+  {
+    "team": "Packers",
+    "opponent": "Commanders",
+    "metric_allowed": 2.2
+  },
+  {
+    "team": "Browns",
+    "opponent": "Ravens",
     "metric_allowed": 2.0
   },
   {
     "team": "Bengals",
-    "opponent": "Bengals",
-    "metric_allowed": 1.7
+    "opponent": "Jaguars",
+    "metric_allowed": 1.6
+  },
+  {
+    "team": "Jets",
+    "opponent": "Bills",
+    "metric_allowed": 1.4
   },
   {
     "team": "Commanders",
     "opponent": "Packers",
     "metric_allowed": 1.3
-  },
-  {
-    "team": "Broncos",
-    "opponent": "Colts",
-    "metric_allowed": 1.0
-  },
-  {
-    "team": "Jets",
-    "opponent": "Jets",
-    "metric_allowed": 0.8
-  },
-  {
-    "team": "Packers",
-    "opponent": "Packers",
-    "metric_allowed": -1.0
   }
 ]

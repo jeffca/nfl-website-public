@@ -1,10 +1,66 @@
 [
   {
+    "event_id": 401772831,
+    "week": 1,
+    "team": "49ers",
+    "opponent": "Seahawks",
+    "metric": 10,
+    "metric_allowed": 3
+  },
+  {
+    "event_id": 401772810,
+    "week": 1,
+    "team": "Bears",
+    "opponent": "Vikings",
+    "metric": 4,
+    "metric_allowed": 4
+  },
+  {
+    "event_id": 401772829,
+    "week": 1,
+    "team": "Bengals",
+    "opponent": "Browns",
+    "metric": 4,
+    "metric_allowed": 9
+  },
+  {
+    "event_id": 401772918,
+    "week": 1,
+    "team": "Bills",
+    "opponent": "Ravens",
+    "metric": 6,
+    "metric_allowed": 2
+  },
+  {
     "event_id": 401772832,
     "week": 1,
     "team": "Broncos",
     "opponent": "Titans",
-    "metric": 7,
+    "metric": 5,
+    "metric_allowed": 1
+  },
+  {
+    "event_id": 401772829,
+    "week": 1,
+    "team": "Browns",
+    "opponent": "Bengals",
+    "metric": 9,
+    "metric_allowed": 4
+  },
+  {
+    "event_id": 401772830,
+    "week": 1,
+    "team": "Buccaneers",
+    "opponent": "Falcons",
+    "metric": 5,
+    "metric_allowed": 6
+  },
+  {
+    "event_id": 401772718,
+    "week": 1,
+    "team": "Cardinals",
+    "opponent": "Saints",
+    "metric": 5,
     "metric_allowed": 2
   },
   {
@@ -12,7 +68,7 @@
     "week": 1,
     "team": "Chargers",
     "opponent": "Chiefs",
-    "metric": 2,
+    "metric": 3,
     "metric_allowed": 4
   },
   {
@@ -21,7 +77,7 @@
     "team": "Chiefs",
     "opponent": "Chargers",
     "metric": 4,
-    "metric_allowed": 2
+    "metric_allowed": 3
   },
   {
     "event_id": 401772719,
@@ -29,14 +85,22 @@
     "team": "Colts",
     "opponent": "Dolphins",
     "metric": 3,
-    "metric_allowed": 1
+    "metric_allowed": 4
   },
   {
     "event_id": 401772827,
     "week": 1,
     "team": "Commanders",
     "opponent": "Giants",
-    "metric": 0,
+    "metric": 3,
+    "metric_allowed": 4
+  },
+  {
+    "event_id": 401772510,
+    "week": 1,
+    "team": "Cowboys",
+    "opponent": "Eagles",
+    "metric": 3,
     "metric_allowed": 4
   },
   {
@@ -44,8 +108,24 @@
     "week": 1,
     "team": "Dolphins",
     "opponent": "Colts",
-    "metric": 1,
+    "metric": 4,
     "metric_allowed": 3
+  },
+  {
+    "event_id": 401772510,
+    "week": 1,
+    "team": "Eagles",
+    "opponent": "Cowboys",
+    "metric": 4,
+    "metric_allowed": 3
+  },
+  {
+    "event_id": 401772830,
+    "week": 1,
+    "team": "Falcons",
+    "opponent": "Buccaneers",
+    "metric": 6,
+    "metric_allowed": 5
   },
   {
     "event_id": 401772827,
@@ -53,14 +133,14 @@
     "team": "Giants",
     "opponent": "Commanders",
     "metric": 4,
-    "metric_allowed": 0
+    "metric_allowed": 3
   },
   {
     "event_id": 401772828,
     "week": 1,
     "team": "Jaguars",
     "opponent": "Panthers",
-    "metric": 1,
+    "metric": 4,
     "metric_allowed": 5
   },
   {
@@ -77,14 +157,14 @@
     "team": "Panthers",
     "opponent": "Jaguars",
     "metric": 5,
-    "metric_allowed": 1
+    "metric_allowed": 4
   },
   {
     "event_id": 401772720,
     "week": 1,
     "team": "Patriots",
     "opponent": "Raiders",
-    "metric": 6,
+    "metric": 8,
     "metric_allowed": 2
   },
   {
@@ -93,7 +173,7 @@
     "team": "Raiders",
     "opponent": "Patriots",
     "metric": 2,
-    "metric_allowed": 6
+    "metric_allowed": 8
   },
   {
     "event_id": 401772723,
@@ -101,7 +181,31 @@
     "team": "Rams",
     "opponent": "Texans",
     "metric": 2,
-    "metric_allowed": 0
+    "metric_allowed": 2
+  },
+  {
+    "event_id": 401772918,
+    "week": 1,
+    "team": "Ravens",
+    "opponent": "Bills",
+    "metric": 2,
+    "metric_allowed": 6
+  },
+  {
+    "event_id": 401772718,
+    "week": 1,
+    "team": "Saints",
+    "opponent": "Cardinals",
+    "metric": 2,
+    "metric_allowed": 5
+  },
+  {
+    "event_id": 401772831,
+    "week": 1,
+    "team": "Seahawks",
+    "opponent": "49ers",
+    "metric": 3,
+    "metric_allowed": 10
   },
   {
     "event_id": 401772721,
@@ -116,7 +220,7 @@
     "week": 1,
     "team": "Texans",
     "opponent": "Rams",
-    "metric": 0,
+    "metric": 2,
     "metric_allowed": 2
   },
   {
@@ -124,7 +228,15 @@
     "week": 1,
     "team": "Titans",
     "opponent": "Broncos",
-    "metric": 2,
-    "metric_allowed": 7
+    "metric": 1,
+    "metric_allowed": 5
+  },
+  {
+    "event_id": 401772810,
+    "week": 1,
+    "team": "Vikings",
+    "opponent": "Bears",
+    "metric": 4,
+    "metric_allowed": 4
   }
 ]
