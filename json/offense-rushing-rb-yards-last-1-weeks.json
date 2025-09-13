@@ -21,13 +21,6 @@
     "position": "RB"
   },
   {
-    "player": "Jacory Croskey-Merritt",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 82.0,
-    "position": "RB"
-  },
-  {
     "player": "Jonathan Taylor",
     "team": "Indianapolis Colts",
     "opponent": "Broncos",
@@ -224,13 +217,6 @@
     "position": "RB"
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 26.0,
-    "position": "RB"
-  },
-  {
     "player": "Will Shipley",
     "team": "Philadelphia Eagles",
     "opponent": "Chiefs",
@@ -248,13 +234,6 @@
     "player": "Isiah Pacheco",
     "team": "Kansas City Chiefs",
     "opponent": "Eagles",
-    "metric": 25.0,
-    "position": "RB"
-  },
-  {
-    "player": "Jeremy McNichols",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
     "metric": 25.0,
     "position": "RB"
   },
@@ -277,6 +256,27 @@
     "team": "Buffalo Bills",
     "opponent": "Jets",
     "metric": 24.0,
+    "position": "RB"
+  },
+  {
+    "player": "Tyler Allgeier",
+    "team": "Atlanta Falcons",
+    "opponent": "Vikings",
+    "metric": 24.0,
+    "position": "RB"
+  },
+  {
+    "player": "Tyrone Tracy Jr.",
+    "team": "New York Giants",
+    "opponent": "Cowboys",
+    "metric": 24.0,
+    "position": "RB"
+  },
+  {
+    "player": "Aaron Jones Sr.",
+    "team": "Minnesota Vikings",
+    "opponent": "Falcons",
+    "metric": 23.0,
     "position": "RB"
   }
 ]

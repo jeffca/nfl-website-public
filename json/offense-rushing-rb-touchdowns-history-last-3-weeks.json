@@ -144,14 +144,6 @@
     "metric": 0
   },
   {
-    "event_id": 401772827,
-    "player_id": 4575131,
-    "player": "Jacory Croskey-Merritt",
-    "opponent": "New York Giants",
-    "week": 1,
-    "metric": 1
-  },
-  {
     "event_id": 401772721,
     "player_id": 4569987,
     "player": "Jaylen Warren",
@@ -252,6 +244,14 @@
     "player_id": 4429160,
     "player": "De'Von Achane",
     "opponent": "Indianapolis Colts",
+    "week": 1,
+    "metric": 0
+  },
+  {
+    "event_id": 401772723,
+    "player_id": 4429096,
+    "player": "Blake Corum",
+    "opponent": "Houston Texans",
     "week": 1,
     "metric": 0
   },

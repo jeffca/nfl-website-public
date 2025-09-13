@@ -70,11 +70,6 @@
     "metric_allowed": 5.8
   },
   {
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric_allowed": 5.8
-  },
-  {
     "team": "Giants",
     "opponent": "Cowboys",
     "metric_allowed": 5.2
@@ -83,11 +78,6 @@
     "team": "Panthers",
     "opponent": "Cardinals",
     "metric_allowed": 4.2
-  },
-  {
-    "team": "Packers",
-    "opponent": "Commanders",
-    "metric_allowed": 3.8
   },
   {
     "team": "Saints",

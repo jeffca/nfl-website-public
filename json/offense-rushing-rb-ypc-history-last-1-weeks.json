@@ -48,6 +48,14 @@
     "metric": 5
   },
   {
+    "event_id": 401772714,
+    "player_id": 4685382,
+    "player": "Omarion Hampton",
+    "opponent": "Kansas City Chiefs",
+    "week": 1,
+    "metric": 3.2
+  },
+  {
     "event_id": 401772828,
     "player_id": 4685350,
     "player": "Trevor Etienne",
@@ -70,14 +78,6 @@
     "opponent": "Arizona Cardinals",
     "week": 1,
     "metric": 4.8
-  },
-  {
-    "event_id": 401772827,
-    "player_id": 4575131,
-    "player": "Jacory Croskey-Merritt",
-    "opponent": "New York Giants",
-    "week": 1,
-    "metric": 8.2
   },
   {
     "event_id": 401772721,
@@ -264,6 +264,14 @@
     "metric": 3.3
   },
   {
+    "event_id": 401772832,
+    "player_id": 3916148,
+    "player": "Tony Pollard",
+    "opponent": "Denver Broncos",
+    "week": 1,
+    "metric": 3.3
+  },
+  {
     "event_id": 401772918,
     "player_id": 3915411,
     "player": "Ty Johnson",
@@ -280,28 +288,20 @@
     "metric": 4.6
   },
   {
-    "event_id": 401772827,
-    "player_id": 3127586,
-    "player": "Jeremy McNichols",
-    "opponent": "New York Giants",
-    "week": 1,
-    "metric": 6.3
-  },
-  {
-    "event_id": 401772827,
-    "player_id": 3068267,
-    "player": "Austin Ekeler",
-    "opponent": "New York Giants",
-    "week": 1,
-    "metric": 4.3
-  },
-  {
     "event_id": 401772718,
     "player_id": 3054850,
     "player": "Alvin Kamara",
     "opponent": "Arizona Cardinals",
     "week": 1,
     "metric": 4.1
+  },
+  {
+    "event_id": 401772718,
+    "player_id": 3045147,
+    "player": "James Conner",
+    "opponent": "New Orleans Saints",
+    "week": 1,
+    "metric": 3.3
   },
   {
     "event_id": 401772918,

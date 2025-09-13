@@ -48,12 +48,6 @@
     "metric": 11.0
   },
   {
-    "player": "Deebo Samuel",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 10.0
-  },
-  {
     "player": "Jakobi Meyers",
     "team": "Raiders",
     "opponent": "Chargers",
@@ -237,6 +231,12 @@
     "player": "Amon-Ra St. Brown",
     "team": "Lions",
     "opponent": "Bears",
+    "metric": 6.0
+  },
+  {
+    "player": "Calvin Austin III",
+    "team": "Steelers",
+    "opponent": "Seahawks",
     "metric": 6.0
   }
 ]

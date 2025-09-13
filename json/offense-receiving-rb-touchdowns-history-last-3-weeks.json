@@ -136,6 +136,14 @@
     "metric": 0
   },
   {
+    "event_id": 401772721,
+    "player_id": 4371733,
+    "player": "Kenneth Gainwell",
+    "opponent": "Jets",
+    "week": 1,
+    "metric": 0
+  },
+  {
     "event_id": 401772832,
     "player_id": 4362748,
     "player": "Tyler Badie",
@@ -260,14 +268,6 @@
     "player_id": 3116389,
     "player": "Samaje Perine",
     "opponent": "Browns",
-    "week": 1,
-    "metric": 0
-  },
-  {
-    "event_id": 401772827,
-    "player_id": 3068267,
-    "player": "Austin Ekeler",
-    "opponent": "Giants",
     "week": 1,
     "metric": 0
   },

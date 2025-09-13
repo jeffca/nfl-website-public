@@ -30,11 +30,6 @@
     "metric_allowed": 48.0
   },
   {
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric_allowed": 44.0
-  },
-  {
     "team": "Jaguars",
     "opponent": "Bengals",
     "metric_allowed": 40.0
@@ -137,11 +132,6 @@
   {
     "team": "Jets",
     "opponent": "Bills",
-    "metric_allowed": -1.0
-  },
-  {
-    "team": "Packers",
-    "opponent": "Commanders",
     "metric_allowed": -1.0
   },
   {

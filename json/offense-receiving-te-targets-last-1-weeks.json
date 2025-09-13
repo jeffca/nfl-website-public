@@ -84,12 +84,6 @@
     "metric": 5.0
   },
   {
-    "player": "Zach Ertz",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 5.0
-  },
-  {
     "player": "Brenton Strange",
     "team": "Jaguars",
     "opponent": "Bengals",
@@ -237,6 +231,12 @@
     "player": "Jeremy Ruckert",
     "team": "Jets",
     "opponent": "Bills",
+    "metric": 2.0
+  },
+  {
+    "player": "Lucas Krull",
+    "team": "Broncos",
+    "opponent": "Colts",
     "metric": 2.0
   }
 ]

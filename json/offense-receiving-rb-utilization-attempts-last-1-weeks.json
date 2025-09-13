@@ -28,13 +28,6 @@
     "position": "RB"
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
     "player": "Bijan Robinson",
     "team": "Atlanta Falcons",
     "opponent": "Vikings",
@@ -161,13 +154,6 @@
     "position": "RB"
   },
   {
-    "player": "Jacory Croskey-Merritt",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
     "player": "Jahmyr Gibbs",
     "team": "Detroit Lions",
     "opponent": "Bears",
@@ -276,6 +262,20 @@
     "player": "Miles Sanders",
     "team": "Dallas Cowboys",
     "opponent": "Giants",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Najee Harris",
+    "team": "Los Angeles Chargers",
+    "opponent": "Raiders",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Nick Chubb",
+    "team": "Houston Texans",
+    "opponent": "Buccaneers",
     "metric": 0.0,
     "position": "RB"
   }

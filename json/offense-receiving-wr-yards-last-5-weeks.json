@@ -78,12 +78,6 @@
     "metric": 79.0
   },
   {
-    "player": "Deebo Samuel",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 77.0
-  },
-  {
     "player": "Ladd McConkey",
     "team": "Chargers",
     "opponent": "Raiders",
@@ -238,5 +232,11 @@
     "team": "Raiders",
     "opponent": "Chargers",
     "metric": 45.0
+  },
+  {
+    "player": "Justin Jefferson",
+    "team": "Vikings",
+    "opponent": "Falcons",
+    "metric": 44.0
   }
 ]

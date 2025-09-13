@@ -60,12 +60,6 @@
     "metric": 0.0
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 0.0
-  },
-  {
     "player": "Blake Corum",
     "team": "Rams",
     "opponent": "Titans",
@@ -150,12 +144,6 @@
     "metric": 0.0
   },
   {
-    "player": "Jacory Croskey-Merritt",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 0.0
-  },
-  {
     "player": "Jahmyr Gibbs",
     "team": "Lions",
     "opponent": "Bears",
@@ -237,6 +225,18 @@
     "player": "Miles Sanders",
     "team": "Cowboys",
     "opponent": "Giants",
+    "metric": 0.0
+  },
+  {
+    "player": "Najee Harris",
+    "team": "Chargers",
+    "opponent": "Raiders",
+    "metric": 0.0
+  },
+  {
+    "player": "Nick Chubb",
+    "team": "Texans",
+    "opponent": "Buccaneers",
     "metric": 0.0
   }
 ]

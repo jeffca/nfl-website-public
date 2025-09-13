@@ -110,11 +110,6 @@
     "metric_allowed": 0.0
   },
   {
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric_allowed": 0.0
-  },
-  {
     "team": "Falcons",
     "opponent": "Vikings",
     "metric_allowed": 0.0
@@ -127,11 +122,6 @@
   {
     "team": "Jets",
     "opponent": "Jets",
-    "metric_allowed": 0.0
-  },
-  {
-    "team": "Packers",
-    "opponent": "Packers",
     "metric_allowed": 0.0
   },
   {

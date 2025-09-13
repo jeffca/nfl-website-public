@@ -49,13 +49,6 @@
     "position": "RB"
   },
   {
-    "player": "Jacory Croskey-Merritt",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
     "player": "James Cook",
     "team": "Buffalo Bills",
     "opponent": "Jets",
@@ -108,13 +101,6 @@
     "player": "Antonio Gibson",
     "team": "New England Patriots",
     "opponent": "Dolphins",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Austin Ekeler",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
     "metric": 0.0,
     "position": "RB"
   },
@@ -276,6 +262,20 @@
     "player": "Jaylen Warren",
     "team": "Pittsburgh Steelers",
     "opponent": "Seahawks",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jerome Ford",
+    "team": "Cleveland Browns",
+    "opponent": "Ravens",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jonathan Taylor",
+    "team": "Indianapolis Colts",
+    "opponent": "Broncos",
     "metric": 0.0,
     "position": "RB"
   }

@@ -120,6 +120,16 @@
     "attempts": 30
   },
   {
+    "event_id": 401772936,
+    "week": 2,
+    "team": "Commanders",
+    "opponent": "Packers",
+    "metric": 179,
+    "metric_allowed": 269,
+    "completions": 24,
+    "attempts": 42
+  },
+  {
     "event_id": 401772510,
     "week": 1,
     "team": "Cowboys",
@@ -208,6 +218,16 @@
     "metric_allowed": 200,
     "completions": 16,
     "attempts": 22
+  },
+  {
+    "event_id": 401772936,
+    "week": 2,
+    "team": "Packers",
+    "opponent": "Commanders",
+    "metric": 269,
+    "metric_allowed": 179,
+    "completions": 19,
+    "attempts": 31
   },
   {
     "event_id": 401772828,

@@ -119,13 +119,6 @@
     "position": "WR"
   },
   {
-    "player": "Chris Moore",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
     "player": "Chris Olave",
     "team": "New Orleans Saints",
     "opponent": "49ers",
@@ -203,13 +196,6 @@
     "position": "WR"
   },
   {
-    "player": "Deebo Samuel",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
     "player": "Devaughn Vele",
     "team": "New Orleans Saints",
     "opponent": "49ers",
@@ -276,6 +262,20 @@
     "player": "Greg Dortch",
     "team": "Arizona Cardinals",
     "opponent": "Panthers",
+    "metric": 0.0,
+    "position": "WR"
+  },
+  {
+    "player": "Hollywood Brown",
+    "team": "Kansas City Chiefs",
+    "opponent": "Eagles",
+    "metric": 0.0,
+    "position": "WR"
+  },
+  {
+    "player": "Hunter Renfrow",
+    "team": "Carolina Panthers",
+    "opponent": "Cardinals",
     "metric": 0.0,
     "position": "WR"
   }

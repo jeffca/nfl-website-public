@@ -35,11 +35,6 @@
     "metric_allowed": 9.0
   },
   {
-    "team": "Packers",
-    "opponent": "Commanders",
-    "metric_allowed": 9.0
-  },
-  {
     "team": "Raiders",
     "opponent": "Chargers",
     "metric_allowed": 9.0
@@ -112,11 +107,6 @@
   {
     "team": "Colts",
     "opponent": "Broncos",
-    "metric_allowed": 4.0
-  },
-  {
-    "team": "Commanders",
-    "opponent": "Packers",
     "metric_allowed": 4.0
   },
   {

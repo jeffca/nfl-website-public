@@ -96,6 +96,14 @@
     "metric_allowed": 19
   },
   {
+    "event_id": 401772936,
+    "week": 2,
+    "team": "Commanders",
+    "opponent": "Packers",
+    "metric": 17.7,
+    "metric_allowed": 36.7
+  },
+  {
     "event_id": 401772510,
     "week": 1,
     "team": "Cowboys",
@@ -150,6 +158,14 @@
     "opponent": "Steelers",
     "metric": 28,
     "metric_allowed": 12.3
+  },
+  {
+    "event_id": 401772936,
+    "week": 2,
+    "team": "Packers",
+    "opponent": "Commanders",
+    "metric": 36.7,
+    "metric_allowed": 17.7
   },
   {
     "event_id": 401772828,

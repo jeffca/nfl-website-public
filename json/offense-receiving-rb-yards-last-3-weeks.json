@@ -42,12 +42,6 @@
     "metric": 32.0
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 31.0
-  },
-  {
     "player": "Jahmyr Gibbs",
     "team": "Lions",
     "opponent": "Bears",
@@ -237,6 +231,12 @@
     "player": "Kenneth Gainwell",
     "team": "Steelers",
     "opponent": "Seahawks",
+    "metric": 4.0
+  },
+  {
+    "player": "Kenneth Walker III",
+    "team": "Seahawks",
+    "opponent": "Steelers",
     "metric": 4.0
   }
 ]

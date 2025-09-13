@@ -60,12 +60,6 @@
     "metric": 11.0
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 10.0
-  },
-  {
     "player": "Dare Ogunbowale",
     "team": "Texans",
     "opponent": "Buccaneers",
@@ -238,5 +232,11 @@
     "team": "Bengals",
     "opponent": "Jaguars",
     "metric": 3.0
+  },
+  {
+    "player": "Bucky Irving",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 2.0
   }
 ]

@@ -96,6 +96,14 @@
     "rushing_yards_allowed": 30
   },
   {
+    "event_id": 401772936,
+    "week": 2,
+    "team": "Commanders",
+    "opponent": "Packers",
+    "rushing_yards": 34,
+    "rushing_yards_allowed": 84
+  },
+  {
     "event_id": 401772510,
     "week": 1,
     "team": "Cowboys",
@@ -150,6 +158,14 @@
     "opponent": "Steelers",
     "rushing_yards": 134,
     "rushing_yards_allowed": 54
+  },
+  {
+    "event_id": 401772936,
+    "week": 2,
+    "team": "Packers",
+    "opponent": "Commanders",
+    "rushing_yards": 84,
+    "rushing_yards_allowed": 34
   },
   {
     "event_id": 401772828,

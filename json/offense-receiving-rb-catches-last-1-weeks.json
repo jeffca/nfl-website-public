@@ -66,12 +66,6 @@
     "metric": 3.0
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 3.0
-  },
-  {
     "player": "Chuba Hubbard",
     "team": "Panthers",
     "opponent": "Cardinals",
@@ -237,6 +231,12 @@
     "player": "Jerome Ford",
     "team": "Browns",
     "opponent": "Ravens",
+    "metric": 1.0
+  },
+  {
+    "player": "Jordan Mason",
+    "team": "Vikings",
+    "opponent": "Falcons",
     "metric": 1.0
   }
 ]

@@ -189,13 +189,6 @@
     "position": "RB"
   },
   {
-    "player": "Jacory Croskey-Merritt",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 10.0,
-    "position": "RB"
-  },
-  {
     "player": "Kenneth Walker III",
     "team": "Seattle Seahawks",
     "opponent": "Steelers",
@@ -266,16 +259,23 @@
     "position": "RB"
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
+    "player": "Braelon Allen",
+    "team": "New York Jets",
+    "opponent": "Bills",
     "metric": 6.0,
     "position": "RB"
   },
   {
-    "player": "Braelon Allen",
-    "team": "New York Jets",
-    "opponent": "Bills",
+    "player": "Jerome Ford",
+    "team": "Cleveland Browns",
+    "opponent": "Ravens",
+    "metric": 6.0,
+    "position": "RB"
+  },
+  {
+    "player": "RJ Harvey",
+    "team": "Denver Broncos",
+    "opponent": "Colts",
     "metric": 6.0,
     "position": "RB"
   }

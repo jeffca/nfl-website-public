@@ -174,12 +174,6 @@
     "metric": 9.0
   },
   {
-    "player": "Zach Ertz",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 9.0
-  },
-  {
     "player": "Jeremy Ruckert",
     "team": "Jets",
     "opponent": "Bills",
@@ -237,6 +231,12 @@
     "player": "George Kittle",
     "team": "49ers",
     "opponent": "Saints",
+    "metric": 6.0
+  },
+  {
+    "player": "Hunter Long",
+    "team": "Jaguars",
+    "opponent": "Bengals",
     "metric": 6.0
   }
 ]

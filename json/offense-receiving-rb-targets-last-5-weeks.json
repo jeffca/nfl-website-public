@@ -108,12 +108,6 @@
     "metric": 3.0
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 3.0
-  },
-  {
     "player": "Chase Brown",
     "team": "Bengals",
     "opponent": "Jaguars",
@@ -238,5 +232,11 @@
     "team": "Bills",
     "opponent": "Jets",
     "metric": 2.0
+  },
+  {
+    "player": "Antonio Gibson",
+    "team": "Patriots",
+    "opponent": "Dolphins",
+    "metric": 1.0
   }
 ]

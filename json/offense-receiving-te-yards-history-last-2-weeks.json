@@ -16,6 +16,14 @@
     "metric": 20
   },
   {
+    "event_id": 401772810,
+    "player_id": 4723086,
+    "player": "Colston Loveland",
+    "opponent": "Vikings",
+    "week": 1,
+    "metric": 12
+  },
+  {
     "event_id": 401772832,
     "player_id": 4686728,
     "player": "Gunnar Helm",
@@ -310,13 +318,5 @@
     "opponent": "Chargers",
     "week": 1,
     "metric": 47
-  },
-  {
-    "event_id": 401772827,
-    "player_id": 15835,
-    "player": "Zach Ertz",
-    "opponent": "Giants",
-    "week": 1,
-    "metric": 26
   }
 ]

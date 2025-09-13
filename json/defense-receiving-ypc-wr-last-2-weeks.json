@@ -80,11 +80,6 @@
     "metric_allowed": 9.8
   },
   {
-    "team": "Packers",
-    "opponent": "Commanders",
-    "metric_allowed": 9.5
-  },
-  {
     "team": "Vikings",
     "opponent": "Falcons",
     "metric_allowed": 9.1
@@ -128,11 +123,6 @@
     "team": "Falcons",
     "opponent": "Vikings",
     "metric_allowed": 8.0
-  },
-  {
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric_allowed": 7.8
   },
   {
     "team": "Jaguars",

@@ -147,13 +147,6 @@
     "position": "RB"
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
     "player": "Bhayshul Tuten",
     "team": "Jacksonville Jaguars",
     "opponent": "Bengals",
@@ -266,16 +259,23 @@
     "position": "RB"
   },
   {
-    "player": "Jacory Croskey-Merritt",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
+    "player": "Jahmyr Gibbs",
+    "team": "Detroit Lions",
+    "opponent": "Bears",
     "metric": 0.0,
     "position": "RB"
   },
   {
-    "player": "Jahmyr Gibbs",
-    "team": "Detroit Lions",
-    "opponent": "Bears",
+    "player": "James Conner",
+    "team": "Arizona Cardinals",
+    "opponent": "Panthers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "James Cook",
+    "team": "Buffalo Bills",
+    "opponent": "Jets",
     "metric": 0.0,
     "position": "RB"
   }

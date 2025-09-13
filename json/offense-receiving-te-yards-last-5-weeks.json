@@ -126,12 +126,6 @@
     "metric": 26.0
   },
   {
-    "player": "Zach Ertz",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 26.0
-  },
-  {
     "player": "George Kittle",
     "team": "49ers",
     "opponent": "Saints",
@@ -238,5 +232,11 @@
     "team": "Rams",
     "opponent": "Titans",
     "metric": 13.0
+  },
+  {
+    "player": "Colston Loveland",
+    "team": "Bears",
+    "opponent": "Lions",
+    "metric": 12.0
   }
 ]

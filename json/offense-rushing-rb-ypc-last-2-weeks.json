@@ -63,13 +63,6 @@
     "position": "RB"
   },
   {
-    "player": "Jacory Croskey-Merritt",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
-    "metric": 8.0,
-    "position": "RB"
-  },
-  {
     "player": "LeQuint Allen Jr.",
     "team": "Jacksonville Jaguars",
     "opponent": "Bengals",
@@ -87,13 +80,6 @@
     "player": "Breece Hall",
     "team": "New York Jets",
     "opponent": "Bills",
-    "metric": 6.0,
-    "position": "RB"
-  },
-  {
-    "player": "Jeremy McNichols",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
     "metric": 6.0,
     "position": "RB"
   },
@@ -164,13 +150,6 @@
     "player": "Alvin Kamara",
     "team": "New Orleans Saints",
     "opponent": "49ers",
-    "metric": 4.0,
-    "position": "RB"
-  },
-  {
-    "player": "Austin Ekeler",
-    "team": "Washington Commanders",
-    "opponent": "Packers",
     "metric": 4.0,
     "position": "RB"
   },
@@ -276,6 +255,27 @@
     "player": "Christian McCaffrey",
     "team": "San Francisco 49ers",
     "opponent": "Saints",
+    "metric": 3.0,
+    "position": "RB"
+  },
+  {
+    "player": "D'Andre Swift",
+    "team": "Chicago Bears",
+    "opponent": "Lions",
+    "metric": 3.0,
+    "position": "RB"
+  },
+  {
+    "player": "DJ Giddens",
+    "team": "Indianapolis Colts",
+    "opponent": "Broncos",
+    "metric": 3.0,
+    "position": "RB"
+  },
+  {
+    "player": "Devin Singletary",
+    "team": "New York Giants",
+    "opponent": "Cowboys",
     "metric": 3.0,
     "position": "RB"
   }

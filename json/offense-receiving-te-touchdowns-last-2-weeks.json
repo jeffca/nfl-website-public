@@ -48,12 +48,6 @@
     "metric": 1.0
   },
   {
-    "player": "Zach Ertz",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 1.0
-  },
-  {
     "player": "AJ Barner",
     "team": "Seahawks",
     "opponent": "Steelers",
@@ -237,6 +231,12 @@
     "player": "Juwan Johnson",
     "team": "Saints",
     "opponent": "49ers",
+    "metric": 0.0
+  },
+  {
+    "player": "Kyle Pitts Sr.",
+    "team": "Falcons",
+    "opponent": "Vikings",
     "metric": 0.0
   }
 ]

@@ -144,12 +144,6 @@
     "metric": 3.0
   },
   {
-    "player": "Zach Ertz",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 3.0
-  },
-  {
     "player": "Colby Parkinson",
     "team": "Rams",
     "opponent": "Titans",
@@ -237,6 +231,12 @@
     "player": "Elijah Arroyo",
     "team": "Seahawks",
     "opponent": "Steelers",
+    "metric": 1.0
+  },
+  {
+    "player": "Elijah Higgins",
+    "team": "Cardinals",
+    "opponent": "Panthers",
     "metric": 1.0
   }
 ]

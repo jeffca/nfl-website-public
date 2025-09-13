@@ -48,12 +48,6 @@
     "metric": 7.0
   },
   {
-    "player": "Deebo Samuel",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 7.0
-  },
-  {
     "player": "Garrett Wilson",
     "team": "Jets",
     "opponent": "Bills",
@@ -237,6 +231,12 @@
     "player": "Justin Jefferson",
     "team": "Vikings",
     "opponent": "Falcons",
+    "metric": 4.0
+  },
+  {
+    "player": "Olamide Zaccheaus",
+    "team": "Bears",
+    "opponent": "Lions",
     "metric": 4.0
   }
 ]

@@ -12,12 +12,6 @@
     "metric": 36.0
   },
   {
-    "player": "Chris Moore",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 34.0
-  },
-  {
     "player": "Jalen Nailor",
     "team": "Vikings",
     "opponent": "Falcons",
@@ -186,18 +180,6 @@
     "metric": 14.0
   },
   {
-    "player": "Noah Brown",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 14.0
-  },
-  {
-    "player": "Terry McLaurin",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 14.0
-  },
-  {
     "player": "Tetairoa McMillan",
     "team": "Panthers",
     "opponent": "Cardinals",
@@ -238,5 +220,23 @@
     "team": "Colts",
     "opponent": "Broncos",
     "metric": 13.0
+  },
+  {
+    "player": "Puka Nacua",
+    "team": "Rams",
+    "opponent": "Titans",
+    "metric": 13.0
+  },
+  {
+    "player": "Sterling Shepard",
+    "team": "Buccaneers",
+    "opponent": "Texans",
+    "metric": 13.0
+  },
+  {
+    "player": "Jakobi Meyers",
+    "team": "Raiders",
+    "opponent": "Chargers",
+    "metric": 12.0
   }
 ]

@@ -48,14 +48,6 @@
     "metric": 14
   },
   {
-    "event_id": 401772827,
-    "player_id": 4575131,
-    "player": "Jacory Croskey-Merritt",
-    "opponent": "New York Giants",
-    "week": 1,
-    "metric": 10
-  },
-  {
     "event_id": 401772721,
     "player_id": 4569987,
     "player": "Jaylen Warren",
@@ -158,6 +150,14 @@
     "opponent": "Tampa Bay Buccaneers",
     "week": 1,
     "metric": 10
+  },
+  {
+    "event_id": 401772829,
+    "player_id": 4372019,
+    "player": "Jerome Ford",
+    "opponent": "Cincinnati Bengals",
+    "week": 1,
+    "metric": 6
   },
   {
     "event_id": 401772721,

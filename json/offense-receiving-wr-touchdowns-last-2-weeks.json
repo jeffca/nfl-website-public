@@ -186,12 +186,6 @@
     "metric": 0.0
   },
   {
-    "player": "Chris Moore",
-    "team": "Commanders",
-    "opponent": "Packers",
-    "metric": 0.0
-  },
-  {
     "player": "Chris Olave",
     "team": "Saints",
     "opponent": "49ers",
@@ -237,6 +231,12 @@
     "player": "Dee Eskridge",
     "team": "Dolphins",
     "opponent": "Patriots",
+    "metric": 0.0
+  },
+  {
+    "player": "Devaughn Vele",
+    "team": "Saints",
+    "opponent": "49ers",
     "metric": 0.0
   }
 ]

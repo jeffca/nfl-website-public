@@ -72,6 +72,14 @@
     "metric": 5
   },
   {
+    "event_id": 401772832,
+    "player_id": 4431280,
+    "player": "Troy Franklin",
+    "opponent": "Titans",
+    "week": 1,
+    "metric": 4
+  },
+  {
     "event_id": 401772831,
     "player_id": 4430878,
     "player": "Jaxon Smith-Njigba",
@@ -270,14 +278,6 @@
     "opponent": "Titans",
     "week": 1,
     "metric": 6
-  },
-  {
-    "event_id": 401772827,
-    "player_id": 3126486,
-    "player": "Deebo Samuel",
-    "opponent": "Giants",
-    "week": 1,
-    "metric": 7
   },
   {
     "event_id": 401772714,
