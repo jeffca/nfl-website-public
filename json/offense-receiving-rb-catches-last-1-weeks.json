@@ -1,242 +1,242 @@
 [
   {
-    "player": "Jahmyr Gibbs",
-    "team": "Lions",
-    "opponent": "Bears",
-    "metric": 10.0
-  },
-  {
     "player": "Christian McCaffrey",
     "team": "49ers",
-    "opponent": "Saints",
-    "metric": 9.0
-  },
-  {
-    "player": "Dylan Sampson",
-    "team": "Browns",
-    "opponent": "Ravens",
-    "metric": 8.0
-  },
-  {
-    "player": "Bijan Robinson",
-    "team": "Falcons",
-    "opponent": "Vikings",
+    "opponent": "Rams",
     "metric": 6.0
   },
   {
-    "player": "TreVeyon Henderson",
-    "team": "Patriots",
-    "opponent": "Dolphins",
+    "player": "Zavier Scott",
+    "team": "Vikings",
+    "opponent": "Browns",
     "metric": 6.0
   },
   {
-    "player": "James Cook",
-    "team": "Bills",
-    "opponent": "Jets",
+    "player": "Breece Hall",
+    "team": "Jets",
+    "opponent": "Cowboys",
     "metric": 5.0
   },
   {
     "player": "Bucky Irving",
     "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 5.0
+  },
+  {
+    "player": "Jonathan Taylor",
+    "team": "Colts",
+    "opponent": "Raiders",
+    "metric": 5.0
+  },
+  {
+    "player": "Justice Hill",
+    "team": "Ravens",
     "opponent": "Texans",
-    "metric": 4.0
+    "metric": 5.0
   },
   {
-    "player": "David Montgomery",
-    "team": "Lions",
-    "opponent": "Bears",
-    "metric": 4.0
+    "player": "Omarion Hampton",
+    "team": "Chargers",
+    "opponent": "Commanders",
+    "metric": 5.0
   },
   {
-    "player": "James Conner",
+    "player": "Trey Benson",
     "team": "Cardinals",
-    "opponent": "Panthers",
+    "opponent": "Titans",
+    "metric": 5.0
+  },
+  {
+    "player": "Alvin Kamara",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 4.0
+  },
+  {
+    "player": "RJ Harvey",
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric": 4.0
+  },
+  {
+    "player": "Rachaad White",
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
     "metric": 4.0
   },
   {
     "player": "Saquon Barkley",
     "team": "Eagles",
-    "opponent": "Chiefs",
+    "opponent": "Broncos",
     "metric": 4.0
   },
   {
-    "player": "Aaron Jones Sr.",
-    "team": "Vikings",
-    "opponent": "Falcons",
+    "player": "Woody Marks",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 4.0
+  },
+  {
+    "player": "Brashard Smith",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 3.0
+  },
+  {
+    "player": "Chase Brown",
+    "team": "Bengals",
+    "opponent": "Lions",
     "metric": 3.0
   },
   {
     "player": "Chuba Hubbard",
     "team": "Panthers",
-    "opponent": "Cardinals",
+    "opponent": "Dolphins",
     "metric": 3.0
   },
   {
-    "player": "D'Andre Swift",
-    "team": "Bears",
-    "opponent": "Lions",
-    "metric": 3.0
-  },
-  {
-    "player": "De'Von Achane",
-    "team": "Dolphins",
+    "player": "James Cook",
+    "team": "Bills",
     "opponent": "Patriots",
     "metric": 3.0
   },
   {
-    "player": "Jonathan Taylor",
-    "team": "Colts",
-    "opponent": "Broncos",
+    "player": "Javonte Williams",
+    "team": "Cowboys",
+    "opponent": "Jets",
     "metric": 3.0
   },
   {
-    "player": "Kenneth Gainwell",
-    "team": "Steelers",
-    "opponent": "Seahawks",
+    "player": "Jordan Mason",
+    "team": "Vikings",
+    "opponent": "Browns",
     "metric": 3.0
   },
   {
-    "player": "Kenneth Walker III",
-    "team": "Seahawks",
-    "opponent": "Steelers",
-    "metric": 3.0
-  },
-  {
-    "player": "Travis Etienne Jr.",
-    "team": "Jaguars",
-    "opponent": "Bengals",
-    "metric": 3.0
-  },
-  {
-    "player": "Alvin Kamara",
-    "team": "Saints",
+    "player": "Kyren Williams",
+    "team": "Rams",
     "opponent": "49ers",
-    "metric": 2.0
+    "metric": 3.0
+  },
+  {
+    "player": "Tony Pollard",
+    "team": "Titans",
+    "opponent": "Cardinals",
+    "metric": 3.0
   },
   {
     "player": "Ashton Jeanty",
     "team": "Raiders",
-    "opponent": "Chargers",
-    "metric": 2.0
-  },
-  {
-    "player": "Breece Hall",
-    "team": "Jets",
-    "opponent": "Bills",
-    "metric": 2.0
-  },
-  {
-    "player": "Cam Skattebo",
-    "team": "Giants",
-    "opponent": "Cowboys",
-    "metric": 2.0
-  },
-  {
-    "player": "Chase Brown",
-    "team": "Bengals",
-    "opponent": "Jaguars",
-    "metric": 2.0
-  },
-  {
-    "player": "Dare Ogunbowale",
-    "team": "Texans",
-    "opponent": "Buccaneers",
-    "metric": 2.0
-  },
-  {
-    "player": "Isiah Pacheco",
-    "team": "Chiefs",
-    "opponent": "Eagles",
-    "metric": 2.0
-  },
-  {
-    "player": "J.K. Dobbins",
-    "team": "Broncos",
     "opponent": "Colts",
-    "metric": 2.0
-  },
-  {
-    "player": "Javonte Williams",
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "metric": 2.0
-  },
-  {
-    "player": "Jaylen Warren",
-    "team": "Steelers",
-    "opponent": "Seahawks",
-    "metric": 2.0
-  },
-  {
-    "player": "Kareem Hunt",
-    "team": "Chiefs",
-    "opponent": "Eagles",
-    "metric": 2.0
-  },
-  {
-    "player": "Omarion Hampton",
-    "team": "Chargers",
-    "opponent": "Raiders",
-    "metric": 2.0
-  },
-  {
-    "player": "Rhamondre Stevenson",
-    "team": "Patriots",
-    "opponent": "Dolphins",
-    "metric": 2.0
-  },
-  {
-    "player": "Rico Dowdle",
-    "team": "Panthers",
-    "opponent": "Cardinals",
-    "metric": 2.0
-  },
-  {
-    "player": "Samaje Perine",
-    "team": "Bengals",
-    "opponent": "Jaguars",
-    "metric": 2.0
-  },
-  {
-    "player": "Tyler Badie",
-    "team": "Broncos",
-    "opponent": "Colts",
-    "metric": 2.0
-  },
-  {
-    "player": "Tyrone Tracy Jr.",
-    "team": "Giants",
-    "opponent": "Cowboys",
     "metric": 2.0
   },
   {
     "player": "Blake Corum",
     "team": "Rams",
-    "opponent": "Titans",
-    "metric": 1.0
+    "opponent": "49ers",
+    "metric": 2.0
   },
   {
-    "player": "Brian Robinson Jr.",
-    "team": "49ers",
+    "player": "Cam Skattebo",
+    "team": "Giants",
     "opponent": "Saints",
-    "metric": 1.0
+    "metric": 2.0
   },
   {
     "player": "Derrick Henry",
     "team": "Ravens",
-    "opponent": "Browns",
+    "opponent": "Texans",
+    "metric": 2.0
+  },
+  {
+    "player": "Emari Demercado",
+    "team": "Cardinals",
+    "opponent": "Titans",
+    "metric": 2.0
+  },
+  {
+    "player": "Isaiah Davis",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 2.0
+  },
+  {
+    "player": "Isiah Pacheco",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 2.0
+  },
+  {
+    "player": "Jacory Croskey-Merritt",
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric": 2.0
+  },
+  {
+    "player": "Jahmyr Gibbs",
+    "team": "Lions",
+    "opponent": "Bengals",
+    "metric": 2.0
+  },
+  {
+    "player": "Miles Sanders",
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric": 2.0
+  },
+  {
+    "player": "Nick Chubb",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 2.0
+  },
+  {
+    "player": "TreVeyon Henderson",
+    "team": "Patriots",
+    "opponent": "Bills",
+    "metric": 2.0
+  },
+  {
+    "player": "Zach Charbonnet",
+    "team": "Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 2.0
+  },
+  {
+    "player": "Bhayshul Tuten",
+    "team": "Jaguars",
+    "opponent": "Chiefs",
+    "metric": 1.0
+  },
+  {
+    "player": "De'Von Achane",
+    "team": "Dolphins",
+    "opponent": "Panthers",
+    "metric": 1.0
+  },
+  {
+    "player": "J.K. Dobbins",
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric": 1.0
+  },
+  {
+    "player": "Jeremy McNichols",
+    "team": "Commanders",
+    "opponent": "Chargers",
     "metric": 1.0
   },
   {
     "player": "Jerome Ford",
     "team": "Browns",
-    "opponent": "Ravens",
+    "opponent": "Vikings",
     "metric": 1.0
   },
   {
-    "player": "Jordan Mason",
-    "team": "Vikings",
-    "opponent": "Falcons",
+    "player": "Kareem Hunt",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
     "metric": 1.0
   }
 ]

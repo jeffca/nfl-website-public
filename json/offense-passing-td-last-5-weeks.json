@@ -1,0 +1,242 @@
+[
+  {
+    "player": "Lamar Jackson",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 2.5
+  },
+  {
+    "player": "Jared Goff",
+    "team": "Lions",
+    "opponent": "Bengals",
+    "metric": 2.3
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 2.0
+  },
+  {
+    "player": "Brock Purdy",
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric": 2.0
+  },
+  {
+    "player": "Carson Wentz",
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric": 2.0
+  },
+  {
+    "player": "Mac Jones",
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric": 2.0
+  },
+  {
+    "player": "Matthew Stafford",
+    "team": "Rams",
+    "opponent": "49ers",
+    "metric": 2.0
+  },
+  {
+    "player": "Bo Nix",
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric": 1.8
+  },
+  {
+    "player": "Drake Maye",
+    "team": "Patriots",
+    "opponent": "Bills",
+    "metric": 1.8
+  },
+  {
+    "player": "Josh Allen",
+    "team": "Bills",
+    "opponent": "Patriots",
+    "metric": 1.8
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Chargers",
+    "opponent": "Commanders",
+    "metric": 1.8
+  },
+  {
+    "player": "Patrick Mahomes",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 1.8
+  },
+  {
+    "player": "Tua Tagovailoa",
+    "team": "Dolphins",
+    "opponent": "Panthers",
+    "metric": 1.8
+  },
+  {
+    "player": "Dak Prescott",
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric": 1.5
+  },
+  {
+    "player": "Geno Smith",
+    "team": "Raiders",
+    "opponent": "Colts",
+    "metric": 1.5
+  },
+  {
+    "player": "Jayden Daniels",
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric": 1.5
+  },
+  {
+    "player": "Kyler Murray",
+    "team": "Cardinals",
+    "opponent": "Titans",
+    "metric": 1.5
+  },
+  {
+    "player": "Marcus Mariota",
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric": 1.5
+  },
+  {
+    "player": "Tyrod Taylor",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 1.5
+  },
+  {
+    "player": "Bryce Young",
+    "team": "Panthers",
+    "opponent": "Dolphins",
+    "metric": 1.3
+  },
+  {
+    "player": "Jalen Hurts",
+    "team": "Eagles",
+    "opponent": "Broncos",
+    "metric": 1.3
+  },
+  {
+    "player": "Sam Darnold",
+    "team": "Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 1.3
+  },
+  {
+    "player": "Spencer Rattler",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 1.3
+  },
+  {
+    "player": "Trevor Lawrence",
+    "team": "Jaguars",
+    "opponent": "Chiefs",
+    "metric": 1.3
+  },
+  {
+    "player": "Andy Dalton",
+    "team": "Panthers",
+    "opponent": "Dolphins",
+    "metric": 1.0
+  },
+  {
+    "player": "C.J. Stroud",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 1.0
+  },
+  {
+    "player": "Daniel Jones",
+    "team": "Colts",
+    "opponent": "Raiders",
+    "metric": 1.0
+  },
+  {
+    "player": "J.J. McCarthy",
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric": 1.0
+  },
+  {
+    "player": "Jake Browning",
+    "team": "Bengals",
+    "opponent": "Lions",
+    "metric": 1.0
+  },
+  {
+    "player": "Jaxson Dart",
+    "team": "Giants",
+    "opponent": "Saints",
+    "metric": 1.0
+  },
+  {
+    "player": "Joe Burrow",
+    "team": "Bengals",
+    "opponent": "Lions",
+    "metric": 1.0
+  },
+  {
+    "player": "Russell Wilson",
+    "team": "Giants",
+    "opponent": "Saints",
+    "metric": 0.8
+  },
+  {
+    "player": "Justin Fields",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 0.7
+  },
+  {
+    "player": "Cam Ward",
+    "team": "Titans",
+    "opponent": "Cardinals",
+    "metric": 0.5
+  },
+  {
+    "player": "Dillon Gabriel",
+    "team": "Browns",
+    "opponent": "Vikings",
+    "metric": 0.5
+  },
+  {
+    "player": "Joe Flacco",
+    "team": "Browns",
+    "opponent": "Vikings",
+    "metric": 0.5
+  },
+  {
+    "player": "Brett Rypien",
+    "team": "Bengals",
+    "opponent": "Lions",
+    "metric": 0.0
+  },
+  {
+    "player": "Chris Olave",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 0.0
+  },
+  {
+    "player": "Cooper Rush",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 0.0
+  },
+  {
+    "player": "Derrick Henry",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 0.0
+  }
+]

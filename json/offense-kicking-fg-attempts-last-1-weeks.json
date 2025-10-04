@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "player": "Harrison Butker",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 4.0
+  },
+  {
+    "player": "Jason Myers",
+    "team": "Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 4.0
+  },
+  {
+    "player": "Matt Gay",
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric": 4.0
+  },
+  {
+    "player": "Cam Little",
+    "team": "Jaguars",
+    "opponent": "Chiefs",
+    "metric": 3.0
+  },
+  {
+    "player": "Chase McLaughlin",
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 3.0
+  },
+  {
+    "player": "Ka'imi Fairbairn",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 3.0
+  },
+  {
+    "player": "Andre Szmyt",
+    "team": "Browns",
+    "opponent": "Vikings",
+    "metric": 2.0
+  },
+  {
+    "player": "Blake Grupe",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 2.0
+  },
+  {
+    "player": "Chad Ryland",
+    "team": "Cardinals",
+    "opponent": "Titans",
+    "metric": 2.0
+  },
+  {
+    "player": "Daniel Carlson",
+    "team": "Raiders",
+    "opponent": "Colts",
+    "metric": 2.0
+  },
+  {
+    "player": "Eddy Pineiro",
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric": 2.0
+  },
+  {
+    "player": "Jake Bates",
+    "team": "Lions",
+    "opponent": "Bengals",
+    "metric": 2.0
+  },
+  {
+    "player": "Joey Slye",
+    "team": "Titans",
+    "opponent": "Cardinals",
+    "metric": 2.0
+  },
+  {
+    "player": "Joshua Karty",
+    "team": "Rams",
+    "opponent": "49ers",
+    "metric": 2.0
+  },
+  {
+    "player": "Jude McAtamney",
+    "team": "Giants",
+    "opponent": "Saints",
+    "metric": 2.0
+  },
+  {
+    "player": "Nick Folk",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 2.0
+  },
+  {
+    "player": "Riley Patterson",
+    "team": "Dolphins",
+    "opponent": "Panthers",
+    "metric": 2.0
+  },
+  {
+    "player": "Spencer Shrader",
+    "team": "Colts",
+    "opponent": "Raiders",
+    "metric": 2.0
+  },
+  {
+    "player": "Tyler Loop",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 2.0
+  },
+  {
+    "player": "Will Reichard",
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric": 2.0
+  },
+  {
+    "player": "Brandon Aubrey",
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric": 1.0
+  },
+  {
+    "player": "Cameron Dicker",
+    "team": "Chargers",
+    "opponent": "Commanders",
+    "metric": 1.0
+  },
+  {
+    "player": "Evan McPherson",
+    "team": "Bengals",
+    "opponent": "Lions",
+    "metric": 1.0
+  },
+  {
+    "player": "Jake Elliott",
+    "team": "Eagles",
+    "opponent": "Broncos",
+    "metric": 1.0
+  },
+  {
+    "player": "Matt Prater",
+    "team": "Bills",
+    "opponent": "Patriots",
+    "metric": 1.0
+  },
+  {
+    "player": "Ryan Fitzgerald",
+    "team": "Panthers",
+    "opponent": "Dolphins",
+    "metric": 1.0
+  },
+  {
+    "player": "Andy Borregales",
+    "team": "Patriots",
+    "opponent": "Bills",
+    "metric": 0.0
+  },
+  {
+    "player": "Wil Lutz",
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric": 0.0
+  }
+]

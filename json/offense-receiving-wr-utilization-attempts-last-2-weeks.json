@@ -1,282 +1,282 @@
 [
   {
-    "player": "Jaxon Smith-Njigba",
-    "team": "Seattle Seahawks",
-    "opponent": "Steelers",
-    "metric": 1.0,
+    "player": "Puka Nacua",
+    "team": "Los Angeles Rams",
+    "opponent": "49ers",
+    "metric": 41.5,
     "position": "WR"
   },
   {
     "player": "A.J. Brown",
     "team": "Philadelphia Eagles",
-    "opponent": "Chiefs",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Adam Thielen",
-    "team": "Minnesota Vikings",
-    "opponent": "Falcons",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Adonai Mitchell",
-    "team": "Indianapolis Colts",
     "opponent": "Broncos",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Alec Pierce",
-    "team": "Indianapolis Colts",
-    "opponent": "Broncos",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Alex Bachman",
-    "team": "Las Vegas Raiders",
-    "opponent": "Chargers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Amon-Ra St. Brown",
-    "team": "Detroit Lions",
-    "opponent": "Bears",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Ben Skowronek",
-    "team": "Pittsburgh Steelers",
-    "opponent": "Seahawks",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Brandin Cooks",
-    "team": "New Orleans Saints",
-    "opponent": "49ers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Brian Thomas Jr.",
-    "team": "Jacksonville Jaguars",
-    "opponent": "Bengals",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Bryce Oliver",
-    "team": "Tennessee Titans",
-    "opponent": "Rams",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Calvin Austin III",
-    "team": "Pittsburgh Steelers",
-    "opponent": "Seahawks",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Calvin Ridley",
-    "team": "Tennessee Titans",
-    "opponent": "Rams",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Casey Washington",
-    "team": "Atlanta Falcons",
-    "opponent": "Vikings",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Cedric Tillman",
-    "team": "Cleveland Browns",
-    "opponent": "Ravens",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "CeeDee Lamb",
-    "team": "Dallas Cowboys",
-    "opponent": "Giants",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Chimere Dike",
-    "team": "Tennessee Titans",
-    "opponent": "Rams",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Chris Olave",
-    "team": "New Orleans Saints",
-    "opponent": "49ers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Cooper Kupp",
-    "team": "Seattle Seahawks",
-    "opponent": "Steelers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Courtland Sutton",
-    "team": "Denver Broncos",
-    "opponent": "Colts",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "DJ Moore",
-    "team": "Chicago Bears",
-    "opponent": "Lions",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "DK Metcalf",
-    "team": "Pittsburgh Steelers",
-    "opponent": "Seahawks",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Darius Slayton",
-    "team": "New York Giants",
-    "opponent": "Cowboys",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Davante Adams",
-    "team": "Los Angeles Rams",
-    "opponent": "Titans",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "DeAndre Hopkins",
-    "team": "Baltimore Ravens",
-    "opponent": "Browns",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "DeMario Douglas",
-    "team": "New England Patriots",
-    "opponent": "Dolphins",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "DeVonta Smith",
-    "team": "Philadelphia Eagles",
-    "opponent": "Chiefs",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Dee Eskridge",
-    "team": "Miami Dolphins",
-    "opponent": "Patriots",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Devaughn Vele",
-    "team": "New Orleans Saints",
-    "opponent": "49ers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Dont'e Thornton Jr.",
-    "team": "Las Vegas Raiders",
-    "opponent": "Chargers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Drake London",
-    "team": "Atlanta Falcons",
-    "opponent": "Vikings",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Dyami Brown",
-    "team": "Jacksonville Jaguars",
-    "opponent": "Bengals",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Elic Ayomanor",
-    "team": "Tennessee Titans",
-    "opponent": "Rams",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Elijah Moore",
-    "team": "Buffalo Bills",
-    "opponent": "Jets",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Emeka Egbuka",
-    "team": "Tampa Bay Buccaneers",
-    "opponent": "Texans",
-    "metric": 0.0,
+    "metric": 35.4,
     "position": "WR"
   },
   {
     "player": "Garrett Wilson",
     "team": "New York Jets",
+    "opponent": "Cowboys",
+    "metric": 33.4,
+    "position": "WR"
+  },
+  {
+    "player": "Ja'Marr Chase",
+    "team": "Cincinnati Bengals",
+    "opponent": "Lions",
+    "metric": 29.7,
+    "position": "WR"
+  },
+  {
+    "player": "Amon-Ra St. Brown",
+    "team": "Detroit Lions",
+    "opponent": "Bengals",
+    "metric": 29.4,
+    "position": "WR"
+  },
+  {
+    "player": "Tetairoa McMillan",
+    "team": "Carolina Panthers",
+    "opponent": "Dolphins",
+    "metric": 29.2,
+    "position": "WR"
+  },
+  {
+    "player": "Chris Olave",
+    "team": "New Orleans Saints",
+    "opponent": "Giants",
+    "metric": 29.1,
+    "position": "WR"
+  },
+  {
+    "player": "Mike Evans",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 28.6,
+    "position": "WR"
+  },
+  {
+    "player": "Quentin Johnston",
+    "team": "Los Angeles Chargers",
+    "opponent": "Commanders",
+    "metric": 28.0,
+    "position": "WR"
+  },
+  {
+    "player": "Justin Jefferson",
+    "team": "Minnesota Vikings",
+    "opponent": "Browns",
+    "metric": 27.7,
+    "position": "WR"
+  },
+  {
+    "player": "Michael Pittman Jr.",
+    "team": "Indianapolis Colts",
+    "opponent": "Raiders",
+    "metric": 27.6,
+    "position": "WR"
+  },
+  {
+    "player": "Tyreek Hill",
+    "team": "Miami Dolphins",
+    "opponent": "Panthers",
+    "metric": 27.2,
+    "position": "WR"
+  },
+  {
+    "player": "Emeka Egbuka",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 27.1,
+    "position": "WR"
+  },
+  {
+    "player": "Nico Collins",
+    "team": "Houston Texans",
+    "opponent": "Ravens",
+    "metric": 26.0,
+    "position": "WR"
+  },
+  {
+    "player": "Jaxon Smith-Njigba",
+    "team": "Seattle Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 25.4,
+    "position": "WR"
+  },
+  {
+    "player": "Jakobi Meyers",
+    "team": "Las Vegas Raiders",
+    "opponent": "Colts",
+    "metric": 24.9,
+    "position": "WR"
+  },
+  {
+    "player": "Stefon Diggs",
+    "team": "New England Patriots",
     "opponent": "Bills",
-    "metric": 0.0,
+    "metric": 24.8,
     "position": "WR"
   },
   {
     "player": "George Pickens",
     "team": "Dallas Cowboys",
-    "opponent": "Giants",
-    "metric": 0.0,
+    "opponent": "Jets",
+    "metric": 24.7,
     "position": "WR"
   },
   {
-    "player": "Greg Dortch",
-    "team": "Arizona Cardinals",
-    "opponent": "Panthers",
-    "metric": 0.0,
-    "position": "WR"
-  },
-  {
-    "player": "Hollywood Brown",
-    "team": "Kansas City Chiefs",
+    "player": "Courtland Sutton",
+    "team": "Denver Broncos",
     "opponent": "Eagles",
-    "metric": 0.0,
+    "metric": 24.5,
     "position": "WR"
   },
   {
-    "player": "Hunter Renfrow",
-    "team": "Carolina Panthers",
+    "player": "Xavier Worthy",
+    "team": "Kansas City Chiefs",
+    "opponent": "Jaguars",
+    "metric": 22.9,
+    "position": "WR"
+  },
+  {
+    "player": "Elic Ayomanor",
+    "team": "Tennessee Titans",
     "opponent": "Cardinals",
-    "metric": 0.0,
+    "metric": 22.6,
+    "position": "WR"
+  },
+  {
+    "player": "Terry McLaurin",
+    "team": "Washington Commanders",
+    "opponent": "Chargers",
+    "metric": 22.2,
+    "position": "WR"
+  },
+  {
+    "player": "Jameson Williams",
+    "team": "Detroit Lions",
+    "opponent": "Bengals",
+    "metric": 21.8,
+    "position": "WR"
+  },
+  {
+    "player": "Tre Tucker",
+    "team": "Las Vegas Raiders",
+    "opponent": "Colts",
+    "metric": 21.7,
+    "position": "WR"
+  },
+  {
+    "player": "Marvin Harrison Jr.",
+    "team": "Arizona Cardinals",
+    "opponent": "Titans",
+    "metric": 21.3,
+    "position": "WR"
+  },
+  {
+    "player": "Keenan Allen",
+    "team": "Los Angeles Chargers",
+    "opponent": "Commanders",
+    "metric": 21.2,
+    "position": "WR"
+  },
+  {
+    "player": "Ricky Pearsall",
+    "team": "San Francisco 49ers",
+    "opponent": "Rams",
+    "metric": 21.2,
+    "position": "WR"
+  },
+  {
+    "player": "Jaylen Waddle",
+    "team": "Miami Dolphins",
+    "opponent": "Panthers",
+    "metric": 21.1,
+    "position": "WR"
+  },
+  {
+    "player": "Deebo Samuel",
+    "team": "Washington Commanders",
+    "opponent": "Chargers",
+    "metric": 20.8,
+    "position": "WR"
+  },
+  {
+    "player": "Jerry Jeudy",
+    "team": "Cleveland Browns",
+    "opponent": "Vikings",
+    "metric": 20.8,
+    "position": "WR"
+  },
+  {
+    "player": "Alec Pierce",
+    "team": "Indianapolis Colts",
+    "opponent": "Raiders",
+    "metric": 20.0,
+    "position": "WR"
+  },
+  {
+    "player": "Brian Thomas Jr.",
+    "team": "Jacksonville Jaguars",
+    "opponent": "Chiefs",
+    "metric": 19.6,
+    "position": "WR"
+  },
+  {
+    "player": "Davante Adams",
+    "team": "Los Angeles Rams",
+    "opponent": "49ers",
+    "metric": 19.6,
+    "position": "WR"
+  },
+  {
+    "player": "DeVonta Smith",
+    "team": "Philadelphia Eagles",
+    "opponent": "Broncos",
+    "metric": 19.2,
+    "position": "WR"
+  },
+  {
+    "player": "Malik Nabers",
+    "team": "New York Giants",
+    "opponent": "Saints",
+    "metric": 19.2,
+    "position": "WR"
+  },
+  {
+    "player": "Wan'Dale Robinson",
+    "team": "New York Giants",
+    "opponent": "Saints",
+    "metric": 19.2,
+    "position": "WR"
+  },
+  {
+    "player": "Khalil Shakir",
+    "team": "Buffalo Bills",
+    "opponent": "Patriots",
+    "metric": 18.8,
+    "position": "WR"
+  },
+  {
+    "player": "Zay Flowers",
+    "team": "Baltimore Ravens",
+    "opponent": "Texans",
+    "metric": 18.7,
+    "position": "WR"
+  },
+  {
+    "player": "Christian Kirk",
+    "team": "Houston Texans",
+    "opponent": "Ravens",
+    "metric": 18.3,
+    "position": "WR"
+  },
+  {
+    "player": "Troy Franklin",
+    "team": "Denver Broncos",
+    "opponent": "Eagles",
+    "metric": 18.2,
     "position": "WR"
   }
 ]

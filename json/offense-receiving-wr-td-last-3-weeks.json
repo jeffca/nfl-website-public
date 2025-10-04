@@ -1,0 +1,242 @@
+[
+  {
+    "player": "Amon-Ra St. Brown",
+    "team": "Lions",
+    "opponent": "Bengals",
+    "metric": 2.0
+  },
+  {
+    "player": "George Pickens",
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric": 1.3
+  },
+  {
+    "player": "Davante Adams",
+    "team": "Rams",
+    "opponent": "49ers",
+    "metric": 1.0
+  },
+  {
+    "player": "Devaughn Vele",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 1.0
+  },
+  {
+    "player": "Devontez Walker",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 1.0
+  },
+  {
+    "player": "Tre Tucker",
+    "team": "Raiders",
+    "opponent": "Colts",
+    "metric": 1.0
+  },
+  {
+    "player": "Tyquan Thornton",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 1.0
+  },
+  {
+    "player": "Courtland Sutton",
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric": 0.7
+  },
+  {
+    "player": "Deebo Samuel",
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric": 0.7
+  },
+  {
+    "player": "Elic Ayomanor",
+    "team": "Titans",
+    "opponent": "Cardinals",
+    "metric": 0.7
+  },
+  {
+    "player": "Emeka Egbuka",
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 0.7
+  },
+  {
+    "player": "Garrett Wilson",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 0.7
+  },
+  {
+    "player": "Hunter Renfrow",
+    "team": "Panthers",
+    "opponent": "Dolphins",
+    "metric": 0.7
+  },
+  {
+    "player": "Jaylen Waddle",
+    "team": "Dolphins",
+    "opponent": "Panthers",
+    "metric": 0.7
+  },
+  {
+    "player": "Keenan Allen",
+    "team": "Chargers",
+    "opponent": "Commanders",
+    "metric": 0.7
+  },
+  {
+    "player": "Khalil Shakir",
+    "team": "Bills",
+    "opponent": "Patriots",
+    "metric": 0.7
+  },
+  {
+    "player": "Luke McCaffrey",
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric": 0.7
+  },
+  {
+    "player": "Mack Hollins",
+    "team": "Patriots",
+    "opponent": "Bills",
+    "metric": 0.7
+  },
+  {
+    "player": "Malik Nabers",
+    "team": "Giants",
+    "opponent": "Saints",
+    "metric": 0.7
+  },
+  {
+    "player": "Michael Pittman Jr.",
+    "team": "Colts",
+    "opponent": "Raiders",
+    "metric": 0.7
+  },
+  {
+    "player": "Nico Collins",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 0.7
+  },
+  {
+    "player": "Quentin Johnston",
+    "team": "Chargers",
+    "opponent": "Commanders",
+    "metric": 0.7
+  },
+  {
+    "player": "Tory Horton",
+    "team": "Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 0.7
+  },
+  {
+    "player": "Dyami Brown",
+    "team": "Jaguars",
+    "opponent": "Chiefs",
+    "metric": 0.5
+  },
+  {
+    "player": "Jauan Jennings",
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric": 0.5
+  },
+  {
+    "player": "Mike Evans",
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 0.5
+  },
+  {
+    "player": "Ryan Miller",
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 0.5
+  },
+  {
+    "player": "A.J. Brown",
+    "team": "Eagles",
+    "opponent": "Broncos",
+    "metric": 0.3
+  },
+  {
+    "player": "Cedric Tillman",
+    "team": "Browns",
+    "opponent": "Vikings",
+    "metric": 0.3
+  },
+  {
+    "player": "Chris Olave",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 0.3
+  },
+  {
+    "player": "DeAndre Hopkins",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 0.3
+  },
+  {
+    "player": "DeVonta Smith",
+    "team": "Eagles",
+    "opponent": "Broncos",
+    "metric": 0.3
+  },
+  {
+    "player": "Hollywood Brown",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 0.3
+  },
+  {
+    "player": "Ja'Marr Chase",
+    "team": "Bengals",
+    "opponent": "Lions",
+    "metric": 0.3
+  },
+  {
+    "player": "Jalen Nailor",
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric": 0.3
+  },
+  {
+    "player": "Jameson Williams",
+    "team": "Lions",
+    "opponent": "Bengals",
+    "metric": 0.3
+  },
+  {
+    "player": "Jaxon Smith-Njigba",
+    "team": "Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 0.3
+  },
+  {
+    "player": "Jayden Higgins",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 0.3
+  },
+  {
+    "player": "JuJu Smith-Schuster",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 0.3
+  },
+  {
+    "player": "KaVontae Turpin",
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric": 0.3
+  }
+]

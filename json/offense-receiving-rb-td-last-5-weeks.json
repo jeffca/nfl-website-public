@@ -1,0 +1,242 @@
+[
+  {
+    "player": "Ashton Jeanty",
+    "team": "Raiders",
+    "opponent": "Colts",
+    "metric": 0.7
+  },
+  {
+    "player": "Aaron Jones Sr.",
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric": 0.5
+  },
+  {
+    "player": "Bucky Irving",
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 0.5
+  },
+  {
+    "player": "Christian McCaffrey",
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric": 0.5
+  },
+  {
+    "player": "Chuba Hubbard",
+    "team": "Panthers",
+    "opponent": "Dolphins",
+    "metric": 0.5
+  },
+  {
+    "player": "De'Von Achane",
+    "team": "Dolphins",
+    "opponent": "Panthers",
+    "metric": 0.5
+  },
+  {
+    "player": "Emari Demercado",
+    "team": "Cardinals",
+    "opponent": "Titans",
+    "metric": 0.5
+  },
+  {
+    "player": "Zavier Scott",
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric": 0.5
+  },
+  {
+    "player": "Bhayshul Tuten",
+    "team": "Jaguars",
+    "opponent": "Chiefs",
+    "metric": 0.3
+  },
+  {
+    "player": "Dylan Sampson",
+    "team": "Browns",
+    "opponent": "Vikings",
+    "metric": 0.3
+  },
+  {
+    "player": "Isiah Pacheco",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 0.3
+  },
+  {
+    "player": "James Conner",
+    "team": "Cardinals",
+    "opponent": "Titans",
+    "metric": 0.3
+  },
+  {
+    "player": "Jonathan Taylor",
+    "team": "Colts",
+    "opponent": "Raiders",
+    "metric": 0.3
+  },
+  {
+    "player": "Justice Hill",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 0.3
+  },
+  {
+    "player": "Kyren Williams",
+    "team": "Rams",
+    "opponent": "49ers",
+    "metric": 0.3
+  },
+  {
+    "player": "RJ Harvey",
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric": 0.3
+  },
+  {
+    "player": "Travis Etienne Jr.",
+    "team": "Jaguars",
+    "opponent": "Chiefs",
+    "metric": 0.3
+  },
+  {
+    "player": "Woody Marks",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 0.3
+  },
+  {
+    "player": "Alvin Kamara",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 0.0
+  },
+  {
+    "player": "Antonio Gibson",
+    "team": "Patriots",
+    "opponent": "Bills",
+    "metric": 0.0
+  },
+  {
+    "player": "Austin Ekeler",
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric": 0.0
+  },
+  {
+    "player": "Blake Corum",
+    "team": "Rams",
+    "opponent": "49ers",
+    "metric": 0.0
+  },
+  {
+    "player": "Braelon Allen",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 0.0
+  },
+  {
+    "player": "Brashard Smith",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 0.0
+  },
+  {
+    "player": "Breece Hall",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 0.0
+  },
+  {
+    "player": "Brian Robinson Jr.",
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric": 0.0
+  },
+  {
+    "player": "Cam Akers",
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric": 0.0
+  },
+  {
+    "player": "Cam Skattebo",
+    "team": "Giants",
+    "opponent": "Saints",
+    "metric": 0.0
+  },
+  {
+    "player": "Chase Brown",
+    "team": "Bengals",
+    "opponent": "Lions",
+    "metric": 0.0
+  },
+  {
+    "player": "DJ Giddens",
+    "team": "Colts",
+    "opponent": "Raiders",
+    "metric": 0.0
+  },
+  {
+    "player": "Dameon Pierce",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 0.0
+  },
+  {
+    "player": "Dare Ogunbowale",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 0.0
+  },
+  {
+    "player": "David Montgomery",
+    "team": "Lions",
+    "opponent": "Bengals",
+    "metric": 0.0
+  },
+  {
+    "player": "Derrick Henry",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 0.0
+  },
+  {
+    "player": "Devin Singletary",
+    "team": "Giants",
+    "opponent": "Saints",
+    "metric": 0.0
+  },
+  {
+    "player": "Dylan Laube",
+    "team": "Raiders",
+    "opponent": "Colts",
+    "metric": 0.0
+  },
+  {
+    "player": "George Holani",
+    "team": "Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 0.0
+  },
+  {
+    "player": "Hunter Luepke",
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric": 0.0
+  },
+  {
+    "player": "Isaiah Davis",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 0.0
+  },
+  {
+    "player": "J.K. Dobbins",
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric": 0.0
+  }
+]

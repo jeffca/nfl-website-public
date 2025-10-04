@@ -1,0 +1,142 @@
+[
+  {
+    "team": "Titans",
+    "opponent": "Cardinals",
+    "metric_allowed": 2.0
+  },
+  {
+    "team": "Bengals",
+    "opponent": "Bengals",
+    "metric_allowed": 1.3
+  },
+  {
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric_allowed": 1.3
+  },
+  {
+    "team": "Giants",
+    "opponent": "Saints",
+    "metric_allowed": 1.3
+  },
+  {
+    "team": "Jets",
+    "opponent": "Jets",
+    "metric_allowed": 1.3
+  },
+  {
+    "team": "Panthers",
+    "opponent": "Panthers",
+    "metric_allowed": 1.3
+  },
+  {
+    "team": "Raiders",
+    "opponent": "Colts",
+    "metric_allowed": 1.3
+  },
+  {
+    "team": "Ravens",
+    "opponent": "Ravens",
+    "metric_allowed": 1.3
+  },
+  {
+    "team": "Saints",
+    "opponent": "Saints",
+    "metric_allowed": 1.3
+  },
+  {
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Dolphins",
+    "opponent": "Panthers",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Lions",
+    "opponent": "Bengals",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric_allowed": 1.0
+  },
+  {
+    "team": "Bills",
+    "opponent": "Bills",
+    "metric_allowed": 0.7
+  },
+  {
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric_allowed": 0.7
+  },
+  {
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric_allowed": 0.7
+  },
+  {
+    "team": "Chargers",
+    "opponent": "Chargers",
+    "metric_allowed": 0.7
+  },
+  {
+    "team": "Colts",
+    "opponent": "Colts",
+    "metric_allowed": 0.7
+  },
+  {
+    "team": "Rams",
+    "opponent": "Rams",
+    "metric_allowed": 0.7
+  },
+  {
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric_allowed": 0.3
+  },
+  {
+    "team": "Browns",
+    "opponent": "Browns",
+    "metric_allowed": 0.3
+  },
+  {
+    "team": "Cardinals",
+    "opponent": "Cardinals",
+    "metric_allowed": 0.3
+  },
+  {
+    "team": "Eagles",
+    "opponent": "Eagles",
+    "metric_allowed": 0.3
+  },
+  {
+    "team": "Jaguars",
+    "opponent": "Jaguars",
+    "metric_allowed": 0.3
+  },
+  {
+    "team": "Patriots",
+    "opponent": "Bills",
+    "metric_allowed": 0.3
+  },
+  {
+    "team": "Seahawks",
+    "opponent": "Seahawks",
+    "metric_allowed": 0.0
+  }
+]

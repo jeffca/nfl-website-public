@@ -1,0 +1,242 @@
+[
+  {
+    "player": "Geno Smith",
+    "team": "Raiders",
+    "opponent": "Colts",
+    "metric": 2.5
+  },
+  {
+    "player": "Jalen Hurts",
+    "team": "Eagles",
+    "opponent": "Broncos",
+    "metric": 2.5
+  },
+  {
+    "player": "Josh Allen",
+    "team": "Bills",
+    "opponent": "Patriots",
+    "metric": 2.5
+  },
+  {
+    "player": "Matthew Stafford",
+    "team": "Rams",
+    "opponent": "49ers",
+    "metric": 2.5
+  },
+  {
+    "player": "Patrick Mahomes",
+    "team": "Chiefs",
+    "opponent": "Jaguars",
+    "metric": 2.5
+  },
+  {
+    "player": "Brock Purdy",
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric": 2.0
+  },
+  {
+    "player": "Carson Wentz",
+    "team": "Vikings",
+    "opponent": "Browns",
+    "metric": 2.0
+  },
+  {
+    "player": "Dak Prescott",
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric": 2.0
+  },
+  {
+    "player": "Drake Maye",
+    "team": "Patriots",
+    "opponent": "Bills",
+    "metric": 2.0
+  },
+  {
+    "player": "Lamar Jackson",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 2.0
+  },
+  {
+    "player": "Tua Tagovailoa",
+    "team": "Dolphins",
+    "opponent": "Panthers",
+    "metric": 2.0
+  },
+  {
+    "player": "Tyrod Taylor",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 2.0
+  },
+  {
+    "player": "Baker Mayfield",
+    "team": "Buccaneers",
+    "opponent": "Seahawks",
+    "metric": 1.5
+  },
+  {
+    "player": "Bo Nix",
+    "team": "Broncos",
+    "opponent": "Eagles",
+    "metric": 1.5
+  },
+  {
+    "player": "C.J. Stroud",
+    "team": "Texans",
+    "opponent": "Ravens",
+    "metric": 1.5
+  },
+  {
+    "player": "Jared Goff",
+    "team": "Lions",
+    "opponent": "Bengals",
+    "metric": 1.5
+  },
+  {
+    "player": "Kyler Murray",
+    "team": "Cardinals",
+    "opponent": "Titans",
+    "metric": 1.5
+  },
+  {
+    "player": "Marcus Mariota",
+    "team": "Commanders",
+    "opponent": "Chargers",
+    "metric": 1.5
+  },
+  {
+    "player": "Sam Darnold",
+    "team": "Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 1.5
+  },
+  {
+    "player": "Andy Dalton",
+    "team": "Panthers",
+    "opponent": "Dolphins",
+    "metric": 1.0
+  },
+  {
+    "player": "Daniel Jones",
+    "team": "Colts",
+    "opponent": "Raiders",
+    "metric": 1.0
+  },
+  {
+    "player": "Jaxson Dart",
+    "team": "Giants",
+    "opponent": "Saints",
+    "metric": 1.0
+  },
+  {
+    "player": "Justin Fields",
+    "team": "Jets",
+    "opponent": "Cowboys",
+    "metric": 1.0
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Chargers",
+    "opponent": "Commanders",
+    "metric": 1.0
+  },
+  {
+    "player": "Mac Jones",
+    "team": "49ers",
+    "opponent": "Rams",
+    "metric": 1.0
+  },
+  {
+    "player": "Spencer Rattler",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 1.0
+  },
+  {
+    "player": "Bryce Young",
+    "team": "Panthers",
+    "opponent": "Dolphins",
+    "metric": 0.5
+  },
+  {
+    "player": "Cam Ward",
+    "team": "Titans",
+    "opponent": "Cardinals",
+    "metric": 0.5
+  },
+  {
+    "player": "Jake Browning",
+    "team": "Bengals",
+    "opponent": "Lions",
+    "metric": 0.5
+  },
+  {
+    "player": "Trevor Lawrence",
+    "team": "Jaguars",
+    "opponent": "Chiefs",
+    "metric": 0.5
+  },
+  {
+    "player": "Brett Rypien",
+    "team": "Bengals",
+    "opponent": "Lions",
+    "metric": 0.0
+  },
+  {
+    "player": "Chris Olave",
+    "team": "Saints",
+    "opponent": "Giants",
+    "metric": 0.0
+  },
+  {
+    "player": "Cooper Rush",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 0.0
+  },
+  {
+    "player": "Derrick Henry",
+    "team": "Ravens",
+    "opponent": "Texans",
+    "metric": 0.0
+  },
+  {
+    "player": "Dillon Gabriel",
+    "team": "Browns",
+    "opponent": "Vikings",
+    "metric": 0.0
+  },
+  {
+    "player": "Drew Lock",
+    "team": "Seahawks",
+    "opponent": "Buccaneers",
+    "metric": 0.0
+  },
+  {
+    "player": "Joe Flacco",
+    "team": "Browns",
+    "opponent": "Vikings",
+    "metric": 0.0
+  },
+  {
+    "player": "Joe Milton III",
+    "team": "Cowboys",
+    "opponent": "Jets",
+    "metric": 0.0
+  },
+  {
+    "player": "Joshua Dobbs",
+    "team": "Patriots",
+    "opponent": "Bills",
+    "metric": 0.0
+  },
+  {
+    "player": "Joshua Karty",
+    "team": "Rams",
+    "opponent": "49ers",
+    "metric": 0.0
+  }
+]
