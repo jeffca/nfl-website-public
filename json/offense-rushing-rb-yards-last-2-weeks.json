@@ -1,282 +1,282 @@
 [
   {
-    "player": "James Cook",
-    "team": "Buffalo Bills",
-    "opponent": "Patriots",
-    "metric": 113.0,
-    "position": "RB"
-  },
-  {
-    "player": "Ashton Jeanty",
-    "team": "Las Vegas Raiders",
-    "opponent": "Colts",
-    "metric": 101.0,
-    "position": "RB"
-  },
-  {
-    "player": "Omarion Hampton",
-    "team": "Los Angeles Chargers",
-    "opponent": "Commanders",
-    "metric": 99.0,
-    "position": "RB"
-  },
-  {
-    "player": "J.K. Dobbins",
-    "team": "Denver Broncos",
-    "opponent": "Eagles",
-    "metric": 92.0,
-    "position": "RB"
-  },
-  {
-    "player": "Travis Etienne Jr.",
-    "team": "Jacksonville Jaguars",
-    "opponent": "Chiefs",
-    "metric": 90.0,
-    "position": "RB"
-  },
-  {
-    "player": "Jonathan Taylor",
-    "team": "Indianapolis Colts",
-    "opponent": "Raiders",
-    "metric": 89.0,
-    "position": "RB"
-  },
-  {
-    "player": "Jordan Mason",
-    "team": "Minnesota Vikings",
-    "opponent": "Browns",
-    "metric": 87.0,
-    "position": "RB"
-  },
-  {
-    "player": "Kyren Williams",
-    "team": "Los Angeles Rams",
-    "opponent": "49ers",
-    "metric": 86.0,
-    "position": "RB"
-  },
-  {
-    "player": "David Montgomery",
-    "team": "Detroit Lions",
-    "opponent": "Bengals",
-    "metric": 82.0,
-    "position": "RB"
-  },
-  {
-    "player": "De'Von Achane",
-    "team": "Miami Dolphins",
-    "opponent": "Panthers",
-    "metric": 81.0,
+    "player": "Rico Dowdle",
+    "team": "Carolina Panthers",
+    "opponent": "Cowboys",
+    "metric": 206.0,
     "position": "RB"
   },
   {
     "player": "Javonte Williams",
     "team": "Dallas Cowboys",
-    "opponent": "Jets",
-    "metric": 81.0,
-    "position": "RB"
-  },
-  {
-    "player": "Jahmyr Gibbs",
-    "team": "Detroit Lions",
-    "opponent": "Bengals",
-    "metric": 79.0,
-    "position": "RB"
-  },
-  {
-    "player": "Justice Hill",
-    "team": "Baltimore Ravens",
-    "opponent": "Texans",
-    "metric": 76.0,
-    "position": "RB"
-  },
-  {
-    "player": "Cam Skattebo",
-    "team": "New York Giants",
-    "opponent": "Saints",
-    "metric": 70.0,
-    "position": "RB"
-  },
-  {
-    "player": "Bucky Irving",
-    "team": "Tampa Bay Buccaneers",
-    "opponent": "Seahawks",
-    "metric": 65.0,
-    "position": "RB"
-  },
-  {
-    "player": "Raheem Mostert",
-    "team": "Las Vegas Raiders",
-    "opponent": "Colts",
-    "metric": 62.0,
-    "position": "RB"
-  },
-  {
-    "player": "Chuba Hubbard",
-    "team": "Carolina Panthers",
-    "opponent": "Dolphins",
-    "metric": 61.0,
-    "position": "RB"
-  },
-  {
-    "player": "Kenneth Walker III",
-    "team": "Seattle Seahawks",
-    "opponent": "Buccaneers",
-    "metric": 60.0,
-    "position": "RB"
-  },
-  {
-    "player": "Alvin Kamara",
-    "team": "New Orleans Saints",
-    "opponent": "Giants",
-    "metric": 56.0,
-    "position": "RB"
-  },
-  {
-    "player": "Tony Pollard",
-    "team": "Tennessee Titans",
-    "opponent": "Cardinals",
-    "metric": 55.0,
+    "opponent": "Panthers",
+    "metric": 135.0,
     "position": "RB"
   },
   {
     "player": "Breece Hall",
     "team": "New York Jets",
-    "opponent": "Cowboys",
-    "metric": 51.0,
+    "opponent": "Broncos",
+    "metric": 113.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jacory Croskey-Merritt",
+    "team": "Washington Commanders",
+    "opponent": "Bears",
+    "metric": 111.0,
+    "position": "RB"
+  },
+  {
+    "player": "Kenneth Walker III",
+    "team": "Seattle Seahawks",
+    "opponent": "Jaguars",
+    "metric": 86.0,
+    "position": "RB"
+  },
+  {
+    "player": "Emari Demercado",
+    "team": "Arizona Cardinals",
+    "opponent": "Colts",
+    "metric": 81.0,
+    "position": "RB"
+  },
+  {
+    "player": "J.K. Dobbins",
+    "team": "Denver Broncos",
+    "opponent": "Jets",
+    "metric": 79.0,
+    "position": "RB"
+  },
+  {
+    "player": "Ashton Jeanty",
+    "team": "Las Vegas Raiders",
+    "opponent": "Titans",
+    "metric": 67.0,
+    "position": "RB"
+  },
+  {
+    "player": "Tony Pollard",
+    "team": "Tennessee Titans",
+    "opponent": "Raiders",
+    "metric": 67.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jonathan Taylor",
+    "team": "Indianapolis Colts",
+    "opponent": "Cardinals",
+    "metric": 66.0,
+    "position": "RB"
+  },
+  {
+    "player": "David Montgomery",
+    "team": "Detroit Lions",
+    "opponent": "Chiefs",
+    "metric": 65.0,
+    "position": "RB"
+  },
+  {
+    "player": "Kyren Williams",
+    "team": "Los Angeles Rams",
+    "opponent": "Ravens",
+    "metric": 65.0,
     "position": "RB"
   },
   {
     "player": "Christian McCaffrey",
     "team": "San Francisco 49ers",
-    "opponent": "Rams",
+    "opponent": "Buccaneers",
+    "metric": 57.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jahmyr Gibbs",
+    "team": "Detroit Lions",
+    "opponent": "Chiefs",
+    "metric": 54.0,
+    "position": "RB"
+  },
+  {
+    "player": "Michael Carter",
+    "team": "Arizona Cardinals",
+    "opponent": "Colts",
     "metric": 51.0,
     "position": "RB"
   },
   {
-    "player": "Chris Rodriguez Jr.",
-    "team": "Washington Commanders",
-    "opponent": "Chargers",
+    "player": "James Cook",
+    "team": "Buffalo Bills",
+    "opponent": "Falcons",
     "metric": 49.0,
     "position": "RB"
   },
   {
-    "player": "Woody Marks",
-    "team": "Houston Texans",
-    "opponent": "Ravens",
-    "metric": 48.0,
+    "player": "Kareem Hunt",
+    "team": "Kansas City Chiefs",
+    "opponent": "Lions",
+    "metric": 49.0,
     "position": "RB"
   },
   {
-    "player": "Derrick Henry",
-    "team": "Baltimore Ravens",
-    "opponent": "Texans",
-    "metric": 46.0,
+    "player": "Travis Etienne Jr.",
+    "team": "Jacksonville Jaguars",
+    "opponent": "Seahawks",
+    "metric": 49.0,
+    "position": "RB"
+  },
+  {
+    "player": "Omarion Hampton",
+    "team": "Los Angeles Chargers",
+    "opponent": "Dolphins",
+    "metric": 44.0,
     "position": "RB"
   },
   {
     "player": "Kendre Miller",
     "team": "New Orleans Saints",
-    "opponent": "Giants",
-    "metric": 46.0,
+    "opponent": "Patriots",
+    "metric": 41.0,
     "position": "RB"
   },
   {
-    "player": "Saquon Barkley",
-    "team": "Philadelphia Eagles",
-    "opponent": "Broncos",
-    "metric": 45.0,
-    "position": "RB"
-  },
-  {
-    "player": "Nick Chubb",
-    "team": "Houston Texans",
-    "opponent": "Ravens",
-    "metric": 43.0,
-    "position": "RB"
-  },
-  {
-    "player": "Jeremy McNichols",
-    "team": "Washington Commanders",
-    "opponent": "Chargers",
+    "player": "Rachaad White",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "49ers",
     "metric": 41.0,
     "position": "RB"
   },
   {
     "player": "Isiah Pacheco",
     "team": "Kansas City Chiefs",
-    "opponent": "Jaguars",
-    "metric": 40.0,
-    "position": "RB"
-  },
-  {
-    "player": "Trey Benson",
-    "team": "Arizona Cardinals",
-    "opponent": "Titans",
-    "metric": 39.0,
+    "opponent": "Lions",
+    "metric": 36.0,
     "position": "RB"
   },
   {
     "player": "Zach Charbonnet",
     "team": "Seattle Seahawks",
-    "opponent": "Buccaneers",
-    "metric": 39.0,
-    "position": "RB"
-  },
-  {
-    "player": "Blake Corum",
-    "team": "Los Angeles Rams",
-    "opponent": "49ers",
-    "metric": 37.0,
-    "position": "RB"
-  },
-  {
-    "player": "Jacory Croskey-Merritt",
-    "team": "Washington Commanders",
-    "opponent": "Chargers",
-    "metric": 37.0,
-    "position": "RB"
-  },
-  {
-    "player": "Kareem Hunt",
-    "team": "Kansas City Chiefs",
     "opponent": "Jaguars",
-    "metric": 34.0,
+    "metric": 36.0,
     "position": "RB"
   },
   {
-    "player": "Trevor Etienne",
-    "team": "Carolina Panthers",
-    "opponent": "Dolphins",
+    "player": "Derrick Henry",
+    "team": "Baltimore Ravens",
+    "opponent": "Rams",
     "metric": 33.0,
     "position": "RB"
   },
   {
-    "player": "Rico Dowdle",
-    "team": "Carolina Panthers",
-    "opponent": "Dolphins",
-    "metric": 31.0,
+    "player": "Alvin Kamara",
+    "team": "New Orleans Saints",
+    "opponent": "Patriots",
+    "metric": 27.0,
     "position": "RB"
   },
   {
-    "player": "RJ Harvey",
-    "team": "Denver Broncos",
-    "opponent": "Eagles",
-    "metric": 30.0,
+    "player": "Chase Brown",
+    "team": "Cincinnati Bengals",
+    "opponent": "Packers",
+    "metric": 27.0,
+    "position": "RB"
+  },
+  {
+    "player": "Samaje Perine",
+    "team": "Cincinnati Bengals",
+    "opponent": "Packers",
+    "metric": 27.0,
     "position": "RB"
   },
   {
     "player": "TreVeyon Henderson",
     "team": "New England Patriots",
-    "opponent": "Bills",
-    "metric": 30.0,
+    "opponent": "Saints",
+    "metric": 24.0,
     "position": "RB"
   },
   {
-    "player": "Tyrone Tracy Jr.",
-    "team": "New York Giants",
+    "player": "DJ Giddens",
+    "team": "Indianapolis Colts",
+    "opponent": "Cardinals",
+    "metric": 22.0,
+    "position": "RB"
+  },
+  {
+    "player": "Raheem Mostert",
+    "team": "Las Vegas Raiders",
+    "opponent": "Titans",
+    "metric": 22.0,
+    "position": "RB"
+  },
+  {
+    "player": "Trevor Etienne",
+    "team": "Carolina Panthers",
+    "opponent": "Cowboys",
+    "metric": 22.0,
+    "position": "RB"
+  },
+  {
+    "player": "Antonio Gibson",
+    "team": "New England Patriots",
     "opponent": "Saints",
-    "metric": 29.0,
+    "metric": 21.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jerome Ford",
+    "team": "Cleveland Browns",
+    "opponent": "Steelers",
+    "metric": 18.0,
+    "position": "RB"
+  },
+  {
+    "player": "Kimani Vidal",
+    "team": "Los Angeles Chargers",
+    "opponent": "Dolphins",
+    "metric": 18.0,
+    "position": "RB"
+  },
+  {
+    "player": "De'Von Achane",
+    "team": "Miami Dolphins",
+    "opponent": "Chargers",
+    "metric": 16.0,
+    "position": "RB"
+  },
+  {
+    "player": "Rhamondre Stevenson",
+    "team": "New England Patriots",
+    "opponent": "Saints",
+    "metric": 14.0,
+    "position": "RB"
+  },
+  {
+    "player": "Blake Corum",
+    "team": "Los Angeles Rams",
+    "opponent": "Ravens",
+    "metric": 13.0,
+    "position": "RB"
+  },
+  {
+    "player": "Brian Robinson Jr.",
+    "team": "San Francisco 49ers",
+    "opponent": "Buccaneers",
+    "metric": 12.0,
+    "position": "RB"
+  },
+  {
+    "player": "RJ Harvey",
+    "team": "Denver Broncos",
+    "opponent": "Jets",
+    "metric": 12.0,
+    "position": "RB"
+  },
+  {
+    "player": "Bam Knight",
+    "team": "Arizona Cardinals",
+    "opponent": "Colts",
+    "metric": 11.0,
     "position": "RB"
   }
 ]

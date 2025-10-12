@@ -1,91 +1,98 @@
 [
   {
-    "player": "Alvin Kamara",
-    "team": "New Orleans Saints",
-    "opponent": "Giants",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
     "player": "Ashton Jeanty",
     "team": "Las Vegas Raiders",
-    "opponent": "Colts",
+    "opponent": "Titans",
     "metric": 1.0,
     "position": "RB"
   },
   {
-    "player": "Chase Brown",
-    "team": "Cincinnati Bengals",
-    "opponent": "Lions",
+    "player": "Bijan Robinson",
+    "team": "Atlanta Falcons",
+    "opponent": "Bills",
+    "metric": 1.0,
+    "position": "RB"
+  },
+  {
+    "player": "Bucky Irving",
+    "team": "Tampa Bay Buccaneers",
+    "opponent": "49ers",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Christian McCaffrey",
     "team": "San Francisco 49ers",
-    "opponent": "Rams",
+    "opponent": "Buccaneers",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Chuba Hubbard",
     "team": "Carolina Panthers",
-    "opponent": "Dolphins",
+    "opponent": "Cowboys",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "De'Von Achane",
     "team": "Miami Dolphins",
-    "opponent": "Panthers",
+    "opponent": "Chargers",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Derrick Henry",
     "team": "Baltimore Ravens",
-    "opponent": "Texans",
+    "opponent": "Rams",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "J.K. Dobbins",
     "team": "Denver Broncos",
-    "opponent": "Eagles",
+    "opponent": "Jets",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Jahmyr Gibbs",
     "team": "Detroit Lions",
-    "opponent": "Bengals",
+    "opponent": "Chiefs",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "James Cook",
     "team": "Buffalo Bills",
-    "opponent": "Patriots",
+    "opponent": "Falcons",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Javonte Williams",
     "team": "Dallas Cowboys",
-    "opponent": "Jets",
+    "opponent": "Panthers",
+    "metric": 1.0,
+    "position": "RB"
+  },
+  {
+    "player": "Jaylen Warren",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Browns",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Jonathan Taylor",
     "team": "Indianapolis Colts",
-    "opponent": "Raiders",
+    "opponent": "Cardinals",
     "metric": 1.0,
     "position": "RB"
   },
   {
-    "player": "Jordan Mason",
-    "team": "Minnesota Vikings",
+    "player": "Kenneth Gainwell",
+    "team": "Pittsburgh Steelers",
     "opponent": "Browns",
     "metric": 1.0,
     "position": "RB"
@@ -93,189 +100,182 @@
   {
     "player": "Kenneth Walker III",
     "team": "Seattle Seahawks",
-    "opponent": "Buccaneers",
+    "opponent": "Jaguars",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Kyren Williams",
     "team": "Los Angeles Rams",
-    "opponent": "49ers",
+    "opponent": "Ravens",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Omarion Hampton",
     "team": "Los Angeles Chargers",
-    "opponent": "Commanders",
-    "metric": 1.0,
-    "position": "RB"
-  },
-  {
-    "player": "Saquon Barkley",
-    "team": "Philadelphia Eagles",
-    "opponent": "Broncos",
+    "opponent": "Dolphins",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Tony Pollard",
     "team": "Tennessee Titans",
-    "opponent": "Cardinals",
+    "opponent": "Raiders",
     "metric": 1.0,
     "position": "RB"
   },
   {
     "player": "Travis Etienne Jr.",
     "team": "Jacksonville Jaguars",
-    "opponent": "Chiefs",
+    "opponent": "Seahawks",
     "metric": 1.0,
     "position": "RB"
   },
   {
-    "player": "AJ Dillon",
-    "team": "Philadelphia Eagles",
-    "opponent": "Broncos",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Aaron Jones Sr.",
-    "team": "Minnesota Vikings",
-    "opponent": "Browns",
+    "player": "Alvin Kamara",
+    "team": "New Orleans Saints",
+    "opponent": "Patriots",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "Antonio Gibson",
     "team": "New England Patriots",
-    "opponent": "Bills",
+    "opponent": "Saints",
     "metric": 0.0,
     "position": "RB"
   },
   {
-    "player": "Austin Ekeler",
-    "team": "Washington Commanders",
-    "opponent": "Chargers",
+    "player": "Bam Knight",
+    "team": "Arizona Cardinals",
+    "opponent": "Colts",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "Bhayshul Tuten",
     "team": "Jacksonville Jaguars",
-    "opponent": "Chiefs",
+    "opponent": "Seahawks",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "Blake Corum",
     "team": "Los Angeles Rams",
-    "opponent": "49ers",
+    "opponent": "Ravens",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "Braelon Allen",
     "team": "New York Jets",
-    "opponent": "Cowboys",
+    "opponent": "Broncos",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "Brashard Smith",
     "team": "Kansas City Chiefs",
-    "opponent": "Jaguars",
+    "opponent": "Lions",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "Breece Hall",
     "team": "New York Jets",
-    "opponent": "Cowboys",
+    "opponent": "Broncos",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "Brian Robinson Jr.",
     "team": "San Francisco 49ers",
-    "opponent": "Rams",
+    "opponent": "Buccaneers",
     "metric": 0.0,
     "position": "RB"
   },
   {
-    "player": "Bucky Irving",
-    "team": "Tampa Bay Buccaneers",
-    "opponent": "Seahawks",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Cam Akers",
-    "team": "Minnesota Vikings",
-    "opponent": "Browns",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Cam Skattebo",
-    "team": "New York Giants",
-    "opponent": "Saints",
+    "player": "Chase Brown",
+    "team": "Cincinnati Bengals",
+    "opponent": "Packers",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "Chris Rodriguez Jr.",
     "team": "Washington Commanders",
-    "opponent": "Chargers",
+    "opponent": "Bears",
     "metric": 0.0,
     "position": "RB"
   },
   {
-    "player": "Craig Reynolds",
-    "team": "Detroit Lions",
-    "opponent": "Bengals",
+    "player": "D'Andre Swift",
+    "team": "Chicago Bears",
+    "opponent": "Commanders",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "DJ Giddens",
     "team": "Indianapolis Colts",
-    "opponent": "Raiders",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Dameon Pierce",
-    "team": "Houston Texans",
-    "opponent": "Ravens",
-    "metric": 0.0,
-    "position": "RB"
-  },
-  {
-    "player": "Dare Ogunbowale",
-    "team": "Houston Texans",
-    "opponent": "Ravens",
+    "opponent": "Cardinals",
     "metric": 0.0,
     "position": "RB"
   },
   {
     "player": "David Montgomery",
     "team": "Detroit Lions",
+    "opponent": "Chiefs",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Dylan Laube",
+    "team": "Las Vegas Raiders",
+    "opponent": "Titans",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Dylan Sampson",
+    "team": "Cleveland Browns",
+    "opponent": "Steelers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Emanuel Wilson",
+    "team": "Green Bay Packers",
     "opponent": "Bengals",
     "metric": 0.0,
     "position": "RB"
   },
   {
-    "player": "Devin Neal",
-    "team": "New Orleans Saints",
-    "opponent": "Giants",
+    "player": "Emari Demercado",
+    "team": "Arizona Cardinals",
+    "opponent": "Colts",
     "metric": 0.0,
     "position": "RB"
   },
   {
-    "player": "Devin Singletary",
-    "team": "New York Giants",
-    "opponent": "Saints",
+    "player": "George Holani",
+    "team": "Seattle Seahawks",
+    "opponent": "Jaguars",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Hunter Luepke",
+    "team": "Dallas Cowboys",
+    "opponent": "Panthers",
+    "metric": 0.0,
+    "position": "RB"
+  },
+  {
+    "player": "Isaiah Davis",
+    "team": "New York Jets",
+    "opponent": "Broncos",
     "metric": 0.0,
     "position": "RB"
   }

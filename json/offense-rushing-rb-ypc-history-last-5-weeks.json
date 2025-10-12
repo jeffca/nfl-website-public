@@ -16,6 +16,22 @@
     "metric": 6.5
   },
   {
+    "event_id": 401772921,
+    "player_id": 4887558,
+    "player": "Emanuel Wilson",
+    "opponent": "Dallas Cowboys",
+    "week": 4,
+    "metric": 5.5
+  },
+  {
+    "event_id": 401772842,
+    "player_id": 4887558,
+    "player": "Emanuel Wilson",
+    "opponent": "Cleveland Browns",
+    "week": 3,
+    "metric": 4.2
+  },
+  {
     "event_id": 401772845,
     "player_id": 4697815,
     "player": "Rachaad White",
@@ -40,12 +56,28 @@
     "metric": 7
   },
   {
+    "event_id": 401772746,
+    "player_id": 4697815,
+    "player": "Rachaad White",
+    "opponent": "Seattle Seahawks",
+    "week": 5,
+    "metric": 2.9
+  },
+  {
     "event_id": 401772715,
     "player_id": 4697815,
     "player": "Rachaad White",
     "opponent": "Houston Texans",
     "week": 2,
     "metric": 6.5
+  },
+  {
+    "event_id": 401772850,
+    "player_id": 4695404,
+    "player": "Isaiah Davis",
+    "opponent": "Dallas Cowboys",
+    "week": 5,
+    "metric": 5
   },
   {
     "event_id": 401772813,
@@ -70,6 +102,14 @@
     "opponent": "Buffalo Bills",
     "week": 1,
     "metric": 5
+  },
+  {
+    "event_id": 401772853,
+    "player_id": 4685382,
+    "player": "Omarion Hampton",
+    "opponent": "Washington Commanders",
+    "week": 5,
+    "metric": 3.7
   },
   {
     "event_id": 401772811,
@@ -102,6 +142,14 @@
     "opponent": "Kansas City Chiefs",
     "week": 1,
     "metric": 3.2
+  },
+  {
+    "event_id": 401772852,
+    "player_id": 4685350,
+    "player": "Trevor Etienne",
+    "opponent": "Miami Dolphins",
+    "week": 5,
+    "metric": 5.5
   },
   {
     "event_id": 401772847,
@@ -160,12 +208,28 @@
     "metric": 4.5
   },
   {
+    "event_id": 401772838,
+    "player_id": 4605841,
+    "player": "Nathan Carter",
+    "opponent": "Carolina Panthers",
+    "week": 3,
+    "metric": 6.7
+  },
+  {
     "event_id": 401772936,
     "player_id": 4575131,
     "player": "Jacory Croskey-Merritt",
     "opponent": "Green Bay Packers",
     "week": 2,
     "metric": 4.3
+  },
+  {
+    "event_id": 401772853,
+    "player_id": 4575131,
+    "player": "Jacory Croskey-Merritt",
+    "opponent": "Los Angeles Chargers",
+    "week": 5,
+    "metric": 7.9
   },
   {
     "event_id": 401772841,
@@ -192,38 +256,6 @@
     "metric": 6.7
   },
   {
-    "event_id": 401772832,
-    "player_id": 4568490,
-    "player": "RJ Harvey",
-    "opponent": "Tennessee Titans",
-    "week": 1,
-    "metric": 11.7
-  },
-  {
-    "event_id": 401772735,
-    "player_id": 4568490,
-    "player": "RJ Harvey",
-    "opponent": "Los Angeles Chargers",
-    "week": 3,
-    "metric": 1
-  },
-  {
-    "event_id": 401772729,
-    "player_id": 4568490,
-    "player": "RJ Harvey",
-    "opponent": "Indianapolis Colts",
-    "week": 2,
-    "metric": 1.6
-  },
-  {
-    "event_id": 401772716,
-    "player_id": 4568490,
-    "player": "RJ Harvey",
-    "opponent": "Cincinnati Bengals",
-    "week": 4,
-    "metric": 4.1
-  },
-  {
     "event_id": 401772938,
     "player_id": 4567048,
     "player": "Kenneth Walker III",
@@ -248,6 +280,14 @@
     "metric": 2
   },
   {
+    "event_id": 401772746,
+    "player_id": 4567048,
+    "player": "Kenneth Walker III",
+    "opponent": "Tampa Bay Buccaneers",
+    "week": 5,
+    "metric": 8.6
+  },
+  {
     "event_id": 401772736,
     "player_id": 4567048,
     "player": "Kenneth Walker III",
@@ -256,12 +296,52 @@
     "metric": 2.4
   },
   {
-    "event_id": 401772510,
-    "player_id": 4431545,
-    "player": "Will Shipley",
-    "opponent": "Dallas Cowboys",
+    "event_id": 401772853,
+    "player_id": 4430968,
+    "player": "Kimani Vidal",
+    "opponent": "Washington Commanders",
+    "week": 5,
+    "metric": 4.5
+  },
+  {
+    "event_id": 401772919,
+    "player_id": 4430807,
+    "player": "Bijan Robinson",
+    "opponent": "Minnesota Vikings",
+    "week": 2,
+    "metric": 6.5
+  },
+  {
+    "event_id": 401772838,
+    "player_id": 4430807,
+    "player": "Bijan Robinson",
+    "opponent": "Carolina Panthers",
+    "week": 3,
+    "metric": 5.5
+  },
+  {
+    "event_id": 401772830,
+    "player_id": 4430807,
+    "player": "Bijan Robinson",
+    "opponent": "Tampa Bay Buccaneers",
     "week": 1,
-    "metric": 8.7
+    "metric": 2
+  },
+  {
+    "event_id": 401772739,
+    "player_id": 4430807,
+    "player": "Bijan Robinson",
+    "opponent": "Washington Commanders",
+    "week": 4,
+    "metric": 4.4
+  },
+  {
+    "event_id": 401772939,
+    "player_id": 4430737,
+    "player": "Kyren Williams",
+    "opponent": "San Francisco 49ers",
+    "week": 5,
+    "metric": 4.6
   },
   {
     "event_id": 401772849,
@@ -294,6 +374,14 @@
     "opponent": "Houston Texans",
     "week": 1,
     "metric": 3.7
+  },
+  {
+    "event_id": 401772854,
+    "player_id": 4429795,
+    "player": "Jahmyr Gibbs",
+    "opponent": "Cincinnati Bengals",
+    "week": 5,
+    "metric": 4.5
   },
   {
     "event_id": 401772846,
@@ -368,6 +456,14 @@
     "metric": 5.2
   },
   {
+    "event_id": 401772852,
+    "player_id": 4429160,
+    "player": "De'Von Achane",
+    "opponent": "Carolina Panthers",
+    "week": 5,
+    "metric": 1.6
+  },
+  {
     "event_id": 401772813,
     "player_id": 4429160,
     "player": "De'Von Achane",
@@ -390,6 +486,14 @@
     "opponent": "Indianapolis Colts",
     "week": 1,
     "metric": 7.9
+  },
+  {
+    "event_id": 401772939,
+    "player_id": 4429096,
+    "player": "Blake Corum",
+    "opponent": "San Francisco 49ers",
+    "week": 5,
+    "metric": 13
   },
   {
     "event_id": 401772849,
@@ -424,6 +528,46 @@
     "metric": 2
   },
   {
+    "event_id": 401772850,
+    "player_id": 4427366,
+    "player": "Breece Hall",
+    "opponent": "Dallas Cowboys",
+    "week": 5,
+    "metric": 8.1
+  },
+  {
+    "event_id": 401772840,
+    "player_id": 4427366,
+    "player": "Breece Hall",
+    "opponent": "Tampa Bay Buccaneers",
+    "week": 3,
+    "metric": 2.3
+  },
+  {
+    "event_id": 401772813,
+    "player_id": 4427366,
+    "player": "Breece Hall",
+    "opponent": "Miami Dolphins",
+    "week": 4,
+    "metric": 5.8
+  },
+  {
+    "event_id": 401772727,
+    "player_id": 4427366,
+    "player": "Breece Hall",
+    "opponent": "Buffalo Bills",
+    "week": 2,
+    "metric": 2.9
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 4427366,
+    "player": "Breece Hall",
+    "opponent": "Pittsburgh Steelers",
+    "week": 1,
+    "metric": 5.6
+  },
+  {
     "event_id": 401772846,
     "player_id": 4383429,
     "player": "Jacob Saylors",
@@ -446,6 +590,14 @@
     "opponent": "Miami Dolphins",
     "week": 3,
     "metric": 5.7
+  },
+  {
+    "event_id": 401772922,
+    "player_id": 4379399,
+    "player": "James Cook",
+    "opponent": "New England Patriots",
+    "week": 5,
+    "metric": 3.3
   },
   {
     "event_id": 401772918,
@@ -472,28 +624,12 @@
     "metric": 6.3
   },
   {
-    "event_id": 401772832,
-    "player_id": 4367567,
-    "player": "Julius Chestnut",
-    "opponent": "Denver Broncos",
-    "week": 1,
-    "metric": 1
-  },
-  {
-    "event_id": 401772738,
-    "player_id": 4367567,
-    "player": "Julius Chestnut",
-    "opponent": "Houston Texans",
-    "week": 4,
-    "metric": 0
-  },
-  {
-    "event_id": 401772733,
-    "player_id": 4367567,
-    "player": "Julius Chestnut",
-    "opponent": "Indianapolis Colts",
-    "week": 3,
-    "metric": 13
+    "event_id": 401772853,
+    "player_id": 4362619,
+    "player": "Chris Rodriguez Jr.",
+    "opponent": "Los Angeles Chargers",
+    "week": 5,
+    "metric": 1.4
   },
   {
     "event_id": 401772841,
@@ -512,12 +648,44 @@
     "metric": 8.4
   },
   {
+    "event_id": 401772938,
+    "player_id": 4362478,
+    "player": "Emari Demercado",
+    "opponent": "Seattle Seahawks",
+    "week": 4,
+    "metric": 4
+  },
+  {
+    "event_id": 401772843,
+    "player_id": 4362478,
+    "player": "Emari Demercado",
+    "opponent": "San Francisco 49ers",
+    "week": 3,
+    "metric": 0
+  },
+  {
+    "event_id": 401772747,
+    "player_id": 4362478,
+    "player": "Emari Demercado",
+    "opponent": "Tennessee Titans",
+    "week": 5,
+    "metric": 27
+  },
+  {
     "event_id": 401772921,
     "player_id": 4361579,
     "player": "Javonte Williams",
     "opponent": "Green Bay Packers",
     "week": 4,
     "metric": 4.3
+  },
+  {
+    "event_id": 401772850,
+    "player_id": 4361579,
+    "player": "Javonte Williams",
+    "opponent": "New York Jets",
+    "week": 5,
+    "metric": 8.4
   },
   {
     "event_id": 401772844,
@@ -544,68 +712,52 @@
     "metric": 3.6
   },
   {
-    "event_id": 401772919,
-    "player_id": 4360569,
-    "player": "Jordan Mason",
-    "opponent": "Atlanta Falcons",
-    "week": 2,
-    "metric": 3.3
+    "event_id": 401772920,
+    "player_id": 4361529,
+    "player": "Isiah Pacheco",
+    "opponent": "New York Giants",
+    "week": 3,
+    "metric": 4.5
   },
   {
-    "event_id": 401772810,
-    "player_id": 4360569,
-    "player": "Jordan Mason",
-    "opponent": "Chicago Bears",
+    "event_id": 401772837,
+    "player_id": 4361529,
+    "player": "Isiah Pacheco",
+    "opponent": "Philadelphia Eagles",
+    "week": 2,
+    "metric": 2.2
+  },
+  {
+    "event_id": 401772814,
+    "player_id": 4361529,
+    "player": "Isiah Pacheco",
+    "opponent": "Jacksonville Jaguars",
+    "week": 5,
+    "metric": 5.1
+  },
+  {
+    "event_id": 401772741,
+    "player_id": 4361529,
+    "player": "Isiah Pacheco",
+    "opponent": "Baltimore Ravens",
+    "week": 4,
+    "metric": 5
+  },
+  {
+    "event_id": 401772714,
+    "player_id": 4361529,
+    "player": "Isiah Pacheco",
+    "opponent": "Los Angeles Chargers",
     "week": 1,
-    "metric": 4.5
+    "metric": 5
   },
   {
-    "event_id": 401772731,
-    "player_id": 4360569,
-    "player": "Jordan Mason",
-    "opponent": "Cincinnati Bengals",
-    "week": 3,
-    "metric": 7.3
-  },
-  {
-    "event_id": 401772632,
-    "player_id": 4360569,
-    "player": "Jordan Mason",
-    "opponent": "Pittsburgh Steelers",
-    "week": 4,
-    "metric": 3.6
-  },
-  {
-    "event_id": 401772847,
-    "player_id": 4360294,
-    "player": "Antonio Gibson",
-    "opponent": "Carolina Panthers",
-    "week": 4,
-    "metric": 4.5
-  },
-  {
-    "event_id": 401772732,
-    "player_id": 4360294,
-    "player": "Antonio Gibson",
-    "opponent": "Pittsburgh Steelers",
-    "week": 3,
-    "metric": 4
-  },
-  {
-    "event_id": 401772728,
-    "player_id": 4360294,
-    "player": "Antonio Gibson",
-    "opponent": "Miami Dolphins",
-    "week": 2,
-    "metric": 5.4
-  },
-  {
-    "event_id": 401772720,
-    "player_id": 4360294,
-    "player": "Antonio Gibson",
+    "event_id": 401772851,
+    "player_id": 4242335,
+    "player": "Jonathan Taylor",
     "opponent": "Las Vegas Raiders",
-    "week": 1,
-    "metric": 3
+    "week": 5,
+    "metric": 3.9
   },
   {
     "event_id": 401772849,
@@ -648,6 +800,14 @@
     "metric": 3.9
   },
   {
+    "event_id": 401772745,
+    "player_id": 4241985,
+    "player": "J.K. Dobbins",
+    "opponent": "Philadelphia Eagles",
+    "week": 5,
+    "metric": 4
+  },
+  {
     "event_id": 401772735,
     "player_id": 4241985,
     "player": "J.K. Dobbins",
@@ -670,6 +830,14 @@
     "opponent": "Cincinnati Bengals",
     "week": 4,
     "metric": 6.3
+  },
+  {
+    "event_id": 401772939,
+    "player_id": 4241474,
+    "player": "Brian Robinson Jr.",
+    "opponent": "Los Angeles Rams",
+    "week": 5,
+    "metric": 2.4
   },
   {
     "event_id": 401772848,
@@ -744,6 +912,14 @@
     "metric": 8.9
   },
   {
+    "event_id": 401772814,
+    "player_id": 4239996,
+    "player": "Travis Etienne Jr.",
+    "opponent": "Kansas City Chiefs",
+    "week": 5,
+    "metric": 4.1
+  },
+  {
     "event_id": 401772734,
     "player_id": 4239996,
     "player": "Travis Etienne Jr.",
@@ -758,30 +934,6 @@
     "opponent": "Cincinnati Bengals",
     "week": 2,
     "metric": 5.1
-  },
-  {
-    "event_id": 401772845,
-    "player_id": 4239934,
-    "player": "AJ Dillon",
-    "opponent": "Tampa Bay Buccaneers",
-    "week": 4,
-    "metric": 5.7
-  },
-  {
-    "event_id": 401772837,
-    "player_id": 4239934,
-    "player": "AJ Dillon",
-    "opponent": "Kansas City Chiefs",
-    "week": 2,
-    "metric": 6.3
-  },
-  {
-    "event_id": 401772510,
-    "player_id": 4239934,
-    "player": "AJ Dillon",
-    "opponent": "Dallas Cowboys",
-    "week": 1,
-    "metric": 3.3
   },
   {
     "event_id": 401772921,
@@ -824,6 +976,14 @@
     "metric": -7
   },
   {
+    "event_id": 401772743,
+    "player_id": 4038441,
+    "player": "Justice Hill",
+    "opponent": "Houston Texans",
+    "week": 5,
+    "metric": 3
+  },
+  {
     "event_id": 401772741,
     "player_id": 4038441,
     "player": "Justice Hill",
@@ -838,6 +998,14 @@
     "opponent": "Cleveland Browns",
     "week": 2,
     "metric": 2.3
+  },
+  {
+    "event_id": 401772854,
+    "player_id": 4035538,
+    "player": "David Montgomery",
+    "opponent": "Cincinnati Bengals",
+    "week": 5,
+    "metric": 3.6
   },
   {
     "event_id": 401772846,
@@ -880,6 +1048,14 @@
     "metric": 4.3
   },
   {
+    "event_id": 401772922,
+    "player_id": 3915411,
+    "player": "Ty Johnson",
+    "opponent": "New England Patriots",
+    "week": 5,
+    "metric": 5
+  },
+  {
     "event_id": 401772918,
     "player_id": 3915411,
     "player": "Ty Johnson",
@@ -904,6 +1080,14 @@
     "metric": 3
   },
   {
+    "event_id": 401772853,
+    "player_id": 3127586,
+    "player": "Jeremy McNichols",
+    "opponent": "Los Angeles Chargers",
+    "week": 5,
+    "metric": 6
+  },
+  {
     "event_id": 401772841,
     "player_id": 3127586,
     "player": "Jeremy McNichols",
@@ -926,6 +1110,14 @@
     "opponent": "Atlanta Falcons",
     "week": 4,
     "metric": 1.5
+  },
+  {
+    "event_id": 401772854,
+    "player_id": 3116389,
+    "player": "Samaje Perine",
+    "opponent": "Detroit Lions",
+    "week": 5,
+    "metric": 6.8
   },
   {
     "event_id": 401772731,
@@ -960,6 +1152,14 @@
     "metric": 4.2
   },
   {
+    "event_id": 401772743,
+    "player_id": 3043078,
+    "player": "Derrick Henry",
+    "opponent": "Houston Texans",
+    "week": 5,
+    "metric": 2.2
+  },
+  {
     "event_id": 401772741,
     "player_id": 3043078,
     "player": "Derrick Henry",
@@ -976,12 +1176,12 @@
     "metric": 2.1
   },
   {
-    "event_id": 401772723,
-    "player_id": 2983509,
-    "player": "Dare Ogunbowale",
-    "opponent": "Los Angeles Rams",
-    "week": 1,
-    "metric": 4.5
+    "event_id": 401772851,
+    "player_id": 2576414,
+    "player": "Raheem Mostert",
+    "opponent": "Indianapolis Colts",
+    "week": 5,
+    "metric": 3.1
   },
   {
     "event_id": 401772742,

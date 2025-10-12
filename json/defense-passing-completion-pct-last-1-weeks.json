@@ -1,142 +1,122 @@
 [
   {
-    "team": "Dolphins",
-    "opponent": "Panthers",
-    "metric_allowed": 76.3
-  },
-  {
-    "team": "Vikings",
-    "opponent": "Browns",
-    "metric_allowed": 76.1
-  },
-  {
-    "team": "Titans",
-    "opponent": "Cardinals",
-    "metric_allowed": 75.3
-  },
-  {
-    "team": "Saints",
-    "opponent": "Giants",
-    "metric_allowed": 74.5
-  },
-  {
-    "team": "Commanders",
-    "opponent": "Chargers",
-    "metric_allowed": 71.2
-  },
-  {
-    "team": "Cowboys",
-    "opponent": "Jets",
-    "metric_allowed": 70.0
-  },
-  {
-    "team": "Ravens",
-    "opponent": "Texans",
-    "metric_allowed": 69.5
-  },
-  {
-    "team": "Rams",
-    "opponent": "49ers",
-    "metric_allowed": 69.19999999999999
+    "team": "Seahawks",
+    "opponent": "Jaguars",
+    "metric_allowed": 87.9
   },
   {
     "team": "Bengals",
-    "opponent": "Lions",
-    "metric_allowed": 67.9
-  },
-  {
-    "team": "Cardinals",
-    "opponent": "Titans",
-    "metric_allowed": 67.5
+    "opponent": "Packers",
+    "metric_allowed": 83.3
   },
   {
     "team": "Buccaneers",
-    "opponent": "Seahawks",
-    "metric_allowed": 67.4
+    "opponent": "49ers",
+    "metric_allowed": 82.39999999999999
   },
   {
-    "team": "Seahawks",
-    "opponent": "Buccaneers",
-    "metric_allowed": 67.10000000000001
+    "team": "Ravens",
+    "opponent": "Rams",
+    "metric_allowed": 80.60000000000001
   },
   {
-    "team": "Jets",
-    "opponent": "Cowboys",
-    "metric_allowed": 66.8
-  },
-  {
-    "team": "Patriots",
-    "opponent": "Bills",
-    "metric_allowed": 66.7
+    "team": "Commanders",
+    "opponent": "Bears",
+    "metric_allowed": 75.8
   },
   {
     "team": "Panthers",
-    "opponent": "Dolphins",
-    "metric_allowed": 65.60000000000001
-  },
-  {
-    "team": "Colts",
-    "opponent": "Raiders",
-    "metric_allowed": 65.60000000000001
+    "opponent": "Cowboys",
+    "metric_allowed": 75.0
   },
   {
     "team": "Browns",
-    "opponent": "Vikings",
-    "metric_allowed": 65.60000000000001
-  },
-  {
-    "team": "Raiders",
-    "opponent": "Colts",
-    "metric_allowed": 65.4
-  },
-  {
-    "team": "49ers",
-    "opponent": "Rams",
-    "metric_allowed": 65.3
+    "opponent": "Steelers",
+    "metric_allowed": 74.3
   },
   {
     "team": "Bills",
-    "opponent": "Patriots",
-    "metric_allowed": 64.5
+    "opponent": "Falcons",
+    "metric_allowed": 73.3
   },
   {
     "team": "Chiefs",
-    "opponent": "Jaguars",
-    "metric_allowed": 63.0
+    "opponent": "Lions",
+    "metric_allowed": 72.0
+  },
+  {
+    "team": "Titans",
+    "opponent": "Raiders",
+    "metric_allowed": 71.89999999999999
+  },
+  {
+    "team": "Patriots",
+    "opponent": "Saints",
+    "metric_allowed": 71.0
   },
   {
     "team": "Jaguars",
-    "opponent": "Chiefs",
-    "metric_allowed": 61.8
+    "opponent": "Seahawks",
+    "metric_allowed": 70.7
   },
   {
-    "team": "Chargers",
-    "opponent": "Commanders",
-    "metric_allowed": 61.3
+    "team": "Cowboys",
+    "opponent": "Panthers",
+    "metric_allowed": 69.6
+  },
+  {
+    "team": "Colts",
+    "opponent": "Cardinals",
+    "metric_allowed": 69.39999999999999
+  },
+  {
+    "team": "Rams",
+    "opponent": "Ravens",
+    "metric_allowed": 67.30000000000001
+  },
+  {
+    "team": "Raiders",
+    "opponent": "Titans",
+    "metric_allowed": 65.60000000000001
   },
   {
     "team": "Lions",
-    "opponent": "Bengals",
-    "metric_allowed": 60.4
+    "opponent": "Chiefs",
+    "metric_allowed": 65.0
+  },
+  {
+    "team": "Saints",
+    "opponent": "Patriots",
+    "metric_allowed": 65.0
+  },
+  {
+    "team": "49ers",
+    "opponent": "Buccaneers",
+    "metric_allowed": 63.800000000000004
+  },
+  {
+    "team": "Dolphins",
+    "opponent": "Chargers",
+    "metric_allowed": 63.3
+  },
+  {
+    "team": "Jets",
+    "opponent": "Broncos",
+    "metric_allowed": 62.1
   },
   {
     "team": "Broncos",
-    "opponent": "Eagles",
-    "metric_allowed": 57.8
+    "opponent": "Jets",
+    "metric_allowed": 60.5
   },
   {
-    "team": "Giants",
-    "opponent": "Saints",
-    "metric_allowed": 57.8
+    "team": "Chargers",
+    "opponent": "Dolphins",
+    "metric_allowed": 57.699999999999996
   },
   {
-    "team": "Eagles",
-    "opponent": "Broncos",
-    "metric_allowed": 55.400000000000006
-  },
-  {
-    "team": "Texans",
-    "opponent": "Ravens",
-    "metric_allowed": 44.2
+    "team": "Cardinals",
+    "opponent": "Colts",
+    "metric_allowed": 53.800000000000004
   }
 ]

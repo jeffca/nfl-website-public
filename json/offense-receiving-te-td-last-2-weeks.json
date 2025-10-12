@@ -1,242 +1,242 @@
 [
   {
-    "player": "Dallas Goedert",
-    "team": "Eagles",
-    "opponent": "Broncos",
-    "metric": 1.5
-  },
-  {
-    "player": "Hunter Henry",
-    "team": "Patriots",
-    "opponent": "Bills",
-    "metric": 1.5
-  },
-  {
-    "player": "Dalton Kincaid",
-    "team": "Bills",
-    "opponent": "Patriots",
-    "metric": 1.0
-  },
-  {
-    "player": "Drew Sample",
-    "team": "Bengals",
-    "opponent": "Lions",
-    "metric": 1.0
-  },
-  {
-    "player": "Mark Andrews",
-    "team": "Ravens",
-    "opponent": "Texans",
-    "metric": 1.0
-  },
-  {
     "player": "AJ Barner",
     "team": "Seahawks",
-    "opponent": "Buccaneers",
-    "metric": 0.5
-  },
-  {
-    "player": "Hunter Long",
-    "team": "Jaguars",
-    "opponent": "Chiefs",
-    "metric": 0.5
-  },
-  {
-    "player": "Jack Stoll",
-    "team": "Saints",
-    "opponent": "Giants",
-    "metric": 0.5
-  },
-  {
-    "player": "Jackson Hawes",
-    "team": "Bills",
-    "opponent": "Patriots",
-    "metric": 0.5
+    "opponent": "Jaguars",
+    "metric": 2.0
   },
   {
     "player": "Jake Ferguson",
     "team": "Cowboys",
+    "opponent": "Panthers",
+    "metric": 2.0
+  },
+  {
+    "player": "David Njoku",
+    "team": "Browns",
+    "opponent": "Steelers",
+    "metric": 1.0
+  },
+  {
+    "player": "Evan Engram",
+    "team": "Broncos",
     "opponent": "Jets",
-    "metric": 0.5
+    "metric": 1.0
+  },
+  {
+    "player": "Harold Fannin Jr.",
+    "team": "Browns",
+    "opponent": "Steelers",
+    "metric": 1.0
   },
   {
     "player": "Jake Tonges",
     "team": "49ers",
-    "opponent": "Rams",
-    "metric": 0.5
-  },
-  {
-    "player": "Josh Oliver",
-    "team": "Vikings",
-    "opponent": "Browns",
-    "metric": 0.5
+    "opponent": "Buccaneers",
+    "metric": 1.0
   },
   {
     "player": "Mitchell Evans",
     "team": "Panthers",
-    "opponent": "Dolphins",
-    "metric": 0.5
+    "opponent": "Cowboys",
+    "metric": 1.0
   },
   {
-    "player": "T.J. Hockenson",
-    "team": "Vikings",
-    "opponent": "Browns",
-    "metric": 0.5
+    "player": "Sam LaPorta",
+    "team": "Lions",
+    "opponent": "Chiefs",
+    "metric": 1.0
   },
   {
-    "player": "Theo Johnson",
-    "team": "Giants",
-    "opponent": "Saints",
-    "metric": 0.5
+    "player": "Travis Kelce",
+    "team": "Chiefs",
+    "opponent": "Lions",
+    "metric": 1.0
   },
   {
-    "player": "Tommy Tremble",
-    "team": "Panthers",
-    "opponent": "Dolphins",
-    "metric": 0.5
-  },
-  {
-    "player": "Trey McBride",
-    "team": "Cardinals",
-    "opponent": "Titans",
-    "metric": 0.5
+    "player": "Tyler Warren",
+    "team": "Colts",
+    "opponent": "Cardinals",
+    "metric": 1.0
   },
   {
     "player": "Adam Trautman",
     "team": "Broncos",
-    "opponent": "Eagles",
+    "opponent": "Jets",
     "metric": 0.0
   },
   {
-    "player": "Austin Hooper",
-    "team": "Patriots",
-    "opponent": "Bills",
-    "metric": 0.0
-  },
-  {
-    "player": "Blake Whiteheart",
-    "team": "Browns",
-    "opponent": "Vikings",
+    "player": "Albert Okwuegbunam Jr.",
+    "team": "Raiders",
+    "opponent": "Titans",
     "metric": 0.0
   },
   {
     "player": "Brenton Strange",
     "team": "Jaguars",
-    "opponent": "Chiefs",
-    "metric": 0.0
-  },
-  {
-    "player": "Brock Bowers",
-    "team": "Raiders",
-    "opponent": "Colts",
+    "opponent": "Seahawks",
     "metric": 0.0
   },
   {
     "player": "Cade Otton",
     "team": "Buccaneers",
-    "opponent": "Seahawks",
-    "metric": 0.0
-  },
-  {
-    "player": "Cam Grandy",
-    "team": "Bengals",
-    "opponent": "Lions",
+    "opponent": "49ers",
     "metric": 0.0
   },
   {
     "player": "Charlie Kolar",
     "team": "Ravens",
-    "opponent": "Texans",
+    "opponent": "Rams",
     "metric": 0.0
   },
   {
     "player": "Chig Okonkwo",
     "team": "Titans",
-    "opponent": "Cardinals",
+    "opponent": "Raiders",
     "metric": 0.0
   },
   {
     "player": "Colby Parkinson",
     "team": "Rams",
-    "opponent": "49ers",
-    "metric": 0.0
-  },
-  {
-    "player": "Dalton Schultz",
-    "team": "Texans",
     "opponent": "Ravens",
     "metric": 0.0
   },
   {
-    "player": "Daniel Bellinger",
-    "team": "Giants",
-    "opponent": "Saints",
-    "metric": 0.0
-  },
-  {
-    "player": "David Njoku",
-    "team": "Browns",
-    "opponent": "Vikings",
+    "player": "Dalton Kincaid",
+    "team": "Bills",
+    "opponent": "Falcons",
     "metric": 0.0
   },
   {
     "player": "Davis Allen",
     "team": "Rams",
-    "opponent": "49ers",
+    "opponent": "Ravens",
     "metric": 0.0
   },
   {
     "player": "Dawson Knox",
     "team": "Bills",
-    "opponent": "Patriots",
+    "opponent": "Falcons",
+    "metric": 0.0
+  },
+  {
+    "player": "Drew Sample",
+    "team": "Bengals",
+    "opponent": "Packers",
     "metric": 0.0
   },
   {
     "player": "Elijah Arroyo",
     "team": "Seahawks",
-    "opponent": "Buccaneers",
+    "opponent": "Jaguars",
     "metric": 0.0
   },
   {
     "player": "Elijah Higgins",
     "team": "Cardinals",
-    "opponent": "Titans",
-    "metric": 0.0
-  },
-  {
-    "player": "Eric Saubert",
-    "team": "Seahawks",
-    "opponent": "Buccaneers",
-    "metric": 0.0
-  },
-  {
-    "player": "Evan Engram",
-    "team": "Broncos",
-    "opponent": "Eagles",
+    "opponent": "Colts",
     "metric": 0.0
   },
   {
     "player": "Gunnar Helm",
     "team": "Titans",
-    "opponent": "Cardinals",
+    "opponent": "Raiders",
     "metric": 0.0
   },
   {
-    "player": "Harold Fannin Jr.",
-    "team": "Browns",
-    "opponent": "Vikings",
+    "player": "Hunter Henry",
+    "team": "Patriots",
+    "opponent": "Saints",
     "metric": 0.0
   },
   {
-    "player": "Ja'Tavion Sanders",
-    "team": "Panthers",
-    "opponent": "Dolphins",
+    "player": "Hunter Long",
+    "team": "Jaguars",
+    "opponent": "Seahawks",
+    "metric": 0.0
+  },
+  {
+    "player": "Ian Thomas",
+    "team": "Raiders",
+    "opponent": "Titans",
     "metric": 0.0
   },
   {
     "player": "James Mitchell",
     "team": "Panthers",
+    "opponent": "Cowboys",
+    "metric": 0.0
+  },
+  {
+    "player": "Jeremy Ruckert",
+    "team": "Jets",
+    "opponent": "Broncos",
+    "metric": 0.0
+  },
+  {
+    "player": "Johnny Mundt",
+    "team": "Jaguars",
+    "opponent": "Seahawks",
+    "metric": 0.0
+  },
+  {
+    "player": "Juwan Johnson",
+    "team": "Saints",
+    "opponent": "Patriots",
+    "metric": 0.0
+  },
+  {
+    "player": "Luke Farrell",
+    "team": "49ers",
+    "opponent": "Buccaneers",
+    "metric": 0.0
+  },
+  {
+    "player": "Luke Schoonmaker",
+    "team": "Cowboys",
+    "opponent": "Panthers",
+    "metric": 0.0
+  },
+  {
+    "player": "Mark Andrews",
+    "team": "Ravens",
+    "opponent": "Rams",
+    "metric": 0.0
+  },
+  {
+    "player": "Mason Taylor",
+    "team": "Jets",
+    "opponent": "Broncos",
+    "metric": 0.0
+  },
+  {
+    "player": "Mike Gesicki",
+    "team": "Bengals",
+    "opponent": "Packers",
+    "metric": 0.0
+  },
+  {
+    "player": "Oronde Gadsden II",
+    "team": "Chargers",
     "opponent": "Dolphins",
+    "metric": 0.0
+  },
+  {
+    "player": "Tanner Conner",
+    "team": "Dolphins",
+    "opponent": "Chargers",
+    "metric": 0.0
+  },
+  {
+    "player": "Terrance Ferguson",
+    "team": "Rams",
+    "opponent": "Ravens",
+    "metric": 0.0
+  },
+  {
+    "player": "Tip Reiman",
+    "team": "Cardinals",
+    "opponent": "Colts",
     "metric": 0.0
   }
 ]

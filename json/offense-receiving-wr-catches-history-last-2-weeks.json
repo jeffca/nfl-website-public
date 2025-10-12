@@ -1,5 +1,37 @@
 [
   {
+    "event_id": 401772921,
+    "player_id": 5083754,
+    "player": "Ryan Flournoy",
+    "opponent": "Packers",
+    "week": 4,
+    "metric": 2
+  },
+  {
+    "event_id": 401772850,
+    "player_id": 5083754,
+    "player": "Ryan Flournoy",
+    "opponent": "Jets",
+    "week": 5,
+    "metric": 6
+  },
+  {
+    "event_id": 401772844,
+    "player_id": 5083754,
+    "player": "Ryan Flournoy",
+    "opponent": "Bears",
+    "week": 3,
+    "metric": 2
+  },
+  {
+    "event_id": 401772852,
+    "player_id": 4685472,
+    "player": "Tetairoa McMillan",
+    "opponent": "Dolphins",
+    "week": 5,
+    "metric": 6
+  },
+  {
     "event_id": 401772847,
     "player_id": 4685472,
     "player": "Tetairoa McMillan",
@@ -40,6 +72,14 @@
     "metric": 3
   },
   {
+    "event_id": 401772922,
+    "player_id": 4635008,
+    "player": "Keon Coleman",
+    "opponent": "Patriots",
+    "week": 5,
+    "metric": 4
+  },
+  {
     "event_id": 401772918,
     "player_id": 4635008,
     "player": "Keon Coleman",
@@ -64,68 +104,12 @@
     "metric": 3
   },
   {
-    "event_id": 401772811,
-    "player_id": 4612826,
-    "player": "Ladd McConkey",
-    "opponent": "Raiders",
-    "week": 2,
-    "metric": 5
-  },
-  {
-    "event_id": 401772737,
-    "player_id": 4612826,
-    "player": "Ladd McConkey",
-    "opponent": "Giants",
-    "week": 4,
-    "metric": 1
-  },
-  {
-    "event_id": 401772735,
-    "player_id": 4612826,
-    "player": "Ladd McConkey",
-    "opponent": "Broncos",
-    "week": 3,
-    "metric": 4
-  },
-  {
-    "event_id": 401772714,
-    "player_id": 4612826,
-    "player": "Ladd McConkey",
-    "opponent": "Chiefs",
-    "week": 1,
-    "metric": 6
-  },
-  {
-    "event_id": 401772920,
-    "player_id": 4595348,
-    "player": "Malik Nabers",
-    "opponent": "Chiefs",
-    "week": 3,
-    "metric": 2
-  },
-  {
-    "event_id": 401772834,
-    "player_id": 4595348,
-    "player": "Malik Nabers",
+    "event_id": 401772850,
+    "player_id": 4569618,
+    "player": "Garrett Wilson",
     "opponent": "Cowboys",
-    "week": 2,
-    "metric": 9
-  },
-  {
-    "event_id": 401772827,
-    "player_id": 4595348,
-    "player": "Malik Nabers",
-    "opponent": "Commanders",
-    "week": 1,
-    "metric": 5
-  },
-  {
-    "event_id": 401772737,
-    "player_id": 4595348,
-    "player": "Malik Nabers",
-    "opponent": "Chargers",
-    "week": 4,
-    "metric": 2
+    "week": 5,
+    "metric": 6
   },
   {
     "event_id": 401772840,
@@ -160,38 +144,6 @@
     "metric": 7
   },
   {
-    "event_id": 401772920,
-    "player_id": 4569587,
-    "player": "Wan'Dale Robinson",
-    "opponent": "Chiefs",
-    "week": 3,
-    "metric": 1
-  },
-  {
-    "event_id": 401772834,
-    "player_id": 4569587,
-    "player": "Wan'Dale Robinson",
-    "opponent": "Cowboys",
-    "week": 2,
-    "metric": 8
-  },
-  {
-    "event_id": 401772827,
-    "player_id": 4569587,
-    "player": "Wan'Dale Robinson",
-    "opponent": "Commanders",
-    "week": 1,
-    "metric": 6
-  },
-  {
-    "event_id": 401772737,
-    "player_id": 4569587,
-    "player": "Wan'Dale Robinson",
-    "opponent": "Chargers",
-    "week": 4,
-    "metric": 3
-  },
-  {
     "event_id": 401772845,
     "player_id": 4567750,
     "player": "Emeka Egbuka",
@@ -216,10 +168,58 @@
     "metric": 4
   },
   {
+    "event_id": 401772746,
+    "player_id": 4567750,
+    "player": "Emeka Egbuka",
+    "opponent": "Seahawks",
+    "week": 5,
+    "metric": 7
+  },
+  {
     "event_id": 401772715,
     "player_id": 4567750,
     "player": "Emeka Egbuka",
     "opponent": "Texans",
+    "week": 2,
+    "metric": 4
+  },
+  {
+    "event_id": 401772848,
+    "player_id": 4432773,
+    "player": "Brian Thomas Jr.",
+    "opponent": "49ers",
+    "week": 4,
+    "metric": 5
+  },
+  {
+    "event_id": 401772828,
+    "player_id": 4432773,
+    "player": "Brian Thomas Jr.",
+    "opponent": "Panthers",
+    "week": 1,
+    "metric": 1
+  },
+  {
+    "event_id": 401772814,
+    "player_id": 4432773,
+    "player": "Brian Thomas Jr.",
+    "opponent": "Chiefs",
+    "week": 5,
+    "metric": 4
+  },
+  {
+    "event_id": 401772734,
+    "player_id": 4432773,
+    "player": "Brian Thomas Jr.",
+    "opponent": "Texans",
+    "week": 3,
+    "metric": 2
+  },
+  {
+    "event_id": 401772725,
+    "player_id": 4432773,
+    "player": "Brian Thomas Jr.",
+    "opponent": "Bengals",
     "week": 2,
     "metric": 4
   },
@@ -240,6 +240,14 @@
     "metric": 3
   },
   {
+    "event_id": 401772747,
+    "player_id": 4432708,
+    "player": "Marvin Harrison Jr.",
+    "opponent": "Titans",
+    "week": 5,
+    "metric": 4
+  },
+  {
     "event_id": 401772730,
     "player_id": 4432708,
     "player": "Marvin Harrison Jr.",
@@ -256,12 +264,52 @@
     "metric": 5
   },
   {
+    "event_id": 401772844,
+    "player_id": 4431299,
+    "player": "Rome Odunze",
+    "opponent": "Cowboys",
+    "week": 3,
+    "metric": 3
+  },
+  {
+    "event_id": 401772835,
+    "player_id": 4431299,
+    "player": "Rome Odunze",
+    "opponent": "Lions",
+    "week": 2,
+    "metric": 7
+  },
+  {
+    "event_id": 401772810,
+    "player_id": 4431299,
+    "player": "Rome Odunze",
+    "opponent": "Vikings",
+    "week": 1,
+    "metric": 6
+  },
+  {
+    "event_id": 401772742,
+    "player_id": 4431299,
+    "player": "Rome Odunze",
+    "opponent": "Raiders",
+    "week": 4,
+    "metric": 4
+  },
+  {
     "event_id": 401772832,
     "player_id": 4431280,
     "player": "Troy Franklin",
     "opponent": "Titans",
     "week": 1,
     "metric": 4
+  },
+  {
+    "event_id": 401772745,
+    "player_id": 4431280,
+    "player": "Troy Franklin",
+    "opponent": "Eagles",
+    "week": 5,
+    "metric": 3
   },
   {
     "event_id": 401772735,
@@ -312,6 +360,14 @@
     "metric": 9
   },
   {
+    "event_id": 401772746,
+    "player_id": 4430878,
+    "player": "Jaxon Smith-Njigba",
+    "opponent": "Buccaneers",
+    "week": 5,
+    "metric": 8
+  },
+  {
     "event_id": 401772736,
     "player_id": 4430878,
     "player": "Jaxon Smith-Njigba",
@@ -336,6 +392,14 @@
     "metric": 2
   },
   {
+    "event_id": 401772743,
+    "player_id": 4429615,
+    "player": "Zay Flowers",
+    "opponent": "Texans",
+    "week": 5,
+    "metric": 5
+  },
+  {
     "event_id": 401772741,
     "player_id": 4429615,
     "player": "Zay Flowers",
@@ -350,6 +414,14 @@
     "opponent": "Browns",
     "week": 2,
     "metric": 7
+  },
+  {
+    "event_id": 401772853,
+    "player_id": 4429025,
+    "player": "Quentin Johnston",
+    "opponent": "Commanders",
+    "week": 5,
+    "metric": 4
   },
   {
     "event_id": 401772811,
@@ -382,6 +454,14 @@
     "opponent": "Chiefs",
     "week": 1,
     "metric": 5
+  },
+  {
+    "event_id": 401772851,
+    "player_id": 4428718,
+    "player": "Tre Tucker",
+    "opponent": "Colts",
+    "week": 5,
+    "metric": 4
   },
   {
     "event_id": 401772841,
@@ -448,6 +528,14 @@
     "metric": 4
   },
   {
+    "event_id": 401772939,
+    "player_id": 4426515,
+    "player": "Puka Nacua",
+    "opponent": "49ers",
+    "week": 5,
+    "metric": 10
+  },
+  {
     "event_id": 401772849,
     "player_id": 4426515,
     "player": "Puka Nacua",
@@ -478,6 +566,46 @@
     "opponent": "Texans",
     "week": 1,
     "metric": 10
+  },
+  {
+    "event_id": 401772919,
+    "player_id": 4426502,
+    "player": "Drake London",
+    "opponent": "Vikings",
+    "week": 2,
+    "metric": 3
+  },
+  {
+    "event_id": 401772838,
+    "player_id": 4426502,
+    "player": "Drake London",
+    "opponent": "Panthers",
+    "week": 3,
+    "metric": 5
+  },
+  {
+    "event_id": 401772830,
+    "player_id": 4426502,
+    "player": "Drake London",
+    "opponent": "Buccaneers",
+    "week": 1,
+    "metric": 8
+  },
+  {
+    "event_id": 401772739,
+    "player_id": 4426502,
+    "player": "Drake London",
+    "opponent": "Commanders",
+    "week": 4,
+    "metric": 8
+  },
+  {
+    "event_id": 401772854,
+    "player_id": 4426388,
+    "player": "Jameson Williams",
+    "opponent": "Bengals",
+    "week": 5,
+    "metric": 1
   },
   {
     "event_id": 401772846,
@@ -520,6 +648,14 @@
     "metric": 8
   },
   {
+    "event_id": 401772850,
+    "player_id": 4426354,
+    "player": "George Pickens",
+    "opponent": "Jets",
+    "week": 5,
+    "metric": 2
+  },
+  {
     "event_id": 401772844,
     "player_id": 4426354,
     "player": "George Pickens",
@@ -542,6 +678,14 @@
     "opponent": "Eagles",
     "week": 1,
     "metric": 3
+  },
+  {
+    "event_id": 401772854,
+    "player_id": 4374302,
+    "player": "Amon-Ra St. Brown",
+    "opponent": "Bengals",
+    "week": 5,
+    "metric": 8
   },
   {
     "event_id": 401772846,
@@ -584,6 +728,14 @@
     "metric": 4
   },
   {
+    "event_id": 401772922,
+    "player_id": 4373678,
+    "player": "Khalil Shakir",
+    "opponent": "Patriots",
+    "week": 5,
+    "metric": 6
+  },
+  {
     "event_id": 401772918,
     "player_id": 4373678,
     "player": "Khalil Shakir",
@@ -614,6 +766,14 @@
     "opponent": "Bills",
     "week": 3,
     "metric": 5
+  },
+  {
+    "event_id": 401772852,
+    "player_id": 4372016,
+    "player": "Jaylen Waddle",
+    "opponent": "Panthers",
+    "week": 5,
+    "metric": 6
   },
   {
     "event_id": 401772813,
@@ -656,6 +816,14 @@
     "metric": 2
   },
   {
+    "event_id": 401772814,
+    "player_id": 4362921,
+    "player": "Tyquan Thornton",
+    "opponent": "Jaguars",
+    "week": 5,
+    "metric": 3
+  },
+  {
     "event_id": 401772741,
     "player_id": 4362921,
     "player": "Tyquan Thornton",
@@ -670,6 +838,14 @@
     "opponent": "Chargers",
     "week": 1,
     "metric": 2
+  },
+  {
+    "event_id": 401772854,
+    "player_id": 4362628,
+    "player": "Ja'Marr Chase",
+    "opponent": "Lions",
+    "week": 5,
+    "metric": 6
   },
   {
     "event_id": 401772829,
@@ -712,6 +888,14 @@
     "metric": 6
   },
   {
+    "event_id": 401772744,
+    "player_id": 4361370,
+    "player": "Chris Olave",
+    "opponent": "Giants",
+    "week": 5,
+    "metric": 7
+  },
+  {
     "event_id": 401772740,
     "player_id": 4361370,
     "player": "Chris Olave",
@@ -760,102 +944,6 @@
     "metric": 1
   },
   {
-    "event_id": 401772919,
-    "player_id": 4262921,
-    "player": "Justin Jefferson",
-    "opponent": "Falcons",
-    "week": 2,
-    "metric": 3
-  },
-  {
-    "event_id": 401772810,
-    "player_id": 4262921,
-    "player": "Justin Jefferson",
-    "opponent": "Bears",
-    "week": 1,
-    "metric": 4
-  },
-  {
-    "event_id": 401772731,
-    "player_id": 4262921,
-    "player": "Justin Jefferson",
-    "opponent": "Bengals",
-    "week": 3,
-    "metric": 5
-  },
-  {
-    "event_id": 401772632,
-    "player_id": 4262921,
-    "player": "Justin Jefferson",
-    "opponent": "Steelers",
-    "week": 4,
-    "metric": 10
-  },
-  {
-    "event_id": 401772738,
-    "player_id": 4258173,
-    "player": "Nico Collins",
-    "opponent": "Titans",
-    "week": 4,
-    "metric": 4
-  },
-  {
-    "event_id": 401772734,
-    "player_id": 4258173,
-    "player": "Nico Collins",
-    "opponent": "Jaguars",
-    "week": 3,
-    "metric": 8
-  },
-  {
-    "event_id": 401772723,
-    "player_id": 4258173,
-    "player": "Nico Collins",
-    "opponent": "Rams",
-    "week": 1,
-    "metric": 3
-  },
-  {
-    "event_id": 401772715,
-    "player_id": 4258173,
-    "player": "Nico Collins",
-    "opponent": "Buccaneers",
-    "week": 2,
-    "metric": 3
-  },
-  {
-    "event_id": 401772846,
-    "player_id": 4241463,
-    "player": "Jerry Jeudy",
-    "opponent": "Lions",
-    "week": 4,
-    "metric": 3
-  },
-  {
-    "event_id": 401772842,
-    "player_id": 4241463,
-    "player": "Jerry Jeudy",
-    "opponent": "Packers",
-    "week": 3,
-    "metric": 1
-  },
-  {
-    "event_id": 401772829,
-    "player_id": 4241463,
-    "player": "Jerry Jeudy",
-    "opponent": "Bengals",
-    "week": 1,
-    "metric": 5
-  },
-  {
-    "event_id": 401772726,
-    "player_id": 4241463,
-    "player": "Jerry Jeudy",
-    "opponent": "Ravens",
-    "week": 2,
-    "metric": 4
-  },
-  {
     "event_id": 401772834,
     "player_id": 4241389,
     "player": "CeeDee Lamb",
@@ -888,6 +976,14 @@
     "metric": 5
   },
   {
+    "event_id": 401772814,
+    "player_id": 4241372,
+    "player": "Hollywood Brown",
+    "opponent": "Jaguars",
+    "week": 5,
+    "metric": 4
+  },
+  {
     "event_id": 401772741,
     "player_id": 4241372,
     "player": "Hollywood Brown",
@@ -902,6 +998,46 @@
     "opponent": "Chargers",
     "week": 1,
     "metric": 10
+  },
+  {
+    "event_id": 401772836,
+    "player_id": 4047650,
+    "player": "DK Metcalf",
+    "opponent": "Seahawks",
+    "week": 2,
+    "metric": 3
+  },
+  {
+    "event_id": 401772732,
+    "player_id": 4047650,
+    "player": "DK Metcalf",
+    "opponent": "Patriots",
+    "week": 3,
+    "metric": 3
+  },
+  {
+    "event_id": 401772721,
+    "player_id": 4047650,
+    "player": "DK Metcalf",
+    "opponent": "Jets",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772632,
+    "player_id": 4047650,
+    "player": "DK Metcalf",
+    "opponent": "Vikings",
+    "week": 4,
+    "metric": 5
+  },
+  {
+    "event_id": 401772851,
+    "player_id": 4035687,
+    "player": "Michael Pittman Jr.",
+    "opponent": "Raiders",
+    "week": 5,
+    "metric": 5
   },
   {
     "event_id": 401772849,
@@ -944,6 +1080,14 @@
     "metric": 4
   },
   {
+    "event_id": 401772744,
+    "player_id": 4032473,
+    "player": "Rashid Shaheed",
+    "opponent": "Giants",
+    "week": 5,
+    "metric": 4
+  },
+  {
     "event_id": 401772740,
     "player_id": 4032473,
     "player": "Rashid Shaheed",
@@ -966,6 +1110,54 @@
     "opponent": "Cardinals",
     "week": 1,
     "metric": 6
+  },
+  {
+    "event_id": 401772832,
+    "player_id": 3925357,
+    "player": "Calvin Ridley",
+    "opponent": "Broncos",
+    "week": 1,
+    "metric": 4
+  },
+  {
+    "event_id": 401772747,
+    "player_id": 3925357,
+    "player": "Calvin Ridley",
+    "opponent": "Cardinals",
+    "week": 5,
+    "metric": 5
+  },
+  {
+    "event_id": 401772738,
+    "player_id": 3925357,
+    "player": "Calvin Ridley",
+    "opponent": "Texans",
+    "week": 4,
+    "metric": 2
+  },
+  {
+    "event_id": 401772733,
+    "player_id": 3925357,
+    "player": "Calvin Ridley",
+    "opponent": "Colts",
+    "week": 3,
+    "metric": 1
+  },
+  {
+    "event_id": 401772724,
+    "player_id": 3925357,
+    "player": "Calvin Ridley",
+    "opponent": "Rams",
+    "week": 2,
+    "metric": 3
+  },
+  {
+    "event_id": 401772851,
+    "player_id": 3916433,
+    "player": "Jakobi Meyers",
+    "opponent": "Colts",
+    "week": 5,
+    "metric": 4
   },
   {
     "event_id": 401772841,
@@ -1008,6 +1200,14 @@
     "metric": 6
   },
   {
+    "event_id": 401772745,
+    "player_id": 3128429,
+    "player": "Courtland Sutton",
+    "opponent": "Eagles",
+    "week": 5,
+    "metric": 8
+  },
+  {
     "event_id": 401772735,
     "player_id": 3128429,
     "player": "Courtland Sutton",
@@ -1038,6 +1238,14 @@
     "opponent": "Packers",
     "week": 2,
     "metric": 7
+  },
+  {
+    "event_id": 401772853,
+    "player_id": 3126486,
+    "player": "Deebo Samuel",
+    "opponent": "Chargers",
+    "week": 5,
+    "metric": 8
   },
   {
     "event_id": 401772841,
@@ -1120,6 +1328,14 @@
     "metric": 4
   },
   {
+    "event_id": 401772922,
+    "player_id": 2976212,
+    "player": "Stefon Diggs",
+    "opponent": "Bills",
+    "week": 5,
+    "metric": 10
+  },
+  {
     "event_id": 401772847,
     "player_id": 2976212,
     "player": "Stefon Diggs",
@@ -1150,6 +1366,14 @@
     "opponent": "Raiders",
     "week": 1,
     "metric": 6
+  },
+  {
+    "event_id": 401772939,
+    "player_id": 16800,
+    "player": "Davante Adams",
+    "opponent": "49ers",
+    "week": 5,
+    "metric": 5
   },
   {
     "event_id": 401772849,
@@ -1205,6 +1429,14 @@
     "player": "Mike Evans",
     "opponent": "Texans",
     "week": 2,
+    "metric": 5
+  },
+  {
+    "event_id": 401772853,
+    "player_id": 15818,
+    "player": "Keenan Allen",
+    "opponent": "Commanders",
+    "week": 5,
     "metric": 5
   },
   {

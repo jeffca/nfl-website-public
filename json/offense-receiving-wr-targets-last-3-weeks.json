@@ -2,241 +2,241 @@
   {
     "player": "Puka Nacua",
     "team": "Rams",
-    "opponent": "49ers",
-    "metric": 13.0
+    "opponent": "Ravens",
+    "metric": 13.5
   },
   {
-    "player": "CeeDee Lamb",
-    "team": "Cowboys",
-    "opponent": "Jets",
-    "metric": 11.0
-  },
-  {
-    "player": "Chris Olave",
-    "team": "Saints",
-    "opponent": "Giants",
+    "player": "Drake London",
+    "team": "Falcons",
+    "opponent": "Bills",
     "metric": 10.0
   },
   {
-    "player": "Ja'Marr Chase",
-    "team": "Bengals",
-    "opponent": "Lions",
-    "metric": 10.0
-  },
-  {
-    "player": "Quentin Johnston",
-    "team": "Chargers",
-    "opponent": "Commanders",
-    "metric": 10.0
+    "player": "Stefon Diggs",
+    "team": "Patriots",
+    "opponent": "Saints",
+    "metric": 9.5
   },
   {
     "player": "Garrett Wilson",
     "team": "Jets",
-    "opponent": "Cowboys",
-    "metric": 9.7
-  },
-  {
-    "player": "George Pickens",
-    "team": "Cowboys",
-    "opponent": "Jets",
-    "metric": 9.7
-  },
-  {
-    "player": "Mike Evans",
-    "team": "Buccaneers",
-    "opponent": "Seahawks",
-    "metric": 9.5
-  },
-  {
-    "player": "A.J. Brown",
-    "team": "Eagles",
     "opponent": "Broncos",
     "metric": 9.0
   },
   {
-    "player": "Davante Adams",
-    "team": "Rams",
-    "opponent": "49ers",
+    "player": "Ja'Marr Chase",
+    "team": "Bengals",
+    "opponent": "Packers",
     "metric": 9.0
   },
   {
-    "player": "Amon-Ra St. Brown",
-    "team": "Lions",
-    "opponent": "Bengals",
-    "metric": 8.7
+    "player": "Chris Olave",
+    "team": "Saints",
+    "opponent": "Patriots",
+    "metric": 8.5
   },
   {
-    "player": "Nico Collins",
-    "team": "Texans",
+    "player": "Davante Adams",
+    "team": "Rams",
     "opponent": "Ravens",
-    "metric": 8.7
+    "metric": 8.5
   },
   {
-    "player": "Tetairoa McMillan",
-    "team": "Panthers",
-    "opponent": "Dolphins",
-    "metric": 8.7
-  },
-  {
-    "player": "Brian Thomas Jr.",
-    "team": "Jaguars",
-    "opponent": "Chiefs",
-    "metric": 8.3
+    "player": "Deebo Samuel",
+    "team": "Commanders",
+    "opponent": "Bears",
+    "metric": 8.5
   },
   {
     "player": "Emeka Egbuka",
     "team": "Buccaneers",
-    "opponent": "Seahawks",
-    "metric": 8.3
+    "opponent": "49ers",
+    "metric": 8.5
   },
   {
-    "player": "Keenan Allen",
+    "player": "Quentin Johnston",
     "team": "Chargers",
-    "opponent": "Commanders",
-    "metric": 8.3
-  },
-  {
-    "player": "Justin Jefferson",
-    "team": "Vikings",
-    "opponent": "Browns",
-    "metric": 8.0
-  },
-  {
-    "player": "Xavier Legette",
-    "team": "Panthers",
     "opponent": "Dolphins",
-    "metric": 8.0
+    "metric": 8.5
   },
   {
     "player": "Xavier Worthy",
     "team": "Chiefs",
-    "opponent": "Jaguars",
+    "opponent": "Lions",
+    "metric": 8.5
+  },
+  {
+    "player": "Amon-Ra St. Brown",
+    "team": "Lions",
+    "opponent": "Chiefs",
     "metric": 8.0
   },
   {
-    "player": "Jakobi Meyers",
-    "team": "Raiders",
-    "opponent": "Colts",
-    "metric": 7.7
+    "player": "Courtland Sutton",
+    "team": "Broncos",
+    "opponent": "Jets",
+    "metric": 8.0
   },
   {
-    "player": "Malik Nabers",
-    "team": "Giants",
-    "opponent": "Saints",
-    "metric": 7.7
+    "player": "Keenan Allen",
+    "team": "Chargers",
+    "opponent": "Dolphins",
+    "metric": 8.0
   },
   {
-    "player": "Tyreek Hill",
-    "team": "Dolphins",
+    "player": "Michael Pittman Jr.",
+    "team": "Colts",
+    "opponent": "Cardinals",
+    "metric": 8.0
+  },
+  {
+    "player": "Rome Odunze",
+    "team": "Bears",
+    "opponent": "Commanders",
+    "metric": 8.0
+  },
+  {
+    "player": "Romeo Doubs",
+    "team": "Packers",
+    "opponent": "Bengals",
+    "metric": 8.0
+  },
+  {
+    "player": "Tetairoa McMillan",
+    "team": "Panthers",
+    "opponent": "Cowboys",
+    "metric": 8.0
+  },
+  {
+    "player": "George Pickens",
+    "team": "Cowboys",
     "opponent": "Panthers",
-    "metric": 7.7
+    "metric": 7.5
   },
   {
-    "player": "Jerry Jeudy",
-    "team": "Browns",
-    "opponent": "Vikings",
-    "metric": 7.3
+    "player": "Jaylen Waddle",
+    "team": "Dolphins",
+    "opponent": "Chargers",
+    "metric": 7.5
   },
   {
-    "player": "Ricky Pearsall",
-    "team": "49ers",
-    "opponent": "Rams",
-    "metric": 7.3
+    "player": "Marvin Harrison Jr.",
+    "team": "Cardinals",
+    "opponent": "Colts",
+    "metric": 7.5
   },
   {
-    "player": "Zay Flowers",
-    "team": "Ravens",
-    "opponent": "Texans",
-    "metric": 7.3
-  },
-  {
-    "player": "Jauan Jennings",
-    "team": "49ers",
-    "opponent": "Rams",
+    "player": "Cooper Kupp",
+    "team": "Seahawks",
+    "opponent": "Jaguars",
     "metric": 7.0
   },
   {
     "player": "Jaxon Smith-Njigba",
     "team": "Seahawks",
-    "opponent": "Buccaneers",
+    "opponent": "Jaguars",
     "metric": 7.0
   },
   {
-    "player": "Marvin Harrison Jr.",
-    "team": "Cardinals",
-    "opponent": "Titans",
+    "player": "Jerry Jeudy",
+    "team": "Browns",
+    "opponent": "Steelers",
     "metric": 7.0
   },
   {
-    "player": "Michael Pittman Jr.",
-    "team": "Colts",
+    "player": "Khalil Shakir",
+    "team": "Bills",
+    "opponent": "Falcons",
+    "metric": 7.0
+  },
+  {
+    "player": "Brian Thomas Jr.",
+    "team": "Jaguars",
+    "opponent": "Seahawks",
+    "metric": 6.5
+  },
+  {
+    "player": "Calvin Ridley",
+    "team": "Titans",
     "opponent": "Raiders",
-    "metric": 7.0
+    "metric": 6.5
+  },
+  {
+    "player": "Hollywood Brown",
+    "team": "Chiefs",
+    "opponent": "Lions",
+    "metric": 6.5
+  },
+  {
+    "player": "Isaiah Bond",
+    "team": "Browns",
+    "opponent": "Steelers",
+    "metric": 6.5
+  },
+  {
+    "player": "Jakobi Meyers",
+    "team": "Raiders",
+    "opponent": "Titans",
+    "metric": 6.5
+  },
+  {
+    "player": "Josh Downs",
+    "team": "Colts",
+    "opponent": "Cardinals",
+    "metric": 6.5
+  },
+  {
+    "player": "Ladd McConkey",
+    "team": "Chargers",
+    "opponent": "Dolphins",
+    "metric": 6.5
+  },
+  {
+    "player": "Tee Higgins",
+    "team": "Bengals",
+    "opponent": "Packers",
+    "metric": 6.5
   },
   {
     "player": "Troy Franklin",
     "team": "Broncos",
-    "opponent": "Eagles",
-    "metric": 7.0
-  },
-  {
-    "player": "Terry McLaurin",
-    "team": "Commanders",
-    "opponent": "Chargers",
+    "opponent": "Jets",
     "metric": 6.5
   },
   {
-    "player": "Tre Tucker",
-    "team": "Raiders",
-    "opponent": "Colts",
-    "metric": 6.3
+    "player": "Zay Flowers",
+    "team": "Ravens",
+    "opponent": "Rams",
+    "metric": 6.5
   },
   {
-    "player": "Wan'Dale Robinson",
-    "team": "Giants",
-    "opponent": "Saints",
-    "metric": 6.3
-  },
-  {
-    "player": "Christian Kirk",
-    "team": "Texans",
-    "opponent": "Ravens",
+    "player": "Matthew Golden",
+    "team": "Packers",
+    "opponent": "Bengals",
     "metric": 6.0
   },
   {
-    "player": "Courtland Sutton",
-    "team": "Broncos",
-    "opponent": "Eagles",
+    "player": "Olamide Zaccheaus",
+    "team": "Bears",
+    "opponent": "Commanders",
+    "metric": 6.0
+  },
+  {
+    "player": "Tyreek Hill",
+    "team": "Dolphins",
+    "opponent": "Chargers",
     "metric": 6.0
   },
   {
     "player": "Elic Ayomanor",
     "team": "Titans",
-    "opponent": "Cardinals",
-    "metric": 6.0
+    "opponent": "Raiders",
+    "metric": 5.5
   },
   {
-    "player": "Jaylen Waddle",
-    "team": "Dolphins",
-    "opponent": "Panthers",
-    "metric": 6.0
-  },
-  {
-    "player": "Ladd McConkey",
-    "team": "Chargers",
-    "opponent": "Commanders",
-    "metric": 6.0
-  },
-  {
-    "player": "Parker Washington",
-    "team": "Jaguars",
-    "opponent": "Chiefs",
-    "metric": 6.0
-  },
-  {
-    "player": "Cooper Kupp",
-    "team": "Seahawks",
-    "opponent": "Buccaneers",
-    "metric": 5.7
+    "player": "Keon Coleman",
+    "team": "Bills",
+    "opponent": "Falcons",
+    "metric": 5.5
   }
 ]

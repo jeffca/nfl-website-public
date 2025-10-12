@@ -1,242 +1,242 @@
 [
   {
-    "player": "Dak Prescott",
-    "team": "Cowboys",
-    "opponent": "Jets",
-    "metric": 33.3
-  },
-  {
     "player": "Mac Jones",
     "team": "49ers",
-    "opponent": "Rams",
-    "metric": 26.5
+    "opponent": "Buccaneers",
+    "metric": 33.0
   },
   {
-    "player": "Jayden Daniels",
-    "team": "Commanders",
-    "opponent": "Chargers",
-    "metric": 24.0
+    "player": "Jordan Love",
+    "team": "Packers",
+    "opponent": "Bengals",
+    "metric": 31.0
   },
   {
     "player": "Matthew Stafford",
     "team": "Rams",
-    "opponent": "49ers",
-    "metric": 23.7
-  },
-  {
-    "player": "Spencer Rattler",
-    "team": "Saints",
-    "opponent": "Giants",
-    "metric": 23.7
-  },
-  {
-    "player": "Justin Herbert",
-    "team": "Chargers",
-    "opponent": "Commanders",
-    "metric": 23.3
-  },
-  {
-    "player": "Bryce Young",
-    "team": "Panthers",
-    "opponent": "Dolphins",
-    "metric": 23.0
-  },
-  {
-    "player": "Baker Mayfield",
-    "team": "Buccaneers",
-    "opponent": "Seahawks",
-    "metric": 22.0
-  },
-  {
-    "player": "Brock Purdy",
-    "team": "49ers",
-    "opponent": "Rams",
-    "metric": 22.0
-  },
-  {
-    "player": "Carson Wentz",
-    "team": "Vikings",
-    "opponent": "Browns",
-    "metric": 22.0
-  },
-  {
-    "player": "Kyler Murray",
-    "team": "Cardinals",
-    "opponent": "Titans",
-    "metric": 22.0
-  },
-  {
-    "player": "Bo Nix",
-    "team": "Broncos",
-    "opponent": "Eagles",
-    "metric": 21.7
-  },
-  {
-    "player": "Daniel Jones",
-    "team": "Colts",
-    "opponent": "Raiders",
-    "metric": 21.7
-  },
-  {
-    "player": "Trevor Lawrence",
-    "team": "Jaguars",
-    "opponent": "Chiefs",
-    "metric": 21.7
-  },
-  {
-    "player": "Tua Tagovailoa",
-    "team": "Dolphins",
-    "opponent": "Panthers",
-    "metric": 21.7
+    "opponent": "Ravens",
+    "metric": 29.5
   },
   {
     "player": "Patrick Mahomes",
     "team": "Chiefs",
-    "opponent": "Jaguars",
-    "metric": 21.0
-  },
-  {
-    "player": "Joe Flacco",
-    "team": "Browns",
-    "opponent": "Vikings",
-    "metric": 20.7
-  },
-  {
-    "player": "Drake Maye",
-    "team": "Patriots",
-    "opponent": "Bills",
-    "metric": 20.3
-  },
-  {
-    "player": "C.J. Stroud",
-    "team": "Texans",
-    "opponent": "Ravens",
-    "metric": 20.0
-  },
-  {
-    "player": "Jared Goff",
-    "team": "Lions",
-    "opponent": "Bengals",
-    "metric": 19.7
-  },
-  {
-    "player": "Geno Smith",
-    "team": "Raiders",
-    "opponent": "Colts",
-    "metric": 19.0
-  },
-  {
-    "player": "Jake Browning",
-    "team": "Bengals",
     "opponent": "Lions",
-    "metric": 18.0
+    "metric": 27.0
   },
   {
-    "player": "Lamar Jackson",
-    "team": "Ravens",
-    "opponent": "Texans",
-    "metric": 18.0
-  },
-  {
-    "player": "Sam Darnold",
-    "team": "Seahawks",
-    "opponent": "Buccaneers",
-    "metric": 18.0
-  },
-  {
-    "player": "Cam Ward",
-    "team": "Titans",
-    "opponent": "Cardinals",
-    "metric": 17.3
-  },
-  {
-    "player": "Josh Allen",
-    "team": "Bills",
-    "opponent": "Patriots",
-    "metric": 17.3
-  },
-  {
-    "player": "Jalen Hurts",
-    "team": "Eagles",
-    "opponent": "Broncos",
-    "metric": 17.0
-  },
-  {
-    "player": "Tyrod Taylor",
-    "team": "Jets",
-    "opponent": "Cowboys",
-    "metric": 16.5
-  },
-  {
-    "player": "Russell Wilson",
-    "team": "Giants",
-    "opponent": "Saints",
-    "metric": 16.3
-  },
-  {
-    "player": "Marcus Mariota",
-    "team": "Commanders",
-    "opponent": "Chargers",
-    "metric": 15.5
-  },
-  {
-    "player": "Jaxson Dart",
-    "team": "Giants",
-    "opponent": "Saints",
-    "metric": 13.0
+    "player": "Bo Nix",
+    "team": "Broncos",
+    "opponent": "Jets",
+    "metric": 26.5
   },
   {
     "player": "Justin Fields",
     "team": "Jets",
-    "opponent": "Cowboys",
-    "metric": 11.5
+    "opponent": "Broncos",
+    "metric": 26.0
   },
   {
-    "player": "J.J. McCarthy",
-    "team": "Vikings",
+    "player": "Baker Mayfield",
+    "team": "Buccaneers",
+    "opponent": "49ers",
+    "metric": 25.5
+  },
+  {
+    "player": "Kyler Murray",
+    "team": "Cardinals",
+    "opponent": "Colts",
+    "metric": 25.0
+  },
+  {
+    "player": "Dak Prescott",
+    "team": "Cowboys",
+    "opponent": "Panthers",
+    "metric": 24.5
+  },
+  {
+    "player": "Sam Darnold",
+    "team": "Seahawks",
+    "opponent": "Jaguars",
+    "metric": 23.0
+  },
+  {
+    "player": "Justin Herbert",
+    "team": "Chargers",
+    "opponent": "Dolphins",
+    "metric": 22.5
+  },
+  {
+    "player": "Brock Purdy",
+    "team": "49ers",
+    "opponent": "Buccaneers",
+    "metric": 22.0
+  },
+  {
+    "player": "Caleb Williams",
+    "team": "Bears",
+    "opponent": "Commanders",
+    "metric": 22.0
+  },
+  {
+    "player": "Daniel Jones",
+    "team": "Colts",
+    "opponent": "Cardinals",
+    "metric": 22.0
+  },
+  {
+    "player": "Tua Tagovailoa",
+    "team": "Dolphins",
+    "opponent": "Chargers",
+    "metric": 22.0
+  },
+  {
+    "player": "Jake Browning",
+    "team": "Bengals",
+    "opponent": "Packers",
+    "metric": 20.0
+  },
+  {
+    "player": "Michael Penix Jr.",
+    "team": "Falcons",
+    "opponent": "Bills",
+    "metric": 20.0
+  },
+  {
+    "player": "Geno Smith",
+    "team": "Raiders",
+    "opponent": "Titans",
+    "metric": 19.5
+  },
+  {
+    "player": "Spencer Rattler",
+    "team": "Saints",
+    "opponent": "Patriots",
+    "metric": 19.5
+  },
+  {
+    "player": "Trevor Lawrence",
+    "team": "Jaguars",
+    "opponent": "Seahawks",
+    "metric": 19.5
+  },
+  {
+    "player": "Josh Allen",
+    "team": "Bills",
+    "opponent": "Falcons",
+    "metric": 19.0
+  },
+  {
+    "player": "Bryce Young",
+    "team": "Panthers",
+    "opponent": "Cowboys",
+    "metric": 18.5
+  },
+  {
+    "player": "Aaron Rodgers",
+    "team": "Steelers",
     "opponent": "Browns",
-    "metric": 11.0
+    "metric": 18.0
+  },
+  {
+    "player": "Drake Maye",
+    "team": "Patriots",
+    "opponent": "Saints",
+    "metric": 18.0
+  },
+  {
+    "player": "Jared Goff",
+    "team": "Lions",
+    "opponent": "Chiefs",
+    "metric": 17.5
+  },
+  {
+    "player": "Joe Flacco",
+    "team": "Browns",
+    "opponent": "Steelers",
+    "metric": 16.0
+  },
+  {
+    "player": "Marcus Mariota",
+    "team": "Commanders",
+    "opponent": "Bears",
+    "metric": 16.0
+  },
+  {
+    "player": "Cam Ward",
+    "team": "Titans",
+    "opponent": "Raiders",
+    "metric": 15.5
+  },
+  {
+    "player": "Jayden Daniels",
+    "team": "Commanders",
+    "opponent": "Bears",
+    "metric": 15.0
+  },
+  {
+    "player": "Lamar Jackson",
+    "team": "Ravens",
+    "opponent": "Rams",
+    "metric": 14.0
   },
   {
     "player": "Cooper Rush",
     "team": "Ravens",
-    "opponent": "Texans",
-    "metric": 9.0
-  },
-  {
-    "player": "Joe Burrow",
-    "team": "Bengals",
-    "opponent": "Lions",
-    "metric": 7.0
-  },
-  {
-    "player": "Andy Dalton",
-    "team": "Panthers",
-    "opponent": "Dolphins",
-    "metric": 5.0
-  },
-  {
-    "player": "Joe Milton III",
-    "team": "Cowboys",
-    "opponent": "Jets",
-    "metric": 3.0
-  },
-  {
-    "player": "Drew Lock",
-    "team": "Seahawks",
-    "opponent": "Buccaneers",
-    "metric": 2.0
-  },
-  {
-    "player": "Max Brosmer",
-    "team": "Vikings",
-    "opponent": "Browns",
-    "metric": 2.0
+    "opponent": "Rams",
+    "metric": 11.5
   },
   {
     "player": "Dillon Gabriel",
     "team": "Browns",
-    "opponent": "Vikings",
-    "metric": 1.5
+    "opponent": "Steelers",
+    "metric": 9.5
+  },
+  {
+    "player": "Andy Dalton",
+    "team": "Panthers",
+    "opponent": "Cowboys",
+    "metric": 5.0
+  },
+  {
+    "player": "Trey Lance",
+    "team": "Chargers",
+    "opponent": "Dolphins",
+    "metric": 3.0
+  },
+  {
+    "player": "Anthony Richardson Sr.",
+    "team": "Colts",
+    "opponent": "Cardinals",
+    "metric": 1.0
+  },
+  {
+    "player": "David Montgomery",
+    "team": "Lions",
+    "opponent": "Chiefs",
+    "metric": 1.0
+  },
+  {
+    "player": "Taysom Hill",
+    "team": "Saints",
+    "opponent": "Patriots",
+    "metric": 1.0
+  },
+  {
+    "player": "Chris Olave",
+    "team": "Saints",
+    "opponent": "Patriots",
+    "metric": 0.0
+  },
+  {
+    "player": "Jacoby Brissett",
+    "team": "Cardinals",
+    "opponent": "Colts",
+    "metric": 0.0
+  },
+  {
+    "player": "Joshua Dobbs",
+    "team": "Patriots",
+    "opponent": "Saints",
+    "metric": 0.0
   }
 ]
