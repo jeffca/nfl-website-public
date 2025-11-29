@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "player": "Ja'Marr Chase",
+    "team": "Cincinnati Bengals",
+    "opponent": "Bears",
+    "metric": 57.6,
+    "position": "WR"
+  },
+  {
+    "player": "Tetairoa McMillan",
+    "team": "Carolina Panthers",
+    "opponent": "Packers",
+    "metric": 43.5,
+    "position": "WR"
+  },
+  {
+    "player": "Ladd McConkey",
+    "team": "Los Angeles Chargers",
+    "opponent": "Titans",
+    "metric": 41.7,
+    "position": "WR"
+  },
+  {
+    "player": "Zay Flowers",
+    "team": "Baltimore Ravens",
+    "opponent": "Dolphins",
+    "metric": 40.9,
+    "position": "WR"
+  },
+  {
+    "player": "Justin Jefferson",
+    "team": "Minnesota Vikings",
+    "opponent": "Lions",
+    "metric": 36.7,
+    "position": "WR"
+  },
+  {
+    "player": "Michael Pittman Jr.",
+    "team": "Indianapolis Colts",
+    "opponent": "Steelers",
+    "metric": 32.1,
+    "position": "WR"
+  },
+  {
+    "player": "Khalil Shakir",
+    "team": "Buffalo Bills",
+    "opponent": "Chiefs",
+    "metric": 30.4,
+    "position": "WR"
+  },
+  {
+    "player": "Mack Hollins",
+    "team": "New England Patriots",
+    "opponent": "Falcons",
+    "metric": 30.4,
+    "position": "WR"
+  },
+  {
+    "player": "Troy Franklin",
+    "team": "Denver Broncos",
+    "opponent": "Texans",
+    "metric": 29.6,
+    "position": "WR"
+  },
+  {
+    "player": "CeeDee Lamb",
+    "team": "Dallas Cowboys",
+    "opponent": "Cardinals",
+    "metric": 28.6,
+    "position": "WR"
+  },
+  {
+    "player": "Rome Odunze",
+    "team": "Chicago Bears",
+    "opponent": "Bengals",
+    "metric": 28.6,
+    "position": "WR"
+  },
+  {
+    "player": "Rashee Rice",
+    "team": "Kansas City Chiefs",
+    "opponent": "Bills",
+    "metric": 28.1,
+    "position": "WR"
+  },
+  {
+    "player": "KhaDarel Hodge",
+    "team": "Atlanta Falcons",
+    "opponent": "Patriots",
+    "metric": 26.7,
+    "position": "WR"
+  },
+  {
+    "player": "George Pickens",
+    "team": "Dallas Cowboys",
+    "opponent": "Cardinals",
+    "metric": 25.7,
+    "position": "WR"
+  },
+  {
+    "player": "Chris Olave",
+    "team": "New Orleans Saints",
+    "opponent": "Rams",
+    "metric": 24.0,
+    "position": "WR"
+  },
+  {
+    "player": "Rashid Shaheed",
+    "team": "New Orleans Saints",
+    "opponent": "Rams",
+    "metric": 24.0,
+    "position": "WR"
+  },
+  {
+    "player": "Darius Slayton",
+    "team": "New York Giants",
+    "opponent": "49ers",
+    "metric": 22.7,
+    "position": "WR"
+  },
+  {
+    "player": "Jauan Jennings",
+    "team": "San Francisco 49ers",
+    "opponent": "Giants",
+    "metric": 22.6,
+    "position": "WR"
+  },
+  {
+    "player": "Courtland Sutton",
+    "team": "Denver Broncos",
+    "opponent": "Texans",
+    "metric": 22.2,
+    "position": "WR"
+  },
+  {
+    "player": "Jaylen Waddle",
+    "team": "Miami Dolphins",
+    "opponent": "Ravens",
+    "metric": 22.2,
+    "position": "WR"
+  },
+  {
+    "player": "DK Metcalf",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Colts",
+    "metric": 21.9,
+    "position": "WR"
+  },
+  {
+    "player": "Xavier Worthy",
+    "team": "Kansas City Chiefs",
+    "opponent": "Bills",
+    "metric": 21.9,
+    "position": "WR"
+  },
+  {
+    "player": "Kayshon Boutte",
+    "team": "New England Patriots",
+    "opponent": "Falcons",
+    "metric": 21.7,
+    "position": "WR"
+  },
+  {
+    "player": "Stefon Diggs",
+    "team": "New England Patriots",
+    "opponent": "Falcons",
+    "metric": 21.7,
+    "position": "WR"
+  },
+  {
+    "player": "Chimere Dike",
+    "team": "Tennessee Titans",
+    "opponent": "Chargers",
+    "metric": 21.6,
+    "position": "WR"
+  },
+  {
+    "player": "Elic Ayomanor",
+    "team": "Tennessee Titans",
+    "opponent": "Chargers",
+    "metric": 21.6,
+    "position": "WR"
+  },
+  {
+    "player": "Van Jefferson",
+    "team": "Tennessee Titans",
+    "opponent": "Chargers",
+    "metric": 21.6,
+    "position": "WR"
+  },
+  {
+    "player": "Jayden Higgins",
+    "team": "Houston Texans",
+    "opponent": "Broncos",
+    "metric": 21.1,
+    "position": "WR"
+  },
+  {
+    "player": "Keenan Allen",
+    "team": "Los Angeles Chargers",
+    "opponent": "Titans",
+    "metric": 20.8,
+    "position": "WR"
+  },
+  {
+    "player": "DJ Moore",
+    "team": "Chicago Bears",
+    "opponent": "Bengals",
+    "metric": 20.0,
+    "position": "WR"
+  },
+  {
+    "player": "Deebo Samuel",
+    "team": "Washington Commanders",
+    "opponent": "Seahawks",
+    "metric": 20.0,
+    "position": "WR"
+  },
+  {
+    "player": "Olamide Zaccheaus",
+    "team": "Chicago Bears",
+    "opponent": "Bengals",
+    "metric": 20.0,
+    "position": "WR"
+  },
+  {
+    "player": "Calvin Austin III",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Colts",
+    "metric": 18.8,
+    "position": "WR"
+  },
+  {
+    "player": "Malik Washington",
+    "team": "Miami Dolphins",
+    "opponent": "Ravens",
+    "metric": 18.5,
+    "position": "WR"
+  },
+  {
+    "player": "Rashod Bateman",
+    "team": "Baltimore Ravens",
+    "opponent": "Dolphins",
+    "metric": 18.2,
+    "position": "WR"
+  },
+  {
+    "player": "Wan'Dale Robinson",
+    "team": "New York Giants",
+    "opponent": "49ers",
+    "metric": 18.2,
+    "position": "WR"
+  },
+  {
+    "player": "Alec Pierce",
+    "team": "Indianapolis Colts",
+    "opponent": "Steelers",
+    "metric": 17.9,
+    "position": "WR"
+  },
+  {
+    "player": "Elijah Moore",
+    "team": "Buffalo Bills",
+    "opponent": "Chiefs",
+    "metric": 17.4,
+    "position": "WR"
+  },
+  {
+    "player": "Jalen Coker",
+    "team": "Carolina Panthers",
+    "opponent": "Packers",
+    "metric": 17.4,
+    "position": "WR"
+  },
+  {
+    "player": "Keon Coleman",
+    "team": "Buffalo Bills",
+    "opponent": "Chiefs",
+    "metric": 17.4,
+    "position": "WR"
+  }
+]

@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "player": "Chris Boswell",
+    "team": "Steelers",
+    "opponent": "Colts",
+    "metric": 4.0
+  },
+  {
+    "player": "Ka'imi Fairbairn",
+    "team": "Texans",
+    "opponent": "Broncos",
+    "metric": 4.0
+  },
+  {
+    "player": "Andy Borregales",
+    "team": "Patriots",
+    "opponent": "Falcons",
+    "metric": 3.0
+  },
+  {
+    "player": "Cairo Santos",
+    "team": "Bears",
+    "opponent": "Bengals",
+    "metric": 3.0
+  },
+  {
+    "player": "Cameron Dicker",
+    "team": "Chargers",
+    "opponent": "Titans",
+    "metric": 3.0
+  },
+  {
+    "player": "Tyler Loop",
+    "team": "Ravens",
+    "opponent": "Dolphins",
+    "metric": 3.0
+  },
+  {
+    "player": "Brandon McManus",
+    "team": "Packers",
+    "opponent": "Panthers",
+    "metric": 2.0
+  },
+  {
+    "player": "Graham Gano",
+    "team": "Giants",
+    "opponent": "49ers",
+    "metric": 2.0
+  },
+  {
+    "player": "Matt Prater",
+    "team": "Bills",
+    "opponent": "Chiefs",
+    "metric": 2.0
+  },
+  {
+    "player": "Riley Patterson",
+    "team": "Dolphins",
+    "opponent": "Ravens",
+    "metric": 2.0
+  },
+  {
+    "player": "Blake Grupe",
+    "team": "Saints",
+    "opponent": "Rams",
+    "metric": 1.0
+  },
+  {
+    "player": "Brandon Aubrey",
+    "team": "Cowboys",
+    "opponent": "Cardinals",
+    "metric": 1.0
+  },
+  {
+    "player": "Evan McPherson",
+    "team": "Bengals",
+    "opponent": "Bears",
+    "metric": 1.0
+  },
+  {
+    "player": "Michael Badgley",
+    "team": "Colts",
+    "opponent": "Steelers",
+    "metric": 1.0
+  },
+  {
+    "player": "Parker Romo",
+    "team": "Falcons",
+    "opponent": "Patriots",
+    "metric": 1.0
+  },
+  {
+    "player": "Ryan Fitzgerald",
+    "team": "Panthers",
+    "opponent": "Packers",
+    "metric": 1.0
+  },
+  {
+    "player": "Wil Lutz",
+    "team": "Broncos",
+    "opponent": "Texans",
+    "metric": 1.0
+  },
+  {
+    "player": "Will Reichard",
+    "team": "Vikings",
+    "opponent": "Lions",
+    "metric": 1.0
+  },
+  {
+    "player": "Eddy Pineiro",
+    "team": "49ers",
+    "opponent": "Giants",
+    "metric": 0.0
+  },
+  {
+    "player": "Harrison Butker",
+    "team": "Chiefs",
+    "opponent": "Bills",
+    "metric": 0.0
+  },
+  {
+    "player": "Joey Slye",
+    "team": "Titans",
+    "opponent": "Chargers",
+    "metric": 0.0
+  },
+  {
+    "player": "Matthew Wright",
+    "team": "Commanders",
+    "opponent": "Seahawks",
+    "metric": 0.0
+  }
+]

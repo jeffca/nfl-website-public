@@ -1,1 +1,163 @@
-[]
+[
+  {
+    "player": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "opponent": "Titans",
+    "metric": 62.0,
+    "position": "QB"
+  },
+  {
+    "player": "Tyler Huntley",
+    "team": "Baltimore Ravens",
+    "opponent": "Dolphins",
+    "metric": 53.0,
+    "position": "QB"
+  },
+  {
+    "player": "Drake Maye",
+    "team": "New England Patriots",
+    "opponent": "Falcons",
+    "metric": 50.0,
+    "position": "QB"
+  },
+  {
+    "player": "Dak Prescott",
+    "team": "Dallas Cowboys",
+    "opponent": "Cardinals",
+    "metric": 31.0,
+    "position": "QB"
+  },
+  {
+    "player": "C.J. Stroud",
+    "team": "Houston Texans",
+    "opponent": "Broncos",
+    "metric": 30.0,
+    "position": "QB"
+  },
+  {
+    "player": "Patrick Mahomes",
+    "team": "Kansas City Chiefs",
+    "opponent": "Bills",
+    "metric": 30.0,
+    "position": "QB"
+  },
+  {
+    "player": "Marcus Mariota",
+    "team": "Washington Commanders",
+    "opponent": "Seahawks",
+    "metric": 28.0,
+    "position": "QB"
+  },
+  {
+    "player": "Caleb Williams",
+    "team": "Chicago Bears",
+    "opponent": "Bengals",
+    "metric": 24.0,
+    "position": "QB"
+  },
+  {
+    "player": "Mac Jones",
+    "team": "San Francisco 49ers",
+    "opponent": "Giants",
+    "metric": 23.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jaxson Dart",
+    "team": "New York Giants",
+    "opponent": "49ers",
+    "metric": 17.0,
+    "position": "QB"
+  },
+  {
+    "player": "Joe Flacco",
+    "team": "Cincinnati Bengals",
+    "opponent": "Bears",
+    "metric": 14.0,
+    "position": "QB"
+  },
+  {
+    "player": "Spencer Rattler",
+    "team": "New Orleans Saints",
+    "opponent": "Rams",
+    "metric": 12.0,
+    "position": "QB"
+  },
+  {
+    "player": "Tyler Shough",
+    "team": "New Orleans Saints",
+    "opponent": "Rams",
+    "metric": 12.0,
+    "position": "QB"
+  },
+  {
+    "player": "Josh Allen",
+    "team": "Buffalo Bills",
+    "opponent": "Chiefs",
+    "metric": 7.0,
+    "position": "QB"
+  },
+  {
+    "player": "Taysom Hill",
+    "team": "New Orleans Saints",
+    "opponent": "Rams",
+    "metric": 6.0,
+    "position": "QB"
+  },
+  {
+    "player": "Cam Ward",
+    "team": "Tennessee Titans",
+    "opponent": "Chargers",
+    "metric": 4.0,
+    "position": "QB"
+  },
+  {
+    "player": "Daniel Jones",
+    "team": "Indianapolis Colts",
+    "opponent": "Steelers",
+    "metric": 3.0,
+    "position": "QB"
+  },
+  {
+    "player": "Kirk Cousins",
+    "team": "Atlanta Falcons",
+    "opponent": "Patriots",
+    "metric": 2.0,
+    "position": "QB"
+  },
+  {
+    "player": "Andy Dalton",
+    "team": "Carolina Panthers",
+    "opponent": "Packers",
+    "metric": 1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Riley Leonard",
+    "team": "Indianapolis Colts",
+    "opponent": "Steelers",
+    "metric": 1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Bo Nix",
+    "team": "Denver Broncos",
+    "opponent": "Texans",
+    "metric": -1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jarrett Stidham",
+    "team": "Denver Broncos",
+    "opponent": "Texans",
+    "metric": -1.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jordan Love",
+    "team": "Green Bay Packers",
+    "opponent": "Panthers",
+    "metric": -1.0,
+    "position": "QB"
+  }
+]

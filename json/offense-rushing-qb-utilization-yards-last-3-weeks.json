@@ -2,69 +2,76 @@
   {
     "player": "Aaron Rodgers",
     "team": "Pittsburgh Steelers",
-    "opponent": "Browns",
+    "opponent": "Colts",
     "metric": 0.0,
     "position": "QB"
   },
   {
-    "player": "Baker Mayfield",
-    "team": "Tampa Bay Buccaneers",
-    "opponent": "49ers",
+    "player": "Andy Dalton",
+    "team": "Carolina Panthers",
+    "opponent": "Packers",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Bo Nix",
     "team": "Denver Broncos",
-    "opponent": "Jets",
-    "metric": 0.0,
-    "position": "QB"
-  },
-  {
-    "player": "Brock Purdy",
-    "team": "San Francisco 49ers",
-    "opponent": "Buccaneers",
+    "opponent": "Texans",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Bryce Young",
     "team": "Carolina Panthers",
-    "opponent": "Cowboys",
+    "opponent": "Packers",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "C.J. Stroud",
+    "team": "Houston Texans",
+    "opponent": "Broncos",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Caleb Williams",
     "team": "Chicago Bears",
-    "opponent": "Commanders",
+    "opponent": "Bengals",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Cam Ward",
     "team": "Tennessee Titans",
-    "opponent": "Raiders",
+    "opponent": "Chargers",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Carson Wentz",
+    "team": "Minnesota Vikings",
+    "opponent": "Lions",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Cooper Rush",
+    "team": "Baltimore Ravens",
+    "opponent": "Dolphins",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Dak Prescott",
     "team": "Dallas Cowboys",
-    "opponent": "Panthers",
+    "opponent": "Cardinals",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Daniel Jones",
     "team": "Indianapolis Colts",
-    "opponent": "Cardinals",
-    "metric": 0.0,
-    "position": "QB"
-  },
-  {
-    "player": "Dillon Gabriel",
-    "team": "Cleveland Browns",
     "opponent": "Steelers",
     "metric": 0.0,
     "position": "QB"
@@ -72,175 +79,203 @@
   {
     "player": "Drake Maye",
     "team": "New England Patriots",
-    "opponent": "Saints",
+    "opponent": "Falcons",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Gardner Minshew",
     "team": "Kansas City Chiefs",
-    "opponent": "Lions",
+    "opponent": "Bills",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Geno Smith",
     "team": "Las Vegas Raiders",
-    "opponent": "Titans",
-    "metric": 0.0,
-    "position": "QB"
-  },
-  {
-    "player": "Jake Browning",
-    "team": "Cincinnati Bengals",
-    "opponent": "Packers",
-    "metric": 0.0,
-    "position": "QB"
-  },
-  {
-    "player": "Jalen Milroe",
-    "team": "Seattle Seahawks",
     "opponent": "Jaguars",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jacoby Brissett",
+    "team": "Arizona Cardinals",
+    "opponent": "Cowboys",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Jared Goff",
     "team": "Detroit Lions",
-    "opponent": "Chiefs",
+    "opponent": "Vikings",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jarrett Stidham",
+    "team": "Denver Broncos",
+    "opponent": "Texans",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jaxson Dart",
+    "team": "New York Giants",
+    "opponent": "49ers",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Jayden Daniels",
     "team": "Washington Commanders",
-    "opponent": "Bears",
+    "opponent": "Seahawks",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Jimmy Garoppolo",
+    "team": "Los Angeles Rams",
+    "opponent": "Saints",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Joe Flacco",
-    "team": "Cleveland Browns",
-    "opponent": "Steelers",
+    "team": "Cincinnati Bengals",
+    "opponent": "Bears",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Jordan Love",
     "team": "Green Bay Packers",
-    "opponent": "Bengals",
+    "opponent": "Panthers",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Josh Allen",
     "team": "Buffalo Bills",
-    "opponent": "Falcons",
+    "opponent": "Chiefs",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Joshua Dobbs",
     "team": "New England Patriots",
-    "opponent": "Saints",
-    "metric": 0.0,
-    "position": "QB"
-  },
-  {
-    "player": "Justin Fields",
-    "team": "New York Jets",
-    "opponent": "Broncos",
+    "opponent": "Falcons",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Justin Herbert",
     "team": "Los Angeles Chargers",
-    "opponent": "Dolphins",
+    "opponent": "Titans",
     "metric": 0.0,
     "position": "QB"
   },
   {
-    "player": "Kyle Allen",
-    "team": "Detroit Lions",
-    "opponent": "Chiefs",
+    "player": "Kenny Pickett",
+    "team": "Las Vegas Raiders",
+    "opponent": "Jaguars",
     "metric": 0.0,
     "position": "QB"
   },
   {
-    "player": "Kyler Murray",
-    "team": "Arizona Cardinals",
-    "opponent": "Colts",
-    "metric": 0.0,
-    "position": "QB"
-  },
-  {
-    "player": "Lamar Jackson",
-    "team": "Baltimore Ravens",
-    "opponent": "Rams",
+    "player": "Kirk Cousins",
+    "team": "Atlanta Falcons",
+    "opponent": "Patriots",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Mac Jones",
     "team": "San Francisco 49ers",
-    "opponent": "Buccaneers",
+    "opponent": "Giants",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Marcus Mariota",
+    "team": "Washington Commanders",
+    "opponent": "Seahawks",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Mason Rudolph",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Colts",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Matthew Stafford",
     "team": "Los Angeles Rams",
-    "opponent": "Ravens",
+    "opponent": "Saints",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Michael Penix Jr.",
     "team": "Atlanta Falcons",
-    "opponent": "Bills",
+    "opponent": "Patriots",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Patrick Mahomes",
     "team": "Kansas City Chiefs",
-    "opponent": "Lions",
+    "opponent": "Bills",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Quinn Ewers",
+    "team": "Miami Dolphins",
+    "opponent": "Ravens",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Riley Leonard",
+    "team": "Indianapolis Colts",
+    "opponent": "Steelers",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Sam Darnold",
     "team": "Seattle Seahawks",
-    "opponent": "Jaguars",
+    "opponent": "Commanders",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Spencer Rattler",
     "team": "New Orleans Saints",
-    "opponent": "Patriots",
+    "opponent": "Rams",
+    "metric": 0.0,
+    "position": "QB"
+  },
+  {
+    "player": "Taysom Hill",
+    "team": "New Orleans Saints",
+    "opponent": "Rams",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Trevor Lawrence",
     "team": "Jacksonville Jaguars",
-    "opponent": "Seahawks",
-    "metric": 0.0,
-    "position": "QB"
-  },
-  {
-    "player": "Trey Lance",
-    "team": "Los Angeles Chargers",
-    "opponent": "Dolphins",
+    "opponent": "Raiders",
     "metric": 0.0,
     "position": "QB"
   },
   {
     "player": "Tua Tagovailoa",
     "team": "Miami Dolphins",
-    "opponent": "Chargers",
+    "opponent": "Ravens",
     "metric": 0.0,
     "position": "QB"
   }

@@ -1,29 +1,5 @@
 [
   {
-    "event_id": 401772831,
-    "week": 1,
-    "team": "49ers",
-    "opponent": "Seahawks",
-    "rushing_yards": 17,
-    "rushing_yards_allowed": 15
-  },
-  {
-    "event_id": 401772833,
-    "week": 2,
-    "team": "49ers",
-    "opponent": "Saints",
-    "rushing_yards": 6,
-    "rushing_yards_allowed": 14
-  },
-  {
-    "event_id": 401772843,
-    "week": 3,
-    "team": "49ers",
-    "opponent": "Cardinals",
-    "rushing_yards": -1,
-    "rushing_yards_allowed": 37
-  },
-  {
     "event_id": 401772848,
     "week": 4,
     "team": "49ers",
@@ -40,12 +16,28 @@
     "rushing_yards_allowed": 0
   },
   {
-    "event_id": 401772810,
-    "week": 1,
-    "team": "Bears",
-    "opponent": "Vikings",
-    "rushing_yards": 58,
-    "rushing_yards_allowed": 25
+    "event_id": 401772749,
+    "week": 6,
+    "team": "49ers",
+    "opponent": "Buccaneers",
+    "rushing_yards": 13,
+    "rushing_yards_allowed": 14
+  },
+  {
+    "event_id": 401772924,
+    "week": 7,
+    "team": "49ers",
+    "opponent": "Falcons",
+    "rushing_yards": 11,
+    "rushing_yards_allowed": 6
+  },
+  {
+    "event_id": 401772866,
+    "week": 8,
+    "team": "49ers",
+    "opponent": "Texans",
+    "rushing_yards": 23,
+    "rushing_yards_allowed": 30
   },
   {
     "event_id": 401772835,
@@ -64,19 +56,35 @@
     "rushing_yards_allowed": 31
   },
   {
-    "event_id": 401772829,
-    "week": 1,
-    "team": "Bengals",
-    "opponent": "Browns",
-    "rushing_yards": 3,
-    "rushing_yards_allowed": 6
+    "event_id": 401772717,
+    "week": 6,
+    "team": "Bears",
+    "opponent": "Commanders",
+    "rushing_yards": -2,
+    "rushing_yards_allowed": 52
   },
   {
-    "event_id": 401772725,
-    "week": 2,
+    "event_id": 401772861,
+    "week": 7,
+    "team": "Bears",
+    "opponent": "Saints",
+    "rushing_yards": -2,
+    "rushing_yards_allowed": 8
+  },
+  {
+    "event_id": 401772759,
+    "week": 8,
+    "team": "Bears",
+    "opponent": "Ravens",
+    "rushing_yards": 24,
+    "rushing_yards_allowed": 53
+  },
+  {
+    "event_id": 401772731,
+    "week": 3,
     "team": "Bengals",
-    "opponent": "Jaguars",
-    "rushing_yards": 1,
+    "opponent": "Vikings",
+    "rushing_yards": 3,
     "rushing_yards_allowed": 4
   },
   {
@@ -96,20 +104,20 @@
     "rushing_yards_allowed": -2
   },
   {
-    "event_id": 401772918,
-    "week": 1,
-    "team": "Bills",
-    "opponent": "Ravens",
-    "rushing_yards": 30,
-    "rushing_yards_allowed": 70
+    "event_id": 401772941,
+    "week": 7,
+    "team": "Bengals",
+    "opponent": "Steelers",
+    "rushing_yards": 3,
+    "rushing_yards_allowed": 6
   },
   {
-    "event_id": 401772727,
-    "week": 2,
-    "team": "Bills",
+    "event_id": 401772758,
+    "week": 8,
+    "team": "Bengals",
     "opponent": "Jets",
-    "rushing_yards": 56,
-    "rushing_yards_allowed": 49
+    "rushing_yards": 14,
+    "rushing_yards_allowed": 31
   },
   {
     "event_id": 401772937,
@@ -136,20 +144,20 @@
     "rushing_yards_allowed": 12
   },
   {
-    "event_id": 401772729,
-    "week": 2,
-    "team": "Broncos",
-    "opponent": "Colts",
-    "rushing_yards": 20,
-    "rushing_yards_allowed": 2
+    "event_id": 401772815,
+    "week": 6,
+    "team": "Bills",
+    "opponent": "Falcons",
+    "rushing_yards": 42,
+    "rushing_yards_allowed": 6
   },
   {
-    "event_id": 401772735,
-    "week": 3,
-    "team": "Broncos",
-    "opponent": "Chargers",
-    "rushing_yards": 33,
-    "rushing_yards_allowed": 6
+    "event_id": 401772865,
+    "week": 8,
+    "team": "Bills",
+    "opponent": "Panthers",
+    "rushing_yards": 7,
+    "rushing_yards_allowed": 1
   },
   {
     "event_id": 401772716,
@@ -168,12 +176,28 @@
     "rushing_yards_allowed": 3
   },
   {
-    "event_id": 401772829,
-    "week": 1,
-    "team": "Browns",
-    "opponent": "Bengals",
-    "rushing_yards": 6,
-    "rushing_yards_allowed": 3
+    "event_id": 401772634,
+    "week": 6,
+    "team": "Broncos",
+    "opponent": "Jets",
+    "rushing_yards": 24,
+    "rushing_yards_allowed": 31
+  },
+  {
+    "event_id": 401772757,
+    "week": 7,
+    "team": "Broncos",
+    "opponent": "Giants",
+    "rushing_yards": 48,
+    "rushing_yards_allowed": 11
+  },
+  {
+    "event_id": 401772762,
+    "week": 8,
+    "team": "Broncos",
+    "opponent": "Cowboys",
+    "rushing_yards": -2,
+    "rushing_yards_allowed": 31
   },
   {
     "event_id": 401772726,
@@ -197,23 +221,31 @@
     "team": "Browns",
     "opponent": "Vikings",
     "rushing_yards": 5,
-    "rushing_yards_allowed": -1
+    "rushing_yards_allowed": 12
   },
   {
-    "event_id": 401772830,
-    "week": 1,
-    "team": "Buccaneers",
-    "opponent": "Falcons",
-    "rushing_yards": 39,
-    "rushing_yards_allowed": 21
+    "event_id": 401772754,
+    "week": 7,
+    "team": "Browns",
+    "opponent": "Dolphins",
+    "rushing_yards": 12,
+    "rushing_yards_allowed": 6
   },
   {
-    "event_id": 401772715,
-    "week": 2,
+    "event_id": 401772868,
+    "week": 8,
+    "team": "Browns",
+    "opponent": "Patriots",
+    "rushing_yards": 13,
+    "rushing_yards_allowed": 50
+  },
+  {
+    "event_id": 401772840,
+    "week": 3,
     "team": "Buccaneers",
-    "opponent": "Texans",
-    "rushing_yards": 33,
-    "rushing_yards_allowed": 27
+    "opponent": "Jets",
+    "rushing_yards": 44,
+    "rushing_yards_allowed": 48
   },
   {
     "event_id": 401772845,
@@ -232,20 +264,20 @@
     "rushing_yards_allowed": 0
   },
   {
-    "event_id": 401772718,
-    "week": 1,
-    "team": "Cardinals",
-    "opponent": "Saints",
-    "rushing_yards": 38,
-    "rushing_yards_allowed": 29
+    "event_id": 401772749,
+    "week": 6,
+    "team": "Buccaneers",
+    "opponent": "49ers",
+    "rushing_yards": 14,
+    "rushing_yards_allowed": 13
   },
   {
-    "event_id": 401772730,
-    "week": 2,
-    "team": "Cardinals",
-    "opponent": "Panthers",
-    "rushing_yards": 34,
-    "rushing_yards_allowed": 2
+    "event_id": 401772816,
+    "week": 7,
+    "team": "Buccaneers",
+    "opponent": "Lions",
+    "rushing_yards": -1,
+    "rushing_yards_allowed": 7
   },
   {
     "event_id": 401772843,
@@ -272,20 +304,20 @@
     "rushing_yards_allowed": -6
   },
   {
-    "event_id": 401772714,
-    "week": 1,
-    "team": "Chargers",
-    "opponent": "Chiefs",
-    "rushing_yards": 32,
-    "rushing_yards_allowed": 57
+    "event_id": 401772856,
+    "week": 6,
+    "team": "Cardinals",
+    "opponent": "Colts",
+    "rushing_yards": 19,
+    "rushing_yards_allowed": 20
   },
   {
-    "event_id": 401772811,
-    "week": 2,
-    "team": "Chargers",
-    "opponent": "Raiders",
-    "rushing_yards": 31,
-    "rushing_yards_allowed": 20
+    "event_id": 401772863,
+    "week": 7,
+    "team": "Cardinals",
+    "opponent": "Packers",
+    "rushing_yards": 26,
+    "rushing_yards_allowed": 22
   },
   {
     "event_id": 401772735,
@@ -312,28 +344,20 @@
     "rushing_yards_allowed": 39
   },
   {
-    "event_id": 401772714,
-    "week": 1,
-    "team": "Chiefs",
-    "opponent": "Chargers",
-    "rushing_yards": 57,
-    "rushing_yards_allowed": 32
-  },
-  {
-    "event_id": 401772837,
-    "week": 2,
-    "team": "Chiefs",
-    "opponent": "Eagles",
-    "rushing_yards": 66,
-    "rushing_yards_allowed": 15
-  },
-  {
-    "event_id": 401772920,
-    "week": 3,
-    "team": "Chiefs",
-    "opponent": "Giants",
+    "event_id": 401772750,
+    "week": 6,
+    "team": "Chargers",
+    "opponent": "Dolphins",
     "rushing_yards": 2,
-    "rushing_yards_allowed": 30
+    "rushing_yards_allowed": 4
+  },
+  {
+    "event_id": 401772756,
+    "week": 7,
+    "team": "Chargers",
+    "opponent": "Colts",
+    "rushing_yards": 31,
+    "rushing_yards_allowed": 7
   },
   {
     "event_id": 401772741,
@@ -352,28 +376,28 @@
     "rushing_yards_allowed": 54
   },
   {
-    "event_id": 401772719,
-    "week": 1,
-    "team": "Colts",
-    "opponent": "Dolphins",
-    "rushing_yards": 26,
-    "rushing_yards_allowed": 10
+    "event_id": 401772923,
+    "week": 6,
+    "team": "Chiefs",
+    "opponent": "Lions",
+    "rushing_yards": 32,
+    "rushing_yards_allowed": 7
   },
   {
-    "event_id": 401772729,
-    "week": 2,
-    "team": "Colts",
-    "opponent": "Broncos",
-    "rushing_yards": 2,
-    "rushing_yards_allowed": 20
+    "event_id": 401772753,
+    "week": 7,
+    "team": "Chiefs",
+    "opponent": "Raiders",
+    "rushing_yards": 25,
+    "rushing_yards_allowed": 1
   },
   {
-    "event_id": 401772733,
-    "week": 3,
-    "team": "Colts",
-    "opponent": "Titans",
-    "rushing_yards": 26,
-    "rushing_yards_allowed": 12
+    "event_id": 401772817,
+    "week": 8,
+    "team": "Chiefs",
+    "opponent": "Commanders",
+    "rushing_yards": 30,
+    "rushing_yards_allowed": 28
   },
   {
     "event_id": 401772849,
@@ -392,20 +416,36 @@
     "rushing_yards_allowed": 8
   },
   {
-    "event_id": 401772827,
-    "week": 1,
-    "team": "Commanders",
-    "opponent": "Giants",
-    "rushing_yards": 68,
-    "rushing_yards_allowed": 44
+    "event_id": 401772856,
+    "week": 6,
+    "team": "Colts",
+    "opponent": "Cardinals",
+    "rushing_yards": 20,
+    "rushing_yards_allowed": 19
   },
   {
-    "event_id": 401772936,
-    "week": 2,
+    "event_id": 401772756,
+    "week": 7,
+    "team": "Colts",
+    "opponent": "Chargers",
+    "rushing_yards": 7,
+    "rushing_yards_allowed": 31
+  },
+  {
+    "event_id": 401772761,
+    "week": 8,
+    "team": "Colts",
+    "opponent": "Titans",
+    "rushing_yards": 4,
+    "rushing_yards_allowed": 4
+  },
+  {
+    "event_id": 401772739,
+    "week": 4,
     "team": "Commanders",
-    "opponent": "Packers",
-    "rushing_yards": 17,
-    "rushing_yards_allowed": 12
+    "opponent": "Falcons",
+    "rushing_yards": 20,
+    "rushing_yards_allowed": 2
   },
   {
     "event_id": 401772853,
@@ -416,20 +456,28 @@
     "rushing_yards_allowed": 71
   },
   {
-    "event_id": 401772510,
-    "week": 1,
-    "team": "Cowboys",
-    "opponent": "Eagles",
-    "rushing_yards": 3,
-    "rushing_yards_allowed": 62
+    "event_id": 401772717,
+    "week": 6,
+    "team": "Commanders",
+    "opponent": "Bears",
+    "rushing_yards": 52,
+    "rushing_yards_allowed": -2
   },
   {
-    "event_id": 401772834,
-    "week": 2,
-    "team": "Cowboys",
-    "opponent": "Giants",
-    "rushing_yards": 17,
-    "rushing_yards_allowed": 20
+    "event_id": 401772864,
+    "week": 7,
+    "team": "Commanders",
+    "opponent": "Cowboys",
+    "rushing_yards": 69,
+    "rushing_yards_allowed": 7
+  },
+  {
+    "event_id": 401772817,
+    "week": 8,
+    "team": "Commanders",
+    "opponent": "Chiefs",
+    "rushing_yards": 28,
+    "rushing_yards_allowed": 30
   },
   {
     "event_id": 401772921,
@@ -448,12 +496,28 @@
     "rushing_yards_allowed": 26
   },
   {
-    "event_id": 401772719,
-    "week": 1,
-    "team": "Dolphins",
-    "opponent": "Colts",
-    "rushing_yards": 10,
-    "rushing_yards_allowed": 26
+    "event_id": 401772858,
+    "week": 6,
+    "team": "Cowboys",
+    "opponent": "Panthers",
+    "rushing_yards": -1,
+    "rushing_yards_allowed": 5
+  },
+  {
+    "event_id": 401772864,
+    "week": 7,
+    "team": "Cowboys",
+    "opponent": "Commanders",
+    "rushing_yards": 7,
+    "rushing_yards_allowed": 69
+  },
+  {
+    "event_id": 401772762,
+    "week": 8,
+    "team": "Cowboys",
+    "opponent": "Broncos",
+    "rushing_yards": 31,
+    "rushing_yards_allowed": -2
   },
   {
     "event_id": 401772937,
@@ -480,20 +544,20 @@
     "rushing_yards_allowed": 1
   },
   {
-    "event_id": 401772510,
-    "week": 1,
-    "team": "Eagles",
-    "opponent": "Cowboys",
-    "rushing_yards": 62,
-    "rushing_yards_allowed": 3
+    "event_id": 401772750,
+    "week": 6,
+    "team": "Dolphins",
+    "opponent": "Chargers",
+    "rushing_yards": 4,
+    "rushing_yards_allowed": 2
   },
   {
-    "event_id": 401772837,
-    "week": 2,
-    "team": "Eagles",
-    "opponent": "Chiefs",
-    "rushing_yards": 15,
-    "rushing_yards_allowed": 66
+    "event_id": 401772754,
+    "week": 7,
+    "team": "Dolphins",
+    "opponent": "Browns",
+    "rushing_yards": 6,
+    "rushing_yards_allowed": 12
   },
   {
     "event_id": 401772845,
@@ -520,12 +584,20 @@
     "rushing_yards_allowed": 58
   },
   {
-    "event_id": 401772830,
-    "week": 1,
-    "team": "Falcons",
-    "opponent": "Buccaneers",
-    "rushing_yards": 21,
-    "rushing_yards_allowed": 39
+    "event_id": 401772862,
+    "week": 7,
+    "team": "Eagles",
+    "opponent": "Vikings",
+    "rushing_yards": -10,
+    "rushing_yards_allowed": 28
+  },
+  {
+    "event_id": 401772867,
+    "week": 8,
+    "team": "Eagles",
+    "opponent": "Giants",
+    "rushing_yards": 20,
+    "rushing_yards_allowed": 17
   },
   {
     "event_id": 401772919,
@@ -544,20 +616,28 @@
     "rushing_yards_allowed": 7
   },
   {
-    "event_id": 401772834,
-    "week": 2,
-    "team": "Giants",
-    "opponent": "Cowboys",
-    "rushing_yards": 20,
-    "rushing_yards_allowed": 17
+    "event_id": 401772739,
+    "week": 4,
+    "team": "Falcons",
+    "opponent": "Commanders",
+    "rushing_yards": 2,
+    "rushing_yards_allowed": 20
   },
   {
-    "event_id": 401772920,
-    "week": 3,
-    "team": "Giants",
-    "opponent": "Chiefs",
-    "rushing_yards": 30,
-    "rushing_yards_allowed": 2
+    "event_id": 401772815,
+    "week": 6,
+    "team": "Falcons",
+    "opponent": "Bills",
+    "rushing_yards": 6,
+    "rushing_yards_allowed": 42
+  },
+  {
+    "event_id": 401772924,
+    "week": 7,
+    "team": "Falcons",
+    "opponent": "49ers",
+    "rushing_yards": 6,
+    "rushing_yards_allowed": 11
   },
   {
     "event_id": 401772737,
@@ -573,7 +653,7 @@
     "team": "Giants",
     "opponent": "Saints",
     "rushing_yards": 55,
-    "rushing_yards_allowed": 21
+    "rushing_yards_allowed": 20
   },
   {
     "event_id": 401772940,
@@ -584,20 +664,20 @@
     "rushing_yards_allowed": 13
   },
   {
-    "event_id": 401772828,
-    "week": 1,
-    "team": "Jaguars",
-    "opponent": "Panthers",
-    "rushing_yards": 12,
-    "rushing_yards_allowed": 40
+    "event_id": 401772757,
+    "week": 7,
+    "team": "Giants",
+    "opponent": "Broncos",
+    "rushing_yards": 11,
+    "rushing_yards_allowed": 48
   },
   {
-    "event_id": 401772725,
-    "week": 2,
-    "team": "Jaguars",
-    "opponent": "Bengals",
-    "rushing_yards": 4,
-    "rushing_yards_allowed": 1
+    "event_id": 401772867,
+    "week": 8,
+    "team": "Giants",
+    "opponent": "Eagles",
+    "rushing_yards": 17,
+    "rushing_yards_allowed": 20
   },
   {
     "event_id": 401772734,
@@ -624,20 +704,20 @@
     "rushing_yards_allowed": 60
   },
   {
-    "event_id": 401772721,
-    "week": 1,
-    "team": "Jets",
-    "opponent": "Steelers",
-    "rushing_yards": 48,
-    "rushing_yards_allowed": -1
+    "event_id": 401772857,
+    "week": 6,
+    "team": "Jaguars",
+    "opponent": "Seahawks",
+    "rushing_yards": 9,
+    "rushing_yards_allowed": 2
   },
   {
-    "event_id": 401772727,
-    "week": 2,
-    "team": "Jets",
-    "opponent": "Bills",
-    "rushing_yards": 49,
-    "rushing_yards_allowed": 56
+    "event_id": 401772635,
+    "week": 7,
+    "team": "Jaguars",
+    "opponent": "Rams",
+    "rushing_yards": 18,
+    "rushing_yards_allowed": -2
   },
   {
     "event_id": 401772813,
@@ -656,12 +736,28 @@
     "rushing_yards_allowed": 28
   },
   {
-    "event_id": 401772835,
-    "week": 2,
-    "team": "Lions",
-    "opponent": "Bears",
-    "rushing_yards": 6,
-    "rushing_yards_allowed": 34
+    "event_id": 401772634,
+    "week": 6,
+    "team": "Jets",
+    "opponent": "Broncos",
+    "rushing_yards": 31,
+    "rushing_yards_allowed": 24
+  },
+  {
+    "event_id": 401772860,
+    "week": 7,
+    "team": "Jets",
+    "opponent": "Panthers",
+    "rushing_yards": 33,
+    "rushing_yards_allowed": 8
+  },
+  {
+    "event_id": 401772758,
+    "week": 8,
+    "team": "Jets",
+    "opponent": "Bengals",
+    "rushing_yards": 31,
+    "rushing_yards_allowed": 14
   },
   {
     "event_id": 401772812,
@@ -688,6 +784,22 @@
     "rushing_yards_allowed": 31
   },
   {
+    "event_id": 401772923,
+    "week": 6,
+    "team": "Lions",
+    "opponent": "Chiefs",
+    "rushing_yards": 7,
+    "rushing_yards_allowed": 32
+  },
+  {
+    "event_id": 401772816,
+    "week": 7,
+    "team": "Lions",
+    "opponent": "Buccaneers",
+    "rushing_yards": 7,
+    "rushing_yards_allowed": -1
+  },
+  {
     "event_id": 401772936,
     "week": 2,
     "team": "Packers",
@@ -704,28 +816,12 @@
     "rushing_yards_allowed": 2
   },
   {
-    "event_id": 401772828,
-    "week": 1,
-    "team": "Panthers",
-    "opponent": "Jaguars",
-    "rushing_yards": 40,
-    "rushing_yards_allowed": 12
-  },
-  {
-    "event_id": 401772730,
-    "week": 2,
-    "team": "Panthers",
+    "event_id": 401772863,
+    "week": 7,
+    "team": "Packers",
     "opponent": "Cardinals",
-    "rushing_yards": 2,
-    "rushing_yards_allowed": 34
-  },
-  {
-    "event_id": 401772838,
-    "week": 3,
-    "team": "Panthers",
-    "opponent": "Falcons",
-    "rushing_yards": 7,
-    "rushing_yards_allowed": 9
+    "rushing_yards": 22,
+    "rushing_yards_allowed": 26
   },
   {
     "event_id": 401772847,
@@ -744,12 +840,28 @@
     "rushing_yards_allowed": 5
   },
   {
-    "event_id": 401772720,
-    "week": 1,
-    "team": "Patriots",
-    "opponent": "Raiders",
-    "rushing_yards": 11,
-    "rushing_yards_allowed": 10
+    "event_id": 401772858,
+    "week": 6,
+    "team": "Panthers",
+    "opponent": "Cowboys",
+    "rushing_yards": 5,
+    "rushing_yards_allowed": -1
+  },
+  {
+    "event_id": 401772860,
+    "week": 7,
+    "team": "Panthers",
+    "opponent": "Jets",
+    "rushing_yards": 8,
+    "rushing_yards_allowed": 33
+  },
+  {
+    "event_id": 401772865,
+    "week": 8,
+    "team": "Panthers",
+    "opponent": "Bills",
+    "rushing_yards": 1,
+    "rushing_yards_allowed": 7
   },
   {
     "event_id": 401772732,
@@ -776,12 +888,20 @@
     "rushing_yards_allowed": 53
   },
   {
-    "event_id": 401772720,
-    "week": 1,
-    "team": "Raiders",
-    "opponent": "Patriots",
-    "rushing_yards": 10,
-    "rushing_yards_allowed": 11
+    "event_id": 401772751,
+    "week": 6,
+    "team": "Patriots",
+    "opponent": "Saints",
+    "rushing_yards": 28,
+    "rushing_yards_allowed": 21
+  },
+  {
+    "event_id": 401772868,
+    "week": 8,
+    "team": "Patriots",
+    "opponent": "Browns",
+    "rushing_yards": 50,
+    "rushing_yards_allowed": 13
   },
   {
     "event_id": 401772811,
@@ -790,6 +910,14 @@
     "opponent": "Chargers",
     "rushing_yards": 20,
     "rushing_yards_allowed": 31
+  },
+  {
+    "event_id": 401772841,
+    "week": 3,
+    "team": "Raiders",
+    "opponent": "Commanders",
+    "rushing_yards": 5,
+    "rushing_yards_allowed": 40
   },
   {
     "event_id": 401772742,
@@ -808,12 +936,12 @@
     "rushing_yards_allowed": 2
   },
   {
-    "event_id": 401772723,
-    "week": 1,
-    "team": "Rams",
-    "opponent": "Texans",
-    "rushing_yards": -2,
-    "rushing_yards_allowed": 32
+    "event_id": 401772753,
+    "week": 7,
+    "team": "Raiders",
+    "opponent": "Chiefs",
+    "rushing_yards": 1,
+    "rushing_yards_allowed": 25
   },
   {
     "event_id": 401772724,
@@ -840,12 +968,20 @@
     "rushing_yards_allowed": 5
   },
   {
-    "event_id": 401772918,
-    "week": 1,
-    "team": "Ravens",
-    "opponent": "Bills",
-    "rushing_yards": 70,
-    "rushing_yards_allowed": 30
+    "event_id": 401772855,
+    "week": 6,
+    "team": "Rams",
+    "opponent": "Ravens",
+    "rushing_yards": 1,
+    "rushing_yards_allowed": 39
+  },
+  {
+    "event_id": 401772635,
+    "week": 7,
+    "team": "Rams",
+    "opponent": "Jaguars",
+    "rushing_yards": -2,
+    "rushing_yards_allowed": 18
   },
   {
     "event_id": 401772726,
@@ -872,20 +1008,20 @@
     "rushing_yards_allowed": 2
   },
   {
-    "event_id": 401772718,
-    "week": 1,
-    "team": "Saints",
-    "opponent": "Cardinals",
-    "rushing_yards": 29,
-    "rushing_yards_allowed": 38
+    "event_id": 401772855,
+    "week": 6,
+    "team": "Ravens",
+    "opponent": "Rams",
+    "rushing_yards": 39,
+    "rushing_yards_allowed": 1
   },
   {
-    "event_id": 401772833,
-    "week": 2,
-    "team": "Saints",
-    "opponent": "49ers",
-    "rushing_yards": 14,
-    "rushing_yards_allowed": 6
+    "event_id": 401772759,
+    "week": 8,
+    "team": "Ravens",
+    "opponent": "Bears",
+    "rushing_yards": 53,
+    "rushing_yards_allowed": 24
   },
   {
     "event_id": 401772736,
@@ -908,16 +1044,24 @@
     "week": 5,
     "team": "Saints",
     "opponent": "Giants",
-    "rushing_yards": 21,
+    "rushing_yards": 20,
     "rushing_yards_allowed": 55
   },
   {
-    "event_id": 401772831,
-    "week": 1,
-    "team": "Seahawks",
-    "opponent": "49ers",
-    "rushing_yards": 15,
-    "rushing_yards_allowed": 17
+    "event_id": 401772751,
+    "week": 6,
+    "team": "Saints",
+    "opponent": "Patriots",
+    "rushing_yards": 21,
+    "rushing_yards_allowed": 28
+  },
+  {
+    "event_id": 401772861,
+    "week": 7,
+    "team": "Saints",
+    "opponent": "Bears",
+    "rushing_yards": 8,
+    "rushing_yards_allowed": -2
   },
   {
     "event_id": 401772736,
@@ -944,6 +1088,22 @@
     "rushing_yards_allowed": 15
   },
   {
+    "event_id": 401772857,
+    "week": 6,
+    "team": "Seahawks",
+    "opponent": "Jaguars",
+    "rushing_yards": 2,
+    "rushing_yards_allowed": 9
+  },
+  {
+    "event_id": 401772826,
+    "week": 7,
+    "team": "Seahawks",
+    "opponent": "Texans",
+    "rushing_yards": 1,
+    "rushing_yards_allowed": 25
+  },
+  {
     "event_id": 401772721,
     "week": 1,
     "team": "Steelers",
@@ -960,12 +1120,20 @@
     "rushing_yards_allowed": 45
   },
   {
-    "event_id": 401772723,
-    "week": 1,
-    "team": "Texans",
-    "opponent": "Rams",
-    "rushing_yards": 32,
-    "rushing_yards_allowed": -2
+    "event_id": 401772632,
+    "week": 4,
+    "team": "Steelers",
+    "opponent": "Vikings",
+    "rushing_yards": 8,
+    "rushing_yards_allowed": 12
+  },
+  {
+    "event_id": 401772941,
+    "week": 7,
+    "team": "Steelers",
+    "opponent": "Bengals",
+    "rushing_yards": 6,
+    "rushing_yards_allowed": 3
   },
   {
     "event_id": 401772715,
@@ -990,6 +1158,22 @@
     "opponent": "Titans",
     "rushing_yards": 11,
     "rushing_yards_allowed": 22
+  },
+  {
+    "event_id": 401772826,
+    "week": 7,
+    "team": "Texans",
+    "opponent": "Seahawks",
+    "rushing_yards": 25,
+    "rushing_yards_allowed": 1
+  },
+  {
+    "event_id": 401772866,
+    "week": 8,
+    "team": "Texans",
+    "opponent": "49ers",
+    "rushing_yards": 30,
+    "rushing_yards_allowed": 23
   },
   {
     "event_id": 401772724,
@@ -1024,12 +1208,12 @@
     "rushing_yards_allowed": 25
   },
   {
-    "event_id": 401772810,
-    "week": 1,
-    "team": "Vikings",
-    "opponent": "Bears",
-    "rushing_yards": 25,
-    "rushing_yards_allowed": 58
+    "event_id": 401772761,
+    "week": 8,
+    "team": "Titans",
+    "opponent": "Colts",
+    "rushing_yards": 4,
+    "rushing_yards_allowed": 4
   },
   {
     "event_id": 401772919,
@@ -1040,11 +1224,35 @@
     "rushing_yards_allowed": -1
   },
   {
+    "event_id": 401772731,
+    "week": 3,
+    "team": "Vikings",
+    "opponent": "Bengals",
+    "rushing_yards": 4,
+    "rushing_yards_allowed": 3
+  },
+  {
+    "event_id": 401772632,
+    "week": 4,
+    "team": "Vikings",
+    "opponent": "Steelers",
+    "rushing_yards": 12,
+    "rushing_yards_allowed": 8
+  },
+  {
     "event_id": 401772633,
     "week": 5,
     "team": "Vikings",
     "opponent": "Browns",
-    "rushing_yards": -1,
+    "rushing_yards": 12,
     "rushing_yards_allowed": 5
+  },
+  {
+    "event_id": 401772862,
+    "week": 7,
+    "team": "Vikings",
+    "opponent": "Eagles",
+    "rushing_yards": 28,
+    "rushing_yards_allowed": -10
   }
 ]

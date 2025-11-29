@@ -1,282 +1,282 @@
 [
   {
-    "player": "Jake Ferguson",
-    "team": "Dallas Cowboys",
-    "opponent": "Panthers",
-    "metric": 32.1,
-    "position": "TE"
-  },
-  {
-    "player": "David Njoku",
-    "team": "Cleveland Browns",
-    "opponent": "Steelers",
-    "metric": 28.1,
-    "position": "TE"
-  },
-  {
-    "player": "Mason Taylor",
-    "team": "New York Jets",
-    "opponent": "Broncos",
-    "metric": 27.3,
-    "position": "TE"
-  },
-  {
-    "player": "Sam LaPorta",
-    "team": "Detroit Lions",
-    "opponent": "Chiefs",
-    "metric": 26.1,
-    "position": "TE"
-  },
-  {
     "player": "Trey McBride",
     "team": "Arizona Cardinals",
-    "opponent": "Colts",
-    "metric": 23.3,
-    "position": "TE"
-  },
-  {
-    "player": "Jake Tonges",
-    "team": "San Francisco 49ers",
-    "opponent": "Buccaneers",
-    "metric": 22.9,
-    "position": "TE"
-  },
-  {
-    "player": "AJ Barner",
-    "team": "Seattle Seahawks",
-    "opponent": "Jaguars",
-    "metric": 20.6,
-    "position": "TE"
-  },
-  {
-    "player": "Dalton Kincaid",
-    "team": "Buffalo Bills",
-    "opponent": "Falcons",
-    "metric": 20.0,
-    "position": "TE"
-  },
-  {
-    "player": "Travis Kelce",
-    "team": "Kansas City Chiefs",
-    "opponent": "Lions",
-    "metric": 20.0,
-    "position": "TE"
-  },
-  {
-    "player": "Albert Okwuegbunam Jr.",
-    "team": "Las Vegas Raiders",
-    "opponent": "Titans",
-    "metric": 16.7,
-    "position": "TE"
-  },
-  {
-    "player": "Evan Engram",
-    "team": "Denver Broncos",
-    "opponent": "Jets",
-    "metric": 16.7,
-    "position": "TE"
-  },
-  {
-    "player": "Cade Otton",
-    "team": "Tampa Bay Buccaneers",
-    "opponent": "49ers",
-    "metric": 15.6,
-    "position": "TE"
-  },
-  {
-    "player": "Mark Andrews",
-    "team": "Baltimore Ravens",
-    "opponent": "Rams",
-    "metric": 15.0,
-    "position": "TE"
-  },
-  {
-    "player": "Hunter Henry",
-    "team": "New England Patriots",
-    "opponent": "Saints",
-    "metric": 14.3,
-    "position": "TE"
-  },
-  {
-    "player": "Chig Okonkwo",
-    "team": "Tennessee Titans",
-    "opponent": "Raiders",
-    "metric": 13.5,
-    "position": "TE"
-  },
-  {
-    "player": "Gunnar Helm",
-    "team": "Tennessee Titans",
-    "opponent": "Raiders",
-    "metric": 13.5,
-    "position": "TE"
-  },
-  {
-    "player": "Juwan Johnson",
-    "team": "New Orleans Saints",
-    "opponent": "Patriots",
-    "metric": 12.9,
-    "position": "TE"
-  },
-  {
-    "player": "Tyler Warren",
-    "team": "Indianapolis Colts",
-    "opponent": "Cardinals",
-    "metric": 12.9,
-    "position": "TE"
-  },
-  {
-    "player": "Harold Fannin Jr.",
-    "team": "Cleveland Browns",
-    "opponent": "Steelers",
-    "metric": 12.5,
-    "position": "TE"
-  },
-  {
-    "player": "Mike Gesicki",
-    "team": "Cincinnati Bengals",
-    "opponent": "Packers",
-    "metric": 12.5,
-    "position": "TE"
-  },
-  {
-    "player": "Tyler Conklin",
-    "team": "Los Angeles Chargers",
-    "opponent": "Dolphins",
-    "metric": 9.4,
-    "position": "TE"
-  },
-  {
-    "player": "Jeremy Ruckert",
-    "team": "New York Jets",
-    "opponent": "Broncos",
-    "metric": 9.1,
-    "position": "TE"
-  },
-  {
-    "player": "Ian Thomas",
-    "team": "Las Vegas Raiders",
-    "opponent": "Titans",
-    "metric": 8.3,
-    "position": "TE"
-  },
-  {
-    "player": "Tommy Tremble",
-    "team": "Carolina Panthers",
     "opponent": "Cowboys",
-    "metric": 7.4,
+    "metric": 38.2,
     "position": "TE"
   },
   {
-    "player": "Luke Schoonmaker",
-    "team": "Dallas Cowboys",
+    "player": "Tucker Kraft",
+    "team": "Green Bay Packers",
     "opponent": "Panthers",
-    "metric": 7.1,
+    "metric": 30.7,
     "position": "TE"
   },
   {
-    "player": "Dawson Knox",
-    "team": "Buffalo Bills",
-    "opponent": "Falcons",
-    "metric": 6.7,
-    "position": "TE"
-  },
-  {
-    "player": "Elijah Higgins",
-    "team": "Arizona Cardinals",
-    "opponent": "Colts",
-    "metric": 6.7,
-    "position": "TE"
-  },
-  {
-    "player": "Tanner Conner",
-    "team": "Miami Dolphins",
-    "opponent": "Chargers",
-    "metric": 5.9,
-    "position": "TE"
-  },
-  {
-    "player": "Charlie Kolar",
-    "team": "Baltimore Ravens",
-    "opponent": "Rams",
-    "metric": 5.0,
-    "position": "TE"
-  },
-  {
-    "player": "Zaire Mitchell-Paden",
-    "team": "Baltimore Ravens",
-    "opponent": "Rams",
-    "metric": 5.0,
-    "position": "TE"
-  },
-  {
-    "player": "Davis Allen",
-    "team": "Los Angeles Rams",
-    "opponent": "Ravens",
-    "metric": 4.3,
+    "player": "Kyle Pitts Sr.",
+    "team": "Atlanta Falcons",
+    "opponent": "Patriots",
+    "metric": 28.9,
     "position": "TE"
   },
   {
     "player": "Zach Ertz",
     "team": "Washington Commanders",
-    "opponent": "Bears",
-    "metric": 4.3,
-    "position": "TE"
-  },
-  {
-    "player": "Luke Farrell",
-    "team": "San Francisco 49ers",
-    "opponent": "Buccaneers",
-    "metric": 4.2,
-    "position": "TE"
-  },
-  {
-    "player": "Brenton Strange",
-    "team": "Jacksonville Jaguars",
     "opponent": "Seahawks",
-    "metric": 4.0,
+    "metric": 21.3,
     "position": "TE"
   },
   {
-    "player": "Hunter Long",
-    "team": "Jacksonville Jaguars",
-    "opponent": "Seahawks",
-    "metric": 4.0,
+    "player": "Theo Johnson",
+    "team": "New York Giants",
+    "opponent": "49ers",
+    "metric": 19.7,
     "position": "TE"
   },
   {
-    "player": "Johnny Mundt",
-    "team": "Jacksonville Jaguars",
-    "opponent": "Seahawks",
-    "metric": 4.0,
-    "position": "TE"
-  },
-  {
-    "player": "James Mitchell",
-    "team": "Carolina Panthers",
-    "opponent": "Cowboys",
-    "metric": 3.7,
-    "position": "TE"
-  },
-  {
-    "player": "Mitchell Evans",
-    "team": "Carolina Panthers",
-    "opponent": "Cowboys",
-    "metric": 3.7,
-    "position": "TE"
-  },
-  {
-    "player": "Tip Reiman",
-    "team": "Arizona Cardinals",
-    "opponent": "Colts",
-    "metric": 3.3,
+    "player": "Juwan Johnson",
+    "team": "New Orleans Saints",
+    "opponent": "Rams",
+    "metric": 19.3,
     "position": "TE"
   },
   {
     "player": "Oronde Gadsden II",
     "team": "Los Angeles Chargers",
+    "opponent": "Titans",
+    "metric": 18.8,
+    "position": "TE"
+  },
+  {
+    "player": "Tyler Higbee",
+    "team": "Los Angeles Rams",
+    "opponent": "Saints",
+    "metric": 18.2,
+    "position": "TE"
+  },
+  {
+    "player": "Elijah Arroyo",
+    "team": "Seattle Seahawks",
+    "opponent": "Commanders",
+    "metric": 17.2,
+    "position": "TE"
+  },
+  {
+    "player": "Travis Kelce",
+    "team": "Kansas City Chiefs",
+    "opponent": "Bills",
+    "metric": 16.9,
+    "position": "TE"
+  },
+  {
+    "player": "Tyler Warren",
+    "team": "Indianapolis Colts",
+    "opponent": "Steelers",
+    "metric": 16.7,
+    "position": "TE"
+  },
+  {
+    "player": "T.J. Hockenson",
+    "team": "Minnesota Vikings",
+    "opponent": "Lions",
+    "metric": 16.3,
+    "position": "TE"
+  },
+  {
+    "player": "Evan Engram",
+    "team": "Denver Broncos",
+    "opponent": "Texans",
+    "metric": 15.6,
+    "position": "TE"
+  },
+  {
+    "player": "Pat Freiermuth",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Colts",
+    "metric": 15.3,
+    "position": "TE"
+  },
+  {
+    "player": "Darnell Washington",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Colts",
+    "metric": 15.2,
+    "position": "TE"
+  },
+  {
+    "player": "Colston Loveland",
+    "team": "Chicago Bears",
+    "opponent": "Bengals",
+    "metric": 15.1,
+    "position": "TE"
+  },
+  {
+    "player": "Dalton Schultz",
+    "team": "Houston Texans",
+    "opponent": "Broncos",
+    "metric": 14.8,
+    "position": "TE"
+  },
+  {
+    "player": "Jonnu Smith",
+    "team": "Pittsburgh Steelers",
+    "opponent": "Colts",
+    "metric": 13.8,
+    "position": "TE"
+  },
+  {
+    "player": "Mark Andrews",
+    "team": "Baltimore Ravens",
     "opponent": "Dolphins",
-    "metric": 3.1,
+    "metric": 13.6,
+    "position": "TE"
+  },
+  {
+    "player": "Jake Ferguson",
+    "team": "Dallas Cowboys",
+    "opponent": "Cardinals",
+    "metric": 13.1,
+    "position": "TE"
+  },
+  {
+    "player": "Dalton Kincaid",
+    "team": "Buffalo Bills",
+    "opponent": "Chiefs",
+    "metric": 13.0,
+    "position": "TE"
+  },
+  {
+    "player": "Jackson Hawes",
+    "team": "Buffalo Bills",
+    "opponent": "Chiefs",
+    "metric": 13.0,
+    "position": "TE"
+  },
+  {
+    "player": "Hunter Henry",
+    "team": "New England Patriots",
+    "opponent": "Falcons",
+    "metric": 12.6,
+    "position": "TE"
+  },
+  {
+    "player": "George Kittle",
+    "team": "San Francisco 49ers",
+    "opponent": "Giants",
+    "metric": 12.2,
+    "position": "TE"
+  },
+  {
+    "player": "Gunnar Helm",
+    "team": "Tennessee Titans",
+    "opponent": "Chargers",
+    "metric": 11.9,
+    "position": "TE"
+  },
+  {
+    "player": "Michael Mayer",
+    "team": "Las Vegas Raiders",
+    "opponent": "Jaguars",
+    "metric": 11.8,
+    "position": "TE"
+  },
+  {
+    "player": "Brock Wright",
+    "team": "Detroit Lions",
+    "opponent": "Vikings",
+    "metric": 10.7,
+    "position": "TE"
+  },
+  {
+    "player": "Sam LaPorta",
+    "team": "Detroit Lions",
+    "opponent": "Vikings",
+    "metric": 10.7,
+    "position": "TE"
+  },
+  {
+    "player": "AJ Barner",
+    "team": "Seattle Seahawks",
+    "opponent": "Commanders",
+    "metric": 10.3,
+    "position": "TE"
+  },
+  {
+    "player": "Chig Okonkwo",
+    "team": "Tennessee Titans",
+    "opponent": "Chargers",
+    "metric": 9.9,
+    "position": "TE"
+  },
+  {
+    "player": "Ja'Tavion Sanders",
+    "team": "Carolina Panthers",
+    "opponent": "Packers",
+    "metric": 9.7,
+    "position": "TE"
+  },
+  {
+    "player": "Mitchell Evans",
+    "team": "Carolina Panthers",
+    "opponent": "Packers",
+    "metric": 9.7,
+    "position": "TE"
+  },
+  {
+    "player": "Colby Parkinson",
+    "team": "Los Angeles Rams",
+    "opponent": "Saints",
+    "metric": 9.1,
+    "position": "TE"
+  },
+  {
+    "player": "Isaiah Likely",
+    "team": "Baltimore Ravens",
+    "opponent": "Dolphins",
+    "metric": 9.1,
+    "position": "TE"
+  },
+  {
+    "player": "Terrance Ferguson",
+    "team": "Los Angeles Rams",
+    "opponent": "Saints",
+    "metric": 9.1,
+    "position": "TE"
+  },
+  {
+    "player": "Noah Fant",
+    "team": "Cincinnati Bengals",
+    "opponent": "Bears",
+    "metric": 9.0,
+    "position": "TE"
+  },
+  {
+    "player": "Tanner Conner",
+    "team": "Miami Dolphins",
+    "opponent": "Ravens",
+    "metric": 8.7,
+    "position": "TE"
+  },
+  {
+    "player": "Luke Schoonmaker",
+    "team": "Dallas Cowboys",
+    "opponent": "Cardinals",
+    "metric": 8.6,
+    "position": "TE"
+  },
+  {
+    "player": "Austin Hooper",
+    "team": "New England Patriots",
+    "opponent": "Falcons",
+    "metric": 8.5,
+    "position": "TE"
+  },
+  {
+    "player": "Johnny Mundt",
+    "team": "Jacksonville Jaguars",
+    "opponent": "Raiders",
+    "metric": 8.5,
     "position": "TE"
   }
 ]
